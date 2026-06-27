@@ -33,11 +33,11 @@ We are a coalition of early-career scientists dedicated to mobilizing for large-
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br></i>
 <div style="display: flex; gap: 0.25em; align-items: flex-start; flex-wrap: wrap;">
-  {% if member.website %}<a href="{{ member.website }}" target="_blank"><i class="fa-solid fa-link fa-2x"></i></a>{% endif %}
-  {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa-solid fa-envelope fa-2x"></i></a>{% endif %}
-  {% if member.bluesky %}<a href="https://bsky.app/profile/{{ member.bluesky }}" target="_blank"><i class="fa-brands fa-bluesky fa-2x"></i></a>{% endif %}
-  {% if member.instagram %}<a href="https://www.instagram.com/{{ member.instagram }}" target="_blank"><i class="fa-brands fa-instagram fa-2x"></i></a>{% endif %}
-  {% if member.linkedin %}<a href="https://www.linkedin.com/company/{{ member.linkedin }}/" target="_blank"><i class="fa-brands fa-linkedin fa-2x"></i></a>{% endif %}
+  {% if member.website %}<a href="{{ member.website }}" target="_blank" rel="noopener" aria-label="{{ member.name }} website" title="{{ member.name }} website"><i class="fa-solid fa-globe fa-2x" aria-hidden="true"></i></a>{% endif %}
+  {% if member.email %}<a href="mailto:{{ member.email }}" aria-label="Email {{ member.name }}" title="Email {{ member.name }}"><i class="fa-solid fa-envelope fa-2x" aria-hidden="true"></i></a>{% endif %}
+  {% if member.bluesky %}<a href="https://bsky.app/profile/{{ member.bluesky }}" target="_blank" rel="noopener" aria-label="{{ member.name }} on Bluesky" title="{{ member.name }} on Bluesky"><i class="fa-brands fa-bluesky fa-2x" aria-hidden="true"></i></a>{% endif %}
+  {% if member.instagram %}<a href="https://www.instagram.com/{{ member.instagram }}" target="_blank" rel="noopener" aria-label="{{ member.name }} on Instagram" title="{{ member.name }} on Instagram"><i class="fa-brands fa-instagram fa-2x" aria-hidden="true"></i></a>{% endif %}
+  {% if member.linkedin %}<a href="https://www.linkedin.com/company/{{ member.linkedin }}/" target="_blank" rel="noopener" aria-label="{{ member.name }} on LinkedIn" title="{{ member.name }} on LinkedIn"><i class="fa-brands fa-linkedin fa-2x" aria-hidden="true"></i></a>{% endif %}
 </div>
 
 </div>
