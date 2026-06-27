@@ -3,11 +3,11 @@
   {% for member in site.data.snap %}
     <center>
     <div style="margin-bottom:5px">
-    {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa-solid fa-envelope fa-2x"></i></a> {% endif %}
-    {% if member.bluesky %} <a href="{{ member.bluesky }}" target="_blank"><i class="fa-brands fa-bluesky fa-2x"></i></a> {% endif %}
-    {% if member.instagram %} <a href="{{ member.instagram }}" target="_blank"><i class="fa-brands fa-instagram fa-2x"></i></a> {% endif %}
-    {% if member.linkedin %} <a href="{{ member.linkedin }}" target="_blank"><i class="fa-brands fa-linkedin fa-2x"></i></a> {% endif %}
-    {% if member.medium %} <a href="{{ member.medium }}" target="_blank"><i class="fa-brands fa-medium fa-2x"></i></a> {% endif %}
+    {% if member.email %}<a href="mailto:{{ member.email }}" aria-label="Email SNAP" title="Email SNAP"><i class="fa-solid fa-envelope fa-2x" aria-hidden="true"></i></a> {% endif %}
+    {% if member.bluesky %} <a href="{{ member.bluesky }}" target="_blank" rel="noopener" aria-label="SNAP on Bluesky" title="SNAP on Bluesky"><i class="fa-brands fa-bluesky fa-2x" aria-hidden="true"></i></a> {% endif %}
+    {% if member.instagram %} <a href="{{ member.instagram }}" target="_blank" rel="noopener" aria-label="SNAP on Instagram" title="SNAP on Instagram"><i class="fa-brands fa-instagram fa-2x" aria-hidden="true"></i></a> {% endif %}
+    {% if member.linkedin %} <a href="{{ member.linkedin }}" target="_blank" rel="noopener" aria-label="SNAP on LinkedIn" title="SNAP on LinkedIn"><i class="fa-brands fa-linkedin fa-2x" aria-hidden="true"></i></a> {% endif %}
+    {% if member.medium %} <a href="{{ member.medium }}" target="_blank" rel="noopener" aria-label="SNAP on Medium" title="SNAP on Medium"><i class="fa-brands fa-medium fa-2x" aria-hidden="true"></i></a> {% endif %}
   </div>
   </center>
 {% endfor %}
