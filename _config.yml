@@ -12,8 +12,8 @@ tagline: >
   <b><i>Early-career researchers bridging science and community.</i></b>
 
 contact: >
-  <a href="mailto:snapscipolorg@gmail.com" target="_blank"><i class="fa-solid fa-envelope fa-1x"></i> <b>Send SNAP an Email</b></a> <br/>
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSclm6qDeLHbwRk4QPuZR34x77xx5dlKz3tHuHitBdWAiWe5vg/viewform?usp=header"><i class="fa-solid fa-link fa-1x"></i> <b>Complete the Interest Form</b></a>
+  <a href="mailto:snapscipolorg@gmail.com" aria-label="Email SNAP"><i class="fa-solid fa-envelope fa-1x" aria-hidden="true"></i> <b>Send SNAP an Email</b></a> <br/>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSclm6qDeLHbwRk4QPuZR34x77xx5dlKz3tHuHitBdWAiWe5vg/viewform?usp=header" target="_blank" rel="noopener" aria-label="Complete the SNAP interest form"><i class="fa-solid fa-link fa-1x" aria-hidden="true"></i> <b>Complete the Interest Form</b></a>
 
 # Pages shown in navbar
 nav_pages:
