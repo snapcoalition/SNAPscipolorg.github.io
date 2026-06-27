@@ -3,7 +3,10 @@ scripts/
 tags
 _site/
 .jekyll-cache/
+.jekyll-metadata
 .sass-cache/
 .DS_Store
 package-lock.json
 node_modules/
+vendor/bundle/
+.bundle/
