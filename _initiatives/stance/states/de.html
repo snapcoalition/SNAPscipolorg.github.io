@@ -1,0 +1,176 @@
+---
+layout: gridlay
+collection: initiatives
+sitemap: true
+state: de
+state_name: Delaware
+demonym_plural: Delawareans
+team_email: de.stanceonscience@gmail.com
+ballot_lookup_url: https://elections.delaware.gov/index.html
+ballot_lookup_label: Delaware Elections Department
+# Socials (optional — leave blank to hide a link, or all blank to hide the footer):
+instagram_url:
+facebook_url:
+tiktok_url:
+x_url:
+bluesky_url:
+reddit_url:
+published: true
+---
+{%- assign responses = site.data.stance_responses[page.state] | default: empty -%}
+{%- assign questions = site.data.stance_questions[page.state] | default: empty -%}
+{%- assign question_tags = "" | split: "" -%}
+{%- for q in questions -%}
+  {%- if q.tag.first -%}
+    {%- assign question_tags = question_tags | concat: q.tag -%}
+  {%- else -%}
+    {%- assign question_tags = question_tags | push: q.tag -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign question_tags = question_tags | uniq -%}
+{%- assign team_name = page.state_name | append: " Stance on Science" -%}
+
+{%- assign socials = "" | split: "" -%}
+{%- if page.instagram_url -%}
+  {%- capture _ig -%}<a href="{{ page.instagram_url }}" target="_blank" rel="noopener"><i class="fa-brands fa-instagram"></i> Instagram</a>{%- endcapture -%}
+  {%- assign socials = socials | push: _ig -%}
+{%- endif -%}
+{%- if page.facebook_url -%}
+  {%- capture _fb -%}<a href="{{ page.facebook_url }}" target="_blank" rel="noopener"><i class="fa-brands fa-facebook"></i> Facebook</a>{%- endcapture -%}
+  {%- assign socials = socials | push: _fb -%}
+{%- endif -%}
+{%- if page.tiktok_url -%}
+  {%- capture _tt -%}<a href="{{ page.tiktok_url }}" target="_blank" rel="noopener"><i class="fa-brands fa-tiktok"></i> TikTok</a>{%- endcapture -%}
+  {%- assign socials = socials | push: _tt -%}
+{%- endif -%}
+{%- if page.x_url -%}
+  {%- capture _x -%}<a href="{{ page.x_url }}" target="_blank" rel="noopener"><i class="fa-brands fa-x-twitter"></i> X</a>{%- endcapture -%}
+  {%- assign socials = socials | push: _x -%}
+{%- endif -%}
+{%- if page.bluesky_url -%}
+  {%- capture _bs -%}<a href="{{ page.bluesky_url }}" target="_blank" rel="noopener"><i class="fa-brands fa-bluesky"></i> Bluesky</a>{%- endcapture -%}
+  {%- assign socials = socials | push: _bs -%}
+{%- endif -%}
+{%- if page.reddit_url -%}
+  {%- capture _rd -%}<a href="{{ page.reddit_url }}" target="_blank" rel="noopener"><i class="fa-brands fa-reddit"></i> Reddit</a>{%- endcapture -%}
+  {%- assign socials = socials | push: _rd -%}
+{%- endif -%}
+
+<header class="stance-state-header">
+  <a href="{{ '/initiatives/stance-on-science#stance-map' | relative_url }}" class="stance-back-link"><i class="fa-solid fa-arrow-left"></i> Back to map</a>
+  <h1>{{ page.state_name }} Candidate Page</h1>
+  <p>
+    Created by the {{ team_name }} team. Please contact <a href="mailto:{{ page.team_email }}">{{ page.team_email }}</a> with any questions.{%- if socials.size > 0 %} Follow us on
+    {%- for s in socials -%}
+      {%- if forloop.first %} {{ s }}
+      {%- elsif forloop.last -%}
+        {%- if socials.size > 2 %}, and {% else %} and {% endif -%}{{ s }}
+      {%- else %}, {{ s }}
+      {%- endif -%}
+    {%- endfor -%}.{%- endif %}
+  </p>
+  {%- if page.last_updated %}<p><em>Last updated: {{ page.last_updated | date: "%B %-d, %Y" }}</em></p>{%- endif %}
+</header>
+
+<div class="stance-intro">
+
+<p class="jump-cta-wrap">
+  <a href="#responses" class="jump-cta"><i class="fa-solid fa-arrow-down-long"></i> Jump to candidate responses</a>
+</p>
+
+<p class="lede">{{ page.state_name }} will face many challenges in the coming years, and it is increasingly critical that our policymakers understand the importance of evidence-based decision-making. The goals of this resource are to:</p>
+
+<ol class="goals">
+  <li>Provide voters with clear, accessible information so they can see how candidates value science in decision-making.</li>
+  <li>Hold candidates accountable by sharing their responses publicly on our website and via local media.</li>
+  <li>Encourage thoughtful engagement between communities and policymakers on science policy-related topics in our state.</li>
+</ol>
+
+<figure class="stance-state-graphic">
+  <img src="{{ '/images/stance_states/de/delaware-ballot-box.png' | relative_url }}"
+       alt="Illustration of the Delaware state flag entering an orange ballot box decorated with five blue stars."
+       loading="lazy">
+</figure>
+
+<p>Through Stance on Science, we hope to help {{ page.demonym_plural }} understand how their elected representatives will utilize science to improve the state that they love. Learn more about this initiative on the <a href="{{ '/initiatives/stance-on-science' | relative_url }}">home page</a>.</p>
+
+<details class="info">
+  <summary><span class="ic"><i class="fa-solid fa-circle-info"></i></span> How to use this resource <i class="fa-solid fa-chevron-right chev"></i></summary>
+  <div class="info__body">
+  <p>This webpage houses the responses to {{ questions.size }} questions
+  crafted by the {{ team_name }} team.</p>
+  <p>Only official candidates who will appear on ballots were contacted.</p>
+  <p>Candidates were first contacted on June 22, 2026 (with a follow-up to those who
+  did not initially respond) and given the opportunity to answer the questions
+  selected for their race. Only the responses of candidates who answered the questions are
+  included. None of the candidates' responses were modified in any way before
+  being published on this resource page.</p>
+
+  <p><u>For the <strong>September 2026 Primary Election</strong></u>, only candidates in
+  the following elections were contacted<sup>1</sup>:</p>
+  {%- comment -%}
+    For races that have district/party sub-bullets, wrap them in a
+    <details class="stance-race-group"> so the sub-list collapses by default.
+    For a race with no sub-bullets, use <div class="stance-race-flat">.
+  {%- endcomment -%}
+  <div>
+    <div class="stance-race-flat">US Senate — 6 candidates for 1 seat</div>
+    <div class="stance-race-flat">US House — 5 candidates for 1 seat</div>
+    <div class="stance-race-flat">Delaware Attorney General — 3 candidates for 1 seat</div>
+    <div class="stance-race-flat">Delaware State Treasurer — 4 candidates for 1 seat</div>
+    <div class="stance-race-flat">Delaware State Senate — 22 candidates across 11 districts</div>
+    <div class="stance-race-flat">Delaware House of Representatives — 84 candidates across 41 districts</div>
+  </div>
+  <p><small><sup>1</sup> These primary elections were prioritized because
+  they have more than one official candidate on the ballot.</small></p>
+  </div>
+</details>
+
+<details class="info">
+  <summary><span class="ic"><i class="fa-solid fa-list-check"></i></span> The questions posed<i class="fa-solid fa-chevron-right chev"></i></summary>
+  <div class="info__body">
+    <ol class="qlist">
+      {%- for q in questions -%}
+        {%- if q.tag.first -%}
+          {%- assign q_tag_list = q.tag -%}
+        {%- else -%}
+          {%- assign q_tag_list = "" | split: "" | push: q.tag -%}
+        {%- endif -%}
+        <li>
+          <div>
+            {{ q.question | markdownify | remove_first: "<p>" | remove: "</p>" | strip }}{% if q_tag_list.size > 0 %} (<em>see{% for t in q_tag_list %}{% if forloop.first %} "{{ t }}"{% elsif forloop.last %}{% if q_tag_list.size > 2 %}, and "{{ t }}"{% else %} and "{{ t }}"{% endif %}{% else %}, "{{ t }}"{% endif %}{% endfor %}</em>){% endif %}
+            {%- if q.races and q.races.size > 0 -%}
+              <span class="question-applicability">Asked of: {{ q.races | join: ", " }} candidates.</span>
+            {%- endif -%}
+          </div>
+        </li>
+      {%- endfor -%}
+    </ol>
+  </div>
+</details>
+
+<div class="disclaimer">
+  <h3>Disclaimer</h3>
+  <p>The responses of candidates shared on this webpage do not reflect the
+  views of the {{ team_name }} team or the Scientist Network for
+  Advancing Policy (SNAP) Coalition. SNAP is a non-partisan organization
+  (please see more about SNAP <a href="{{ '/about/' | relative_url }}">here</a>).
+  <u>SNAP and the {{ team_name }} team do not endorse any
+  candidates.</u> The goals of this initiative can be found
+  <a href="{{ '/initiatives/stance-on-science' | relative_url }}">here</a>.
+  Please contact <a href="mailto:{{ page.team_email }}">{{ page.team_email }}</a>
+  with any questions.</p>
+</div>
+
+<div class="ballot-lookup-callout">
+  <p>To find your districts for state and federal races and see who is on your ballot, please visit the
+    <a href="{{ page.ballot_lookup_url }}" target="_blank" rel="noopener">{{ page.ballot_lookup_label }}</a>.</p>
+</div>
+
+</div><!-- /.stance-intro -->
+
+<hr class="stance-rule"/>
+
+{% include stance/response_explorer.html heading="September 2026 Primary Election" %}
+
+{% include stance/press_mentions.html state=page.state %}

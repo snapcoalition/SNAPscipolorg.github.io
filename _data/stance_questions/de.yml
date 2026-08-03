@@ -1,0 +1,118 @@
+- id: de-q1
+  question: >-
+    As a member of Congress, you would vote on appropriations for federal
+    science agencies, including the National Science Foundation and the
+    National Institute of Health. What priorities (if any) would guide your
+    decisions on federal science funding?
+  tag: Science Funding
+  races:
+    - US Senate
+    - US House of Representatives
+
+- id: de-q2
+  question: >-
+    Delaware's electricity is delivered through PJM interconnection, the
+    regional grid operator for the mid-atlantic. Across the PJM region,
+    electricity demand is rising in part due to large-scale data center
+    development. What evidence-based policies, if any, would you support
+    addressing the effects of AI-driven data center growth on electricity
+    costs and grid reliability for Delaware's residents?
+  tag: Energy
+  races:
+    - US Senate
+    - US House of Representatives
+    - State Senate
+    - State House of Representatives
+    - State Treasurer
+
+- id: de-q3
+  question: >-
+    Federal agencies including the National Oceanic and Atmospheric
+    Administration (NOAA) project that Delaware's coastal communities face
+    increasing risk of tidal flooding in the coming decades. What
+    evidence-based policies, if any, would you support to help these
+    communities respond to increased coastal flooding risk?
+  tag: Environment
+  races:
+    - US House of Representatives
+    - State Senate
+    - State House of Representatives
+
+- id: de-q4
+  question: >-
+    The U.S. Senate confirms presidential appointments to agencies that shape
+    national science policy, including the directors of the NIH, NSF, and the
+    Office of Science and Technology Policy. What qualifications, if any,
+    would you prioritize when evaluating nominees to lead federal scientific
+    agencies.
+  tag: Policymaking Process
+  races:
+    - US Senate
+
+- id: de-q5
+  question: >-
+    State Attorney Generals often join multistate coalitions on matters
+    affecting their residents, including cases involving environmental
+    regulation, public health, and consumer protection. What approach, if any,
+    would you take to deciding when Delaware should participate in multistate
+    legal action on science/health related issues?
+  tag: Policymaking Process
+  races:
+    - Attorney General
+
+- id: de-q6
+  question: >-
+    The Attorney General's office enforces Delaware's consumer protection laws,
+    which can apply to false or misleading health-related claims, including in
+    the marketing of dietary supplements and alternative medical products.
+    What approach, if any, would you take to consumer protection enforcement in
+    cases involving unsupported health or scientific claims?
+  tag: Public Health
+  races:
+    - Attorney General
+
+- id: de-q7
+  question: >-
+    The Attorney General's office is responsible for enforcing state
+    environmental laws, often in coordination with the Department of Natural
+    Resources and Environment Control. What priorities, if any, would guide
+    your office's approach to enforcing environmental protections in Delaware?
+  tag: Environment
+  races:
+    - Attorney General
+
+- id: de-q8
+  question: >-
+    The Attorney General's office is responsible for enforcing the Delaware
+    Personal Data Privacy Act, which governs how resident's personal data is
+    collected and used. As the use of AI and large-scale data processing grows,
+    what approach (if any) would you take to enforcing data privacy protections
+    for Delaware residents?
+  tag: Artificial Intelligence
+  races:
+    - Attorney General
+
+- id: de-q9
+  question: >-
+    Delaware funds youth substance-use prevention programs through the Division
+    of Public Health and the state budget. According to the 2024 Delaware
+    School Survey, 26% of Delaware 11th graders perceive great risk in regular
+    marijuana use, down from 50% in 1999. What evidence-based policies, if any,
+    would you support to address substance use among young people in Delaware
+    and ensure drug usage decline?
+  tag:
+    - K-12 Science Education
+    - Public Health
+  races:
+    - State Senate
+    - State House of Representatives
+
+- id: de-q10
+  question: >-
+    The state's treasurer administers Delaware's 529 college savings program.
+    What approach, if any, would you take to supporting families saving for
+    higher education, for Science, Technology, Engineering, and Mathematics
+    (STEM) students?
+  tag: Investment in Higher Education
+  races:
+    - State Treasurer

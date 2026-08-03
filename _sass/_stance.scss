@@ -113,6 +113,18 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
   margin-top: 0.5rem;
 }
 
+.stance-state-graphic {
+  margin: 1.5rem auto;
+  max-width: 32rem;
+  text-align: center;
+
+  img {
+    display: block;
+    height: auto;
+    width: 100%;
+  }
+}
+
 .stance-state-howto,
 .stance-state-questions,
 .stance-state-disclaimer {
@@ -931,6 +943,13 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
         line-height: 1;
         margin-top: 2px;
       }
+    }
+
+    .question-applicability {
+      display: block;
+      margin-top: 0.35rem;
+      color: #666;
+      font-size: 0.875rem;
     }
   }
 
