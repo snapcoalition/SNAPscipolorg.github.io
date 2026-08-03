@@ -77,6 +77,24 @@ module StanceResponseValidator
           end
 
           validate_tags(label, entry["tag"], tag_set, tag_lower, problems)
+
+          # Race-specific questions are displayed on state pages, so validate
+          # their applicability against the same canonical race list used by
+          # candidate responses and explorer filters.
+          question_races = entry["races"]
+          unless question_races.nil?
+            if !question_races.is_a?(Array)
+              problems << %(  - #{label}: races must be a YAML list)
+            elsif question_races.empty?
+              problems << %(  - #{label}: races is empty; omit it when the question applies to all races)
+            else
+              question_races.each do |race|
+                unless valid_races.include?(race)
+                  problems << %(  - #{label}: race "#{race}" is not in stance_filters.yml races)
+                end
+              end
+            end
+          end
         end
         question_ids_by_state[state_slug] = seen_ids.keys.to_set
       end
