@@ -31,6 +31,7 @@ races:
   - State Board of Education
   - State House of Representatives
   - State Senate
+  - State Supreme Court
   - State Treasurer
   - University Board of Regents
   - US House of Representatives
@@ -49,6 +50,7 @@ race_ballot_order:
   - State Treasurer
   - State Auditor
   - State Senate
+  - State Supreme Court
   - State Assembly
   - State House of Representatives
   - State Board of Education

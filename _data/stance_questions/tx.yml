@@ -1,0 +1,105 @@
+- id: tx-q1
+  question: >-
+    In June 2026, USDA confirmed New World screwworm in Texas livestock for the
+    first time in decades; as of early July, dozens of infestations have been
+    confirmed across South Texas (USDA APHIS , 2026). USDA estimates a
+    full-scale outbreak comparable to past infestations could cost the regional
+    economy billions of dollars (USDA APHIS). What policies, if any, would you
+    support to respond to the current outbreak and improve Texas's agricultural
+    biosecurity (practices and safeguards that prevent pests and diseases from
+    spreading through livestock populations), and what evidence or
+    considerations would inform that approach?
+  tag: Agriculture
+
+- id: tx-q2
+  question: >-
+    Texas is on track to become the nation's leading data center market within
+    the next three years (Bloom Energy, 2026). The state's grid operator has
+    more than doubled its 2030 forecast for data center power demand over the
+    past year (ERCOT, 2025). Such growth brings economic opportunity while
+    placing significant demands on water, land, and energy systems, raising
+    questions about tax incentives, utility costs, and local community impacts.
+    What policies, if any, would you support around water/energy allocation,
+    tax incentives, or utility costs for data center development in Texas, and
+    what evidence informs that position?
+  tag: Artificial Intelligence
+
+- id: tx-q3
+  question: >-
+    Texas faces flooding while simultaneously experiencing water scarcity
+    driven by drought, groundwater depletion, and population growth (TWDB,
+    2024). Hundreds of Texas waterways are listed as impaired for bacteria,
+    mercury, and other pollutants, threatening water quality for communities
+    across the state (TCEQ, 2024). Agriculture is the largest consumer of the
+    state's groundwater, yet it is also well positioned to be a valuable
+    partner in conservation efforts. What policies, if any, would you support
+    to improve Texas's water infrastructure, and what considerations would
+    guide your approach to the state's agricultural economy?
+  tag:
+    - Climate
+    - Environment
+
+- id: tx-q4
+  question: >-
+    The Texas power grid continues to face strain from extreme heat and
+    increasing demand, including from data centers. What policies, if any,
+    would you support to improve grid reliability for Texas consumers and
+    businesses?
+  tag: Energy
+
+- id: tx-q5
+  question: >-
+    Texas universities and hospitals receive approximately $1.9 billion
+    annually in NIH funding across 118 research sites, supporting tens of
+    thousands of jobs and driving medical and scientific innovation (FASEB,
+    2025). NIH grants reimburse institutions for both direct research costs and
+    indirect costs, the facilities, administration, and support infrastructure
+    that make research possible. A 15% indirect cost cap proposed by NIH in
+    2025, currently blocked by federal courts, would sharply reduce this
+    reimbursement below the rates Texas institutions have negotiated, cutting
+    an estimated $300 million in annual support that institutions would need to
+    absorb or backfill (Kamerlin & Elias, 2025). What policies, if any, would
+    you support at the state or federal level to protect the long-term
+    stability of Texas's research infrastructure, and why?
+  tag: Investment in Higher Education
+
+- id: tx-q6
+  question: >-
+    Texas kindergartners' measles vaccination rate fell to 93.24% in the
+    2024-2025 school year, a decline from prior years amid a national resurgence
+    (Texas Department of State Health Services, 2025). That year, Texas
+    recorded 762 confirmed measles cases, including the deaths of two
+    unvaccinated school-age children, in the state's largest outbreak since
+    1992 (Texas DSHS, 2025). Measles can cause serious complications: roughly
+    1 in 5 unvaccinated people who contract it are hospitalized, and it can
+    lead to pneumonia, brain swelling, or death (CDC). As a policymaker, how do
+    you approach engaging with communities that have concerns about infectious
+    disease outbreaks and vaccine safety, and what policies, if any, would you
+    support related to these issues, and why?
+  tag: Public Health
+
+- id: tx-q7
+  question: >-
+    Scientific evidence is generated through the systematic testing and
+    evaluation of ideas. It provides knowledge the helps us understand the
+    world and predict the likely consequences of different choices, such policy
+    making related to public health, energy, agriculture, and environmental
+    regulation. What role, if any, should scientific evidence and expert input
+    play in your policymaking process, and how would you evaluate competing or
+    uncertain scientific claims when making policy decisions? What role, if
+    any, should that process play when scientific consensus and public opinion
+    diverge?
+  tag: Trust in Science
+
+- id: tx-q8
+  question: >-
+    The Attorney General plays a role in shaping state policy through
+    litigation, legal opinions, and multistate coalitions; these decisions
+    increasingly address scientific questions concerning environmental
+    contamination, public health, energy regulation, and emerging technologies.
+    What types of experts from scientific disciplines would you consult when
+    providing legal counsel, and how would you evaluate the credibility and
+    relevance of their input?
+  tag: Science Diplomacy
+  races:
+    - Attorney General
