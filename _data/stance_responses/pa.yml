@@ -1,0 +1,1646 @@
+- candidate_first_name: Lindsay
+  candidate_last_name: Powell
+  state: pa
+  race: State House of Representatives
+  district: 21
+  party: Democratic 
+  question: pa-q1
+  date: 2026-06-30   
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  response: |
+    I would generally support science-based efforts to reduce Pennsylvanians' exposure to PFAS, particularly where these chemicals pose unnecessary risks to public health and where safer alternatives are available. My decisions would be guided by the research and recommendations of the Pennsylvania Department of Environmental Protection, the Pennsylvania Department of Health, and other independent scientific experts. 
+    
+    Pennsylvania has documented PFAS contamination in drinking water systems and communities across the Commonwealth, leading the state to establish maximum contaminant levels for two of the most studied PFAS chemicals. As additional peer-reviewed science-based research becomes available, we should continue to evaluate consumer products using the best available science to take targeted, evidence-based action to protect public health.
+    
+- candidate_first_name: Lindsay
+  candidate_last_name: Powell
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q2
+  date: 2026-06-30
+  primary_candidate: false
+  response: |
+    I believe it's important to engage communities by listening to their concerns, providing clear, evidence-based information, and partnering with trusted local healthcare providers and public health officials. People deserve accurate information so they can make informed decisions. 
+    
+    I will support policies that promote science-based education on vaccination, improve accessibility to immunizations in communities that lack reliable access to preventative care, and ensure our public health agencies have the resources to respond quickly to outbreaks. Vaccines have been proven to be one of the safest and most effective tools for preventing the spread of diseases like measles, and maintaining high vaccination rates helps protect vulnerable individuals who cannot be vaccinated for medical reasons. 
+    
+    My approach will continue to be guided by the best available scientific evidence and the expertise of public health professionals.
+
+- candidate_first_name: Lindsay
+  candidate_last_name: Powell
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q3
+  date: 2026-06-30
+  primary_candidate: false
+  response: |
+    Pennsylvania's poultry and dairy industries are critical to our state's economy, and protecting them from avian influenza requires a coordinated, science-based response. That's why I voted for House Bill 324, which expanded Pennsylvania's capacity to respond to avian influenza by increasing the number of certified poultry technicians available to conduct testing and surveillance. 
+    
+    Strengthening our ability to detect and respond to outbreaks helps protect farmers, workers, and consumers alike. I also support ensuring the Pennsylvania Department of Agriculture has the resources it needs for disease surveillance, rapid testing, and timely communication with producers. 
+    
+    In addition, we should continue to provide assistance to farmers whose livestock are impacted, and ensure farm workers have access to appropriate protective equipment and public health guidance.
+
+- candidate_first_name: Lindsay
+  candidate_last_name: Powell
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q4
+  date: 2026-06-30
+  primary_candidate: false
+  response: |
+      Pennsylvania has an opportunity to become a national leader in clean energy, but we need to seize it. While natural gas and nuclear power continue to play a role in meeting our current energy needs, we have fallen behind in developing wind, solar, and other renewable energy sources. Expanding clean energy generation will diversify our energy portfolio, strengthen our electric grid, improve energy security, lower long-term energy costs, reduce emissions, and create thousands of good-paying union jobs across the Commonwealth. 
+      
+      That's why I have supported legislation to modernize Pennsylvania's energy standards, expand community energy projects, and incentivize new renewable energy generation and energy storage. These investments will help bring more affordable energy online, attract private investment, and ensure Pennsylvania remains competitive in the growing clean energy economy while building a more reliable and resilient energy future.
+
+- candidate_first_name: Lindsay
+  candidate_last_name: Powell
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q5
+  date: 2026-06-30
+  primary_candidate: false
+  response: |
+    Unregulated and unchecked data centers will be incredibly dangerous to the health and wellbeing of our communities. That's why I supported House Bill 1834, which establishes important guardrails to ensure the rapid growth of data centers doesn't drive up electricity costs for Pennsylvania families or compromise our clean energy future. The bill requires large data centers to cover the costs they create, strengthens oversight of their impact on our electric grid, and promotes the development of new, clean in-state energy resources rather than shifting those costs onto our residents. 
+    
+    I also believe strong environmental protections and transparency are essential before these projects move forward. Developers should clearly report projected electricity and water use, evaluate impacts on local infrastructure and natural resources, and work with state and local officials to ensure these facilities do not strain our electric grid or threaten our environment. 
+    
+    We have a responsibility to protect our communities, safeguard our air and water, and ensure economic growth benefits all Pennsylvanians, not just private developers.
+
+- candidate_first_name: Jon
+  candidate_last_name: Lloyd
+  state: pa
+  race: State House of Representatives
+  district: 40
+  party: Democratic 
+  question: pa-q1
+  date: 2026-06-24 
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  response: |
+    Yes. My decision would be guided by peer-reviewed scientific research, as well as assessments from the Pennsylvania Departments of Health and Environmental Protection, the EPA, CDC, and other credible public health agencies. 
+    
+    PFAS chemicals persist in the environment and can build up in the human body over time. Research has raised serious concerns about potential links to cancer, reproductive and developmental harms, immune system impacts, and other health risks. 
+    
+    I believe this bill’s focus on products such as cosmetics, dental floss, menstrual products, food packaging, and other everyday consumer goods is a practical and responsible step toward reducing unnecessary exposure.
+    
+    KEYWORDS: Public health, consumer safety, accountability
+    
+- candidate_first_name: Jon
+  candidate_last_name: Lloyd
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q2
+  date: 2026-06-24
+  primary_candidate: false
+  response: |
+    As a parent, I understand that families want to feel confident they are making the best decisions for their children. My approach would be to listen to concerns respectfully, make sure people have access to clear information from doctors and public health experts, and avoid treating honest questions as something to dismiss. At the same time, we can't ignore the real danger of preventable outbreaks. 
+    
+    Measles is highly contagious, and vaccines remain one of the safest and most effective tools we have to protect children, seniors, and people with weakened immune systems. I would support making vaccines easier to access through community clinics, schools, pharmacies, and local health providers. I would also support strengthening public health education and outreach. 
+    
+    Finally, I would support maintaining evidence-based school immunization requirements with legitimate medical exemptions respected. Families deserve both compassion and accurate information, and our policies should help protect individual children while also keeping entire communities safe.
+    
+    KEYWORDS: Trust, access, prevention
+    
+- candidate_first_name: Jon
+  candidate_last_name: Lloyd
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q3
+  date: 2026-06-24
+  primary_candidate: false
+  response: |
+    I would support a coordinated, science-based response that helps farms detect outbreaks early, contain them quickly, and recover without being financially devastated. PA should continue investing in rapid testing, veterinary lab staffing, and practical biosecurity assistance for both commercial and smaller family-owned operations.
+    
+    I also believe that the state should also maintain a recovery fund so farms and related businesses are not left carrying the full cost of an outbreak. PA has already expanded testing and response resources during the 2026 surge, and that capacity needs to be sustained so we can be proactive in the future, not simply reactive. 
+    
+    Worker protection is at the center of these efforts. I would prioritize free access to the appropriate protective equipment, training, paid time off in the event of a need for testing/isolation, and less barriers to workers who may have been exposed.
+    
+    KEYWORDS: Public safety, worker support, proactive
+    
+- candidate_first_name: Jon
+  candidate_last_name: Lloyd
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q4
+  date: 2026-06-24
+  primary_candidate: false
+  response: |
+      I believe we need a diverse energy portfolio that protects reliability and affordability while moving toward a cleaner future. Natural gas and nuclear energy currently play major roles in our grid, and nuclear in particular provides reliable carbon-free power. But we've fallen behind in wind and solar generation even as those technologies become more affordable and faster to deploy. 
+      
+      Natural gas should remain part of the transition, but we can't rely on it forever or allow coal to keep being a long-term centerpiece of our energy strategy. 
+      
+      I support strengthening and expanding solar energy so more families and businesses can benefit from clean energy. We should invest in battery storage and modernizing our grid so renewable power can be used more reliably. For example, data centers should help pay for the generation and infrastructure they require instead of shifting those costs onto families and small businesses.
+      
+      KEYWORDS: Solar, wind, responsibility
+
+- candidate_first_name: Jon
+  candidate_last_name: Lloyd
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q5
+  date: 2026-06-24
+  primary_candidate: false
+  response: |
+      Data centers can bring local investment and jobs, but those benefits can't come at the expense of working families, local communities, or our environment. I believe that developers should be responsible for their own new utility generation so that taxpayers' utility bills don't skyrocket. 
+      
+      Before a project moves forward, I would support clear public reporting on projected electricity and water use, emissions, and any public subsidies involved. This would ensure transparency with these projects. Developers should also demonstrate how they will secure enough power without undermining reliability and affordability for existing customers.
+      
+      KEYWORDS: Affordability, responsibility, regulation
+
+- candidate_first_name: Cherri
+  candidate_last_name: Rogers
+  state: pa
+  race: State House of Representatives
+  district: 58
+  party: Democratic 
+  question: pa-q1
+  date: 2026-06-17 
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  response: |
+    It is critical to public health and environmental stability that Pennsylvania places strong restrictions on "forever chemicals" (PFAS). To inform my decision on House Bill 2145 and future legislation, I will rely heavily on robust, peer-reviewed scientific research, epidemiological studies, and environmental data. 
+    
+    Your highly convenient and vital resource for an evidence-based vote is the Scientsit Network for Advancing Policy (SNAP) website, which bridges the gap between early-career researchers nd policy solutions. However, beyond curated platforms, I am fully educated in how to independently locate, evaluate, and synthesize primary scientific literature.
+    
+    My decisions will be guided by toxicological data from agencies like the EPA and CDC, tracking PFAS bioaccumulation in human tissue and its links to adverse health outcomes, including metabolic disruption and immune system suppression. Furthermore, I will utilize hydrological and soil testing data specific to Pennsylvania's waterways to identify contamination hotspots. By balancing cutting-edge peer-reviewed research with community-level environmental monitoring, I will support policies that protect Pennsylvanians from cumulative chemical exposure while ensuring our regulatory frameworks are grounded in definitive, non-partisan science.
+
+    KEYWORDS: forever-chemicals, serum concentration kinetics, PFAS maternal-fetal transfer, PFAS human biological half-life
+
+    
+- candidate_first_name: Cherri
+  candidate_last_name: Rogers
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q2
+  date: 2026-06-17
+  primary_candidate: false
+  response: |
+    As both a public health expert and a public school nurse, I view declining MMR vaccination rates—now at 92.5%, below the 95% herd immunity threshold—as an urgent student safety crisis. With 66 confirmed cases emerging across Pennsylvania this year, top-down mandates alone fail. My approach centers on high-touch community engagement: holding empathetic, non-judgmental listening sessions in schools and community centers where parents can voice safety anxieties directly to frontline clinicians.
+    
+    I will counter misinformation not with lectures, but with transparent, accessible, and non-partisan data highlighting the severe risks of measles complications versus proven vaccine safety profiles.
+    
+    Politically, I support policies that strengthen the authority and funding of school nursing infrastructure, position school health suites as trusted public health hubs, and expand mobile, school-based vaccination clinics to eliminate socioeconomic barriers to access. Furthermore, I advocate for closing non-medical exemption loopholes for school enrollment and implementing standardized, mandatory immunization education for parents seeking exemptions. By leveraging the trusted, everyday relationships between school nurses, local pediatricians, and families, we can rebuild community trust, restore herd immunity, and keep Pennsylvania’s classrooms safe and open.
+    
+    KEYWORDS: measles immunization and vaccination, coverage trends, Public health interventions, nonmedical exemption policy legal studies
+
+    
+- candidate_first_name: Cherri
+  candidate_last_name: Rogers
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q3
+  date: 2026-06-17
+  primary_candidate: false
+  response: |
+    As a community health nurse living alongside the families of House District 58, I know our dairy and poultry farms are the backbone of our economy and identity. Avian influenza is not just an agricultural threat; it is a critical public health vulnerability. If elected, I will champion evidence-based biosecurity and occupational health protocols to protect our community.
+    
+    I support expanding state-funded, rapid on-farm diagnostic testing to catch outbreaks before they decimate flocks or herds. Crucially, we must protect our frontline agricultural workforce. I advocate for the distribution of stockpiled personal protective equipment (PPE)—such as properly fitted respirators and eye protection—specifically tailored to farm environments, coupled with multilingual health education on zoonotic transmission.
+    
+    Furthermore, I will push for state-backed "no-fault" economic safety nets. If farmers face financial ruin for reporting sick livestock, containment fails. By guaranteeing fair, rapid compensation and mobile health surveillance vans to monitor worker health right on the farms, we protect both the agricultural supply chain and the broader public from viral mutation. We can secure our food supply and save livelihoods through proactive, trusted public health partnerships.
+    
+    KEYWORDS: on-farm surveillance, Workforce-Biosecurity No-Fault-Compension
+    
+- candidate_first_name: Cherri
+  candidate_last_name: Rogers
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q4
+  date: 2026-06-17
+  primary_candidate: false
+  response: |
+      Pennsylvania’s energy strategy must balance our historical strength as a top natural gas and nuclear producer with our 45th-place ranking in renewables. In line with the mission of the AFL-CIO, our energy transition must be worker-centered, family-sustaining, and focused on economic justice.
+      
+      I support updating the Alternative Energy Portfolio Standards (AEPS) to aggressively scale up wind, solar, and hydropower production. However, this expansion must incorporate strict prevailing wage requirements and Project Labor Agreements (PLAs) to ensure that new clean energy infrastructure is built by highly skilled, unionized Pennsylvania workers.
+      
+      Furthermore, we cannot leave traditional energy communities behind. I advocate for policies that invest state resources into a "just transition"—including dedicated union apprenticeship pathways and retraining programs that bridge displaced fossil-fuel workers directly into high-paying clean energy and grid-modernization jobs. By protecting existing baseload nuclear and gas strengths while mandating strong labor standards for renewable expansion, Pennsylvania can modernize its electrical grid, lower consumer costs, and lead the nation in a clean energy economy built by union labor.
+      
+      KEYWORDS: Clean energy project labor agreements, just-transition, grid modernization
+      
+- candidate_first_name: Cherri
+  candidate_last_name: Rogers
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q5
+  date: 2026-06-17
+  primary_candidate: false
+  response: |
+    The expansion of large-scale data centers offers economic potential, but Pennsylvania must prioritize ratepayer protection, community health, and high-quality jobs. In alignment with the AFL-CIO mission, I support shifting all infrastructure, generation, and grid-reliability costs entirely onto developers via Project Labor Agreements (PLAs), ensuring this digital infrastructure is built and maintained by highly skilled, unionized local labor without burdening ordinary ratepayers.
+    
+    To protect public health and local ecosystems, we should replicate the success of Pennsylvania townships that have enacted strict municipal restrictions. I support mandatory zoning guidance, strict power usage effectiveness (PUE) caps, and closed-loop water cooling mandates to prevent the depletion and thermal pollution of local watersheds. Furthermore, comprehensive environmental and grid-impact reporting must be publicly disclosed before any project approval.
+    
+    By enforcing strict transparency, utility oversight, and resource restrictions, we can prevent data centers from straining our electrical grid or compromising community health. This balanced approach ensures tech developers pay their fair share, local natural resources are legally protected, and the economic benefits of technological innovation directly support working families.
+    
+    KEYWORDS: Ratepayer-protection, Township-zoning-restrictions, union-labor-infrastructure-data centers 
+    
+- candidate_first_name: Lisa
+  candidate_last_name: Gourley
+  state: pa
+  race: State House of Representatives
+  district: 66
+  party: Democratic
+  question: pa-q1
+  date: 2026-07-01
+  primary_candidate: false
+  response: |
+    Yes these chemicals should be restricted.  According to the U.S. EPA long term or elevated exposure can impact health with increased cancer risks, suppression of the immune system and reproductive issues.  
+    
+    KEYWORDS: Cancer, Immune System, Reproductive issues
+
+- candidate_first_name: Lisa
+  candidate_last_name: Gourley
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q2
+  date: 2026-07-01
+  primary_candidate: false
+  response: |
+    I would approach these communities with facts that support immunization as well as methods to protect oneself from exposure.  I would propose policy that would limit the exclusions for vaccination.  Exclusions have been increased since COVID allowing for many to utilize these under non valid reasons.
+    
+    KEYWORDS: Immunization, exposure, exclusion
+
+- candidate_first_name: Lisa
+  candidate_last_name: Gourley
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q3
+  date: 2026-07-01 
+  primary_candidate: false
+  response: |
+    As a RN I firmly believe in protection prior to outbreak.  As such I would support increased protective methods with the first awareness of increased risk.  I would also support increased research for both prevention and immediate response when an outbreak is noted.   
+
+    KEYWORDS: Prevention, protection, research
+
+- candidate_first_name: Lisa
+  candidate_last_name: Gourley
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q4
+  date: 2026-07-01
+  primary_candidate: false
+  response: |
+    It is vital that we as a state support and encourage use of wind, solar and hydropower energy. Renewable energy sources is the method to battle climate change and move toward the future.   I believe that tax credits for the use of renewable energy sources may be a way to increase its use.  Education to inform and encourage these methods can be one way to further the use.   
+
+    KEYWORDS: Support, educate, Renewable 
+
+- candidate_first_name: Lisa
+  candidate_last_name: Gourley
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q5
+  date: 2026-07-01
+  primary_candidate: false
+  response: |
+    I would ensure that the data center developers are responsible for all costs in developing and maintaining the center.  they should also be responsible for all costs related to power this should not be passed to the public.  This should be a transparent development and not one that makes promises to the community but does not follow through.  Zoning rules should be in place that does not allow these centers to be placed community adjacent placing the water for the community at risk.   I do not believe data centers should receive any type of tax relief or benefit from states for development.  
+
+    KEYWORDS: Responsible, transparent, zoning
+
+- candidate_first_name: Tim
+  candidate_last_name: Kearney
+  state: pa
+  race: State Senate
+  district: 26
+  party: Democratic
+  question: pa-q1
+  date: 2026-07-01
+  primary_candidate: false
+  response: |
+    Yes. I am a co-sponsor of SB611 which is comprehensive legislation around PFAS classification and cleanup. This remains a grave issue in PA and I would support legislation to ban it in commercial products. 
+    
+    My team extensively researches this type of issue before we support, we're firm beleivers in scientific reseasrch. 
+    
+- candidate_first_name: Tim
+  candidate_last_name: Kearney
+  state: pa
+  race: State Senate
+  party: Democratic
+  question: pa-q2
+  date: 2026-07-01
+  primary_candidate: false
+  response: |
+    The measles outbreaks in PA very concerning, particularly in Lebanon and Lancaster Counties. A major concern is that they are all preventable. The war on vaccines is real and we are seeing the consequences. We encourage vaccines as a major piece of public health. My district is quite diverse and we have been very active in the public health realm starting with vacine clinics during the pandemic and supporting the new Delaware County Health Department.
+
+- candidate_first_name: Tim
+  candidate_last_name: Kearney
+  state: pa
+  race: State Senate
+  party: Democratic
+  question: pa-q3
+  date: 2026-07-01
+  primary_candidate: false
+  response: |
+    On the appropriations committee, I have always supported funding for the UPenn New Bolton Center. They are our only large animal research center and their work on Avian Flu probably saved the industry in PA. Headwinds coming from DC has been making this difficult.
+
+- candidate_first_name: Tim
+  candidate_last_name: Kearney
+  state: pa
+  race: State Senate
+  party: Democratic
+  question: pa-q4
+  date: 2026-07-01
+  primary_candidate: false
+  response: |
+    It is obvious that we need to increase our clean energy portfolio. Solar is by far the most economical method of enenrgy production but the natural gas lobby is a formidable power here. We have been working with the PUC and PJM on getting more clean energy to our grid. We introduced legislation to require that GETs (Grid Enhancement Technology) is considered before any new power production is brought on line. Obviously, Data Centers are making all of this even more complicated. One thing we seem to agree on is that rate payers should not be shouldering the additional costs.
+    
+- candidate_first_name: Tim
+  candidate_last_name: Kearney
+  state: pa
+  race: State Senate
+  party: Democratic
+  question: pa-q5
+  date: 2026-07-01
+  primary_candidate: false
+  response: |
+    The amount of energy and water that these centers require should not affect ratepayers. Data Centers must absorb the costs as a part of doing business. Environmental concerns must be considered. I support a waiting period where these questions must be answered before the development is allowed. 
+    
+- candidate_first_name: Danilo
+  candidate_last_name: Burgos
+  state: pa
+  race: State House of Representatives
+  district: 197
+  party: Democratic
+  question: pa-q1
+  date: 2026-07-06
+  primary_candidate: false
+  response: |
+    I have worked with Representative Scott to make sure we voted the Bill out of committee hopefully the Senate will vote it out also so that we can get it to the Governor’s desk and make it the law in Pennsylvania
+
+- candidate_first_name: Danilo
+  candidate_last_name: Burgos
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q2
+  date: 2026-07-06
+  primary_candidate: false
+  response: |
+    I would continue to work with health professionals to implement best practices on how to bring awareness and keep our most vulnerable population, safe and healthy
+
+- candidate_first_name: Danilo
+  candidate_last_name: Burgos
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q3
+  date: 2026-07-06
+  primary_candidate: false
+  response: |
+    I have worked with my colleagues to increase funding for programs that do research through Pan and continue to monitor what happens around the world with the national council of state legislators so that we have the best practices available to fight against this bird flu
+
+- candidate_first_name: Danilo
+  candidate_last_name: Burgos
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q4
+  date: 2026-07-06
+  primary_candidate: false
+  response: |
+    I have worked with rural Electric the owner of one of the Hydro plants that we have in Pennsylvania to hopefully identify a location where we could possibly do another Hydro plant in Pennsylvania that is still in the works. I’ve also voted for and sponsored bills that will increase access to Solar energy and community Solar.
+
+- candidate_first_name: Danilo
+  candidate_last_name: Burgos
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q5
+  date: 2026-07-06
+  primary_candidate: false
+  response: |
+    If I was in charge, I would give preferences to companies that use the most renewable energy and clean energy to support Their data center 
+    
+    
+- candidate_first_name: Jeremy
+  candidate_last_name: Ferderber
+  state: pa
+  race: State House of Representatives
+  district: 28
+  party: Democratic
+  question: pa-q1
+  date: 2026-07-07
+  primary_candidate: false
+  response: |
+    Yes, Pennsylvania should absolutely restrict PFAS in consumer products, and I support HB 2145 and Representative Scott's efforts to help protect Pennsylvanians against these forever chemicals. 
+    
+    The scientific evidence of the myriad risks to human (and environmental) health is extensive, and even the current administration's EPA and NIH acknowledge the dangers. One needn't look far to learn that PFAS are real, are ubiquitous, and are dangerous especially to younger individuals; and while this proposed legislation may not address ALL sources of PFAS (their use in industrial, military, firefighting, and aeronautical applications are based in safety), it will significantly reduce the potential exposure to humans and therefore to our ecosystem. 
+    
+    Hopefully this will result in a measurable reduction in PFAS in the coming years. My decision will be based on scientific research from trusted institutions at the local, state, and federal (from reputable, non-politically-biased) levels. 
+
+- candidate_first_name: Jeremy
+  candidate_last_name: Ferderber
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q2
+  date: 2026-07-07
+  primary_candidate: false
+  response: |
+    I feel that this presents a valuable opportunity to show those concerned communities the power of science and evidence-based facts regarding the efficacy of vaccines. The correlation in decreased vaccination rates and increased measles cases seems to be fairly straightforward, and being transparent with those data should help to re-gain the trust of individuals who have grown wary of vaccines. 
+    
+    By hopefully invoking the help of legislators with a medical background, this trust can be fortified. By increasing visibility through public media campaigns and through educational curricula, we can reignite the need for awareness that will hopefully result in sensible vaccinations for measles and other seemingly "once cured" infectious diseases. I would support policies that inform and educate the citizens, by engaging with the medical community rather than policymakers with potential special interests. 
+
+- candidate_first_name: Jeremy 
+  candidate_last_name: Ferderber
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q3
+  date: 2026-07-07
+  primary_candidate: false
+  response: |
+    As a candidate with an agricultural background, I personally understand the importance and the frailty of our agricultural institutions. I would fully support funding for dedicated research programs throughout the state aimed at a collaborative effort to study, track, and effectively communicate in a rapid response manner. Ideally, this would be combined with educational outreach programs available (perhaps through agricultural extension programs at state universities) to those in the agricultural fields to help mitigate potential disasters and to work collectively should an outbreak occur. 
+    
+    I would also support legislation to financially protect farmers and others in the agricultural community (outside of just poultry and dairy operations) during times of hardship caused by forces of nature; we need our farmers to help keep food on our plates.
+
+- candidate_first_name: Jeremy
+  candidate_last_name: Ferderber
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q4
+  date: 2026-07-07
+  primary_candidate: false
+  response: |
+    I would re-introduce incentives for residents and businesses to install and adopt alternative energy sources in our state. I would commit to doing whatever possible within my power to fully support the statewide implementation of projects aimed at developing renewable energy sources, ranging from geothermal energy to wind and solar farms and everything in between. 
+    
+    We simply cannot continue to be fully reliant on fossil fuels, whether as a result of the obvious environmental impacts, or the fickle nature of its availability (and therefore its potential to cripple the world's economy, as we've witnessed with the unnecessary war in Iran). Nuclear energy can be further developed, but the inherent risks it carries simply do not exist with renewable energy sources that can also be developed. Our new generation of a workforce should be aimed at development of a re-envisioned energy future rather than that of a tired and troubled past one. 
+    
+- candidate_first_name: Jeremy 
+  candidate_last_name: Ferderber
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q5
+  date: 2026-07-07
+  primary_candidate: false
+  response: |
+    The corporate efforts to exponentially grow data centers, whether used for AI or other purposes, are simply that: corporate, and profit-driven. Therefore, these projects should result in NO costs and minimal burdens to the public where they are being constructed. 
+    
+    I support legislation that requires full transparency of the projects and their reporting, with local municipalities being able to have a say in the process of development. Requirements for zero impacts to the local resources, such as the energy grid or available water resources, should be adhered to, and preference should be given to those companies willing and able to develop on properties with existing infrastructure (or brownfield sites), implementing and incorporating the use of renewable energy resources (such as geothermal energy) and/or bringing their own clean energy generation. 
+    
+    While I recognize the inevitability of increased data centers and the growth of AI, it is the job of legislators to ensure that the public is not adversely impacted by this growth, and it is my duty to ensure that future innovation is balanced with conservation. 
+
+- candidate_first_name: Brian
+  candidate_last_name: Munroe
+  state: pa
+  race: State House of Representatives
+  district: 144
+  party: Democratic
+  question: pa-q1
+  date: 2026-07-09
+  primary_candidate: false
+  response: |
+    I am actually leading the way on banning forever chemicals in firefighter foam, which is where our local water contamination where I live in Warminster came from. We passed it unanimously in the house and it passed unanimously in the Senate Veterans Affairs committee where I spoke in front of chairman Doug Mastriano. We’re hoping for a full vote in the Senate so we can get this critical piece of legislation to the governor’s desk. 
+    
+    You can see my comments before the Senate VA committee here: https://www.facebook.com/reel/1004633285552036
+
+    KEYWORDS: contamination, ban, co-sponsor
+
+- candidate_first_name: Brian
+  candidate_last_name: Munroe
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q2
+  date: 2026-07-09
+  primary_candidate: false
+  response: |
+    The rise of disinformation and anti-vaccine sentiment is dangerous. I stand with medical experts and regularly hold flu/COVID vaccine clinics for constituents through my state office. 
+    
+    I co-sponsored HB 1828, protecting vaccine access in PA. As a two-time cancer survivor who is only alive thanks to the incredible work of scientists powering breakthroughs, I will always champion access to vaccines, affordable healthcare, and policies that protect the health and wellbeing of our communities.
+
+    KEYWORDS: experts, survivor, wellbeing
+
+- candidate_first_name: Brian
+  candidate_last_name: Munroe
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q3
+  date: 2026-07-09
+  primary_candidate: false
+  response: |
+    Agricultural threats are critical economic and health problems. My legislative stance directly intersects with agricultural and environmental issues, focusing on local preservation, protection, and food sustainability. 
+    
+    I am an advocate for sustainable development and protecting local farmland from unchecked urban sprawl and stormwater issues. Protecting Pennsylvanians from dangerous illness and a contaminated food supply is very important. Even invasive species like the Spotted Lantern Fly have brought millions of dollars of damage to Bucks County farmers. We must consider investing in scientific research and food safety, especially as funding cuts at the federal level jeopardize public safety.
+
+    KEYWORDS: protection, safety, investing
+
+- candidate_first_name: Brian
+  candidate_last_name: Munroe
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q4
+  date: 2026-07-09
+  primary_candidate: false
+  response: |
+    Green energy is the future and those standing in the way are endangering our children and grandchildren. Everyone has a right to clean air and pure water. I take these protections seriously as they directly impact us economically, as well as our overall health.Unchecked development without storm water mitigation in years past left us with flooding issues. 
+    
+    I co-sponsored HB 1260 to expand solar energy. I believe that a natural gas extraction fee is long overdue. Investing in energy-efficient, alternative fuel sources drives innovation and creates sustainable, green jobs. 
+    
+    When we fail our environment, we fail ourselves.
+    
+    KEYWORDS: green, climate, jobs
+    
+- candidate_first_name: Brian
+  candidate_last_name: Munroe
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q5
+  date: 2026-07-09
+  primary_candidate: false
+  response: |
+    This is the "new fracking." We must learn from our failures to address the serious environmental impacts of AI data centers. 
+    
+    I am co-sponsoring HB 2150 and 2151, which would require data center developers and users to report their operations and energy and water usage to PA, and direct municipalities to regulate data centers and adopt local ordinances to limit harmful impacts on nearby communities. We need guardrails as this new technological frontier expands rapidly. 
+    
+    I do not support letting these companies come in and reap economic benefits by destroying our environment and harming our communities, and will continue to advocate for more laws tackling AI-related issues and fighting for affordable energy for Pennsylvanians.
+
+    KEYWORDS: guardrails, protection, environment
+
+- candidate_first_name: Marty
+  candidate_last_name: Young
+  state: pa
+  race: US House of Representatives
+  district: 6
+  party: Republican
+  question: pa-q1
+  date: 2026-07-13
+  primary_candidate: false
+  response: |
+    Pennsylvania should take a science-based approach to restricting PFAS in consumer products where safer alternatives exist. These “forever chemicals” pose real long-term risks to public health and our environment. 
+    
+    As a corporate turnaround executive, I’ve seen how companies can innovate when given clear standards and timelines. I would support targeted restrictions on non-essential uses while protecting critical applications in defense, healthcare, and manufacturing. Decisions should be guided by peer-reviewed science, risk assessments from agencies like the EPA and PA DEP, and input from affected industries and communities. We must protect families without unnecessarily harming jobs or innovation in Pennsylvania.
+
+    KEYWORDS: PFAS
+
+- candidate_first_name: Marty
+  candidate_last_name: Young
+  state: pa
+  race: US House of Representatives
+  party: Republican
+  question: pa-q2
+  date: 2026-07-13
+  primary_candidate: false
+  response: |
+    Declining measles vaccination rates reflect a breakdown in public trust. As a 30-year Army veteran who received over 50 vaccinations — including some containing thimerosal, a mercury-based preservative — I understand both the value of vaccines and why many parents have concerns. 
+    
+    The 1986 National Childhood Vaccine Injury Act created a moral hazard by granting manufacturers near-total liability protection. This reduced accountability and contributed to skepticism. We should reform the Act to restore proper incentives, increase transparency around ingredients and adverse events, and emphasize informed consent over mandates. 
+    
+    Rebuilding trust requires honesty about both the benefits and limitations of the current system.
+    
+    KEYWORDS: Vaccine accountability, thimerosal, informed consent, public trust
+
+- candidate_first_name: Marty
+  candidate_last_name: Young
+  state: pa
+  race: US House of Representatives
+  party: Republican
+  question: pa-q3
+  date: 2026-07-13
+  primary_candidate: false
+  response: |
+    Pennsylvania must strengthen its preparedness and rapid response capabilities for avian influenza. This is both a public health issue and an economic one for our poultry and dairy industries. 
+    
+    I would support increased funding for surveillance, faster testing and reporting systems, and better coordination between state agencies, farmers, and federal partners. Protecting farm workers and agricultural communities should be a priority through proper protective equipment, training, and compensation support during outbreaks.
+    
+    We also need stronger biosecurity standards and investment in research for better vaccines and containment strategies. A proactive, science-driven approach protects both public health and Pennsylvania’s agricultural economy.
+
+    KEYWORDS: Biosecurity, agricultural preparedness, rapid response
+
+
+- candidate_first_name: Marty
+  candidate_last_name: Young
+  state: pa
+  race: US House of Representatives
+  party: Republican
+  question: pa-q4
+  date: 2026-07-13
+  primary_candidate: false
+  response: |
+    Pennsylvania should maintain a diverse, all-of-the-above energy portfolio that includes our strong natural gas and nuclear industries while expanding clean, reliable options — particularly home-based geothermal and solar. 
+    
+    I strongly support restoring tax incentives for homeowners who install solar and geothermal systems. Geothermal is especially valuable because the technology can last well over 100 years, significantly reduces stress on the electric grid, and delivers major long-term savings on energy costs for families. 
+    
+    Additionally, to accelerate adoption across Pennsylvania, I would create zero-interest loan programs to help homeowners and small businesses install geothermal systems. This approach strengthens energy independence, lowers household costs for generations, and helps modernize our grid in a way that benefits families rather than burdening ratepayers.
+
+    KEYWORDS: Geothermal, Solar
+    
+- candidate_first_name: Marty 
+  candidate_last_name: Young
+  state: pa
+  race: US House of Representatives
+  party: Republican
+  question: pa-q5
+  date: 2026-07-13
+  primary_candidate: false
+  response: |
+    Pennsylvania ratepayers are currently subsidizing data center growth in Virginia through the structure of PJM, the regional grid operator. Because of how transmission and capacity costs are allocated across the PJM footprint, Pennsylvania families are helping pay for the massive electricity infrastructure and “super grid” needed to power data centers in Virginia — the data center capital of the world. 
+    
+    Many of these facilities have deep connections to federal government contracts, meaning Pennsylvania households are effectively being taxed to support out-of-state infrastructure. We need to reform PJM’s cost allocation rules so that large data centers and the entities driving explosive new demand pay their full share of costs, rather than shifting them onto Pennsylvania ratepayers. Any data centers built in Pennsylvania should also be required to cover their complete infrastructure, power, and water costs upfront, with strong transparency and local oversight.
+
+    KEYWORDS: PJM reform, ratepayer protection, data center costs
+
+- candidate_first_name: Ben
+  candidate_last_name: Waxman
+  state: pa
+  race: State House of Representatives
+  district: 182
+  party: Democratic
+  question: pa-q1
+  date: 2026-07-15
+  primary_candidate: false
+  response: |
+    I believe that we should restrict the use of PFAS chemicals and I am a co-sponsor of HB 2145. I rely on the analysis of trusted environmental groups like Penn Environment and Food and Water Watch to inform my decision. 
+
+    KEYWORDS: Yes trusted advisors 
+
+- candidate_first_name: Ben
+  candidate_last_name: Waxman
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q2
+  date: 2026-07-15
+  primary_candidate: false
+  response: |
+    I previous worked with a union representing healthcare workers who had similar concerns during COVID. The key is using trusted messengers to reach people where they are at to deal with concerns about vaccine safety. If you do that, you can address the concerns that people have. 
+    
+    KEYWORDS: trusted messengers
+
+- candidate_first_name: Ben
+  candidate_last_name: Waxman
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q3
+  date: 2026-07-15
+  primary_candidate: false
+  response: |
+    I support sustained funding for rapid testing, laboratory capacity, veterinary response teams, and close coordination between agriculture and public health agencies. We should also help farms strengthen biosecurity and compensate producers for outbreak-related losses so they can report infections immediately. 
+    
+    Protecting workers must be central: free protective equipment and testing, multilingual health information, confidential symptom monitoring, and paid leave and medical care for anyone exposed or infected. Transparent public reporting and strong food-safety education will help protect agricultural communities and maintain public confidence.
+
+    KEYWORDS: Biosecurity, worker protection, rapid response
+    
+- candidate_first_name: Ben
+  candidate_last_name: Waxman
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q4
+  date: 2026-07-15
+  primary_candidate: false
+  response: |
+    Pennsylvania should rapidly expand wind, solar, energy storage, and efficiency while reducing its dependence on coal and natural gas. I support stronger renewable-energy standards, faster permitting for responsible clean-energy projects, investments in the electric grid, and transition assistance for workers and communities affected by fossil-fuel decline. Nuclear power can continue to provide carbon-free reliability as we build a cleaner, more affordable energy system.
+
+    KEYWORDS: Renewable energy, just transition, grid modernization
+
+- candidate_first_name: Ben
+  candidate_last_name: Waxman
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q5
+  date: 2026-07-15
+  primary_candidate: false
+  response: |
+    Data center developers (not ordinary ratepayers) should pay the full costs of new power generation, transmission, water infrastructure, and grid upgrades required by their projects. Before approval, developers should disclose projected energy and water use, demonstrate access to reliable clean power, meet strong efficiency and water-conservation standards, and provide enforceable community benefits.
+    
+    Public subsidies should be limited and tied to clear job, environmental, and consumer protections.
+
+    KEYWORDS: Developer responsibility, clean energy, public transparency
+    
+- candidate_first_name: Shay
+  candidate_last_name: Micco
+  state: pa
+  race: State House of Representatives
+  district: 9
+  party: Democratic
+  question: pa-q1
+  date: 2026-07-16
+  primary_candidate: false
+  response: |
+    I believe Pennsylvania should continue moving toward restricting PFAS in consumer products where the scientific evidence shows they’re unnecessary and pose a meaningful risk to public health or the environment. As a nurse, I understand that protecting people’s health sometimes means acting before the damage becomes irreversible.
+
+    That said, I also believe policy should be driven by evidence—not headlines or politics. I would rely on peer-reviewed research, recommendations from independent public health and environmental scientists, toxicology data, exposure studies, and guidance from organizations like the EPA and National Academies. I’d also consider whether safer alternatives are available and what impact restrictions would have on consumers, workers, and manufacturers.
+
+    Good policy weighs both benefits and consequences. If the evidence demonstrates that a product creates unnecessary long-term health risks and safer alternatives exist, I believe we have a responsibility to act.
+
+    KEYWORDS: PFAS, Evidence-Based Policy, Public Health
+
+    
+- candidate_first_name: Shay
+  candidate_last_name: Micco
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q2
+  date: 2026-07-16
+  primary_candidate: false
+  response: |
+    As a nurse, I’ve learned that people don’t respond well to being dismissed or shamed. If we want to improve vaccination rates and protect communities from outbreaks, we have to start by listening.
+
+    I’d support making accurate, evidence-based information easier to access through trusted local healthcare providers, schools, and community organizations while being transparent about both the benefits and potential risks of vaccines. Trust is earned through honest conversations, not mandates alone.
+
+    Measles is a highly contagious disease, and vaccines have played a major role in preventing serious illness for decades. I support ensuring vaccines remain readily available, affordable, and easy to access, while strengthening public health education and outbreak response.
+
+    Science should guide our decisions, but communication matters just as much. People deserve facts, respect, and the opportunity to ask questions without feeling judged.
+
+    KEYWORDS: Public Trust, Vaccine Education, Evidence-Based Health
+    
+- candidate_first_name: Shay
+  candidate_last_name: Micco
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q3
+  date: 2026-07-16
+  primary_candidate: false
+  response: |
+    As someone who believes in preparing before a crisis instead of reacting after one, I support strengthening Pennsylvania’s ability to detect and respond to avian influenza quickly. Protecting our poultry and dairy industries protects farmers, workers, consumers, and our economy.
+
+    I’d prioritize strong disease surveillance, rapid testing, clear communication between state agencies and producers, and resources to help farms improve biosecurity. Farm workers should have access to education, appropriate protective equipment when needed, and testing if they’re exposed.
+
+    I also believe farmers shouldn’t bear the financial burden alone when they’re doing the right thing by reporting outbreaks. Timely support and fair compensation help encourage transparency, which ultimately protects everyone.
+
+    As with any public health issue, decisions should be guided by the best available scientific evidence while recognizing the real-world impact on Pennsylvania families and businesses. Our goal should be to stop outbreaks early, protect our food supply, and keep agriculture strong without creating unnecessary burdens.
+
+    KEYWORDS: Biosecurity, Preparedness, Agriculture
+
+- candidate_first_name: Shay
+  candidate_last_name: Micco
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q4
+  date: 2026-07-16
+  priamry_candidate: false
+  response: |
+    Pennsylvania has been an energy leader for generations, and I believe we can continue to be one by embracing an “all-of-the-above” approach. Natural gas, nuclear, coal, renewables, and emerging technologies all have a role to play as we work toward affordable, reliable, and cleaner energy.
+
+    I don’t believe we should force one industry out in favor of another. Instead, we should invest in innovation, modernize our electric grid, encourage responsible development of renewable energy where it makes sense, and support technologies that reduce emissions while protecting good-paying Pennsylvania jobs.
+
+    Energy policy should balance environmental stewardship with economic reality. Families need affordable utility bills, businesses need reliable power, and workers deserve confidence that they’re not being left behind during technological change.
+
+    Pennsylvania has the opportunity to lead by diversifying our energy portfolio, strengthening grid resilience, and creating the next generation of skilled energy jobs right here at home.
+
+    KEYWORDS: Energy Diversity, Grid Reliability, Innovation
+
+- candidate_first_name: Shay
+  candidate_last_name: Micco
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q5
+  date: 2026-07-16
+  primary_candidate: false
+  response: |
+    I recognize that AI and the infrastructure supporting it are becoming an important part of our future. However, I do not believe Pennsylvania should pursue data center development at any cost. Economic growth should never come at the expense of our natural resources, farmland, or the people already living here.
+
+    Before any project moves forward, I support independent, science-based assessments of projected electricity demand, water consumption, environmental impacts, and effects on residential utility rates. Developers, not taxpayers or ratepayers, should bear the costs of infrastructure needed to support their projects.
+
+    Pennsylvania’s farmland, forests, waterways, and ecosystems are not renewable on a human timeline. Once they’re gone, they’re gone. With freshwater supplies becoming an increasing concern worldwide, we also have a responsibility to carefully evaluate whether large-scale water consumption is sustainable for future generations.
+
+    Innovation and conservation are not mutually exclusive. We should welcome responsible development, but only when it protects our communities, respects local zoning decisions, and leaves Pennsylvania’s land and water better, not worse, for the next generation.
+
+    KEYWORDS: Sustainable Development, Environmental Stewardship, Infrastructure Accountability
+
+      
+- candidate_first_name: Michael
+  candidate_last_name: Walker
+  state: pa
+  race: State House of Representatives
+  district: 6
+  party: Democratic
+  question: pa-q1
+  date: 2026-07-22
+  primary_candidate: false
+  response: |
+    I would use peer-reviewed publications and medical journals to determine how PFAS are affecting people and the best course of action to deal with this issue. I believe the use of PFAS should be restricted and studied until we fully understand their effects on people and our environment.
+
+    KEYWORDS: Peer-reviewed data and scientific study
+    
+- candidate_first_name: Michael
+  candidate_last_name: Walker
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q2
+  date: 2026-07-22
+  primary_candidate: false
+  response: |
+    The decline in vaccinations is primarily due to the spread of misinformation. I would propose a public service outreach program to raise awareness regarding the truth about the safety of vaccines and how important it is for everyone to be vaccinated. 
+
+     KEYWORDS: Education, outreach, truth
+
+- candidate_first_name: Michael
+  candidate_last_name: Walker
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q3
+  date: 2026-07-22
+  primary_candidate: false
+  response: |
+    I support PA's HPAI Recovery Fund and the implementation of increasing biosecurity measures for commercial and backyard producers. I would support supplying personal protective equipment to producers to prevent the spread of avian influenza.
+
+    KEYWORDS: HPAI Recovery Fund  
+
+- candidate_first_name: Michael
+  candidate_last_name: Walker
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q4
+  date: 2026-07-22
+  primary_candidate: false
+  response: |
+    I would support a push to install solar panels above large parking lots. I believe renewable energy production is a burgeoning industry in PA that should nurtured and encouraged alongside our current energy production.
+
+    KEYWORDS: Renewable energy growth
+
+- candidate_first_name: Michael
+  candidate_last_name: Walker
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q5
+  date: 2026-07-22
+  primary_candidate: false
+  response: |
+    I do not believe the public should have to subsidize the building of data centers. I see no long term benefits for our communities that would justify imposing the cost of data center building and operations on the public. They are private corporations and should pay their own bills.
+
+- candidate_first_name: Austin
+  candidate_last_name: Graham
+  state: pa
+  race: State House of Representatives
+  District: 169 
+  party: Democratic
+  question: pa-q1
+  date: 2026-07-24
+  primary_candidate: false
+  response: |
+    Yes, Pennsylvania should restrict PFAS in consumer products, especially where those chemicals are intentionally added and safer alternatives are available. PFAS are often called “forever chemicals” for a reason: many of them persist in the environment, build up in the human body, and create exposure pathways that families never knowingly signed up for. When we are talking about products like cosmetics, dental floss, menstrual products, and children’s products, the burden should be on manufacturers to prove those chemicals are necessary and safe, not on the public to absorb the risk.
+
+    The scientific case for action is strong enough to justify restrictions now. I would rely on three kinds of evidence. First, exposure science shows that PFAS are highly persistent and that many people already have measurable PFAS in their blood. Second, human epidemiology reviewed by EPA, ATSDR, and the National Academies links PFAS exposure to higher cholesterol, reduced vaccine response and other immune effects, pregnancy-related harms, lower birth weight, and increased risk of some cancers. Third, toxicology reviews, including the National Toxicology Program’s work on PFOA and PFOS, show credible evidence of immune-system harm. Science is still evolving across the thousands of PFAS compounds, but that uncertainty is a reason to be more careful with non-essential uses, not less.
+
+    That is why a targeted approach like House Bill 2145 makes sense. As of July 24, 2026, the bill has passed the House and is in the Senate after being referred on June 11, 2026. It focuses on intentionally added PFAS in a defined set of consumer products and includes carveouts for things like FDA-approved drugs and medical devices. That is a practical, science-informed way to reduce avoidable exposure while still recognizing that some uses may require a different regulatory path.
+
+- candidate_first_name: Austin
+  candidate_last_name: Graham
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q2
+  date: 2026-07-24
+  primary_candidate: false
+  response: |
+    I would start from two truths at once: measles is a serious public-health threat, and trust matters. If people have concerns about vaccine safety, the answer is not to mock them or wave them off. It is to meet them with clear facts, honest risk communication, and trusted local messengers like pediatricians, family doctors, nurses, pharmacists, and community leaders. People deserve straight answers about what measles does, what the MMR vaccine does, what side effects are known, and what claims are simply false.
+
+    On policy, I support a practical prevention-first approach. That means making vaccines easy to get through school-based clinics, mobile clinics, extended hours, pharmacy access where appropriate, and strong catch-up outreach for families who missed doses. It also means real-time outbreak communication, support for local health departments doing contact tracing and exposure notices, and making sure schools and child care centers are following existing immunization rules consistently. I would defend medical exemptions, but I would be cautious about expanding loopholes that make outbreaks more likely. When vaccination rates fall below the level needed to prevent spread, everyone pays the price, especially infants, immunocompromised people, and families who did everything they should but are still exposed.
+
+    The science here is strong. The MMR vaccine has been studied for decades and is safe and highly effective, with two doses about 97% effective against measles. There is no credible evidence linking MMR vaccination to autism. Measles, on the other hand, is extremely contagious and can cause pneumonia, encephalitis, hospitalization, and in some cases death. Using Pennsylvania’s official school data, statewide kindergarten MMR coverage was 95.5% in the 2020-2021 school year and 93.7% in the 2024-2025 school year, which is a meaningful decline. Pennsylvania also now has a live measles dashboard because of active 2026 spread. My approach would be simple: treat people respectfully, tell the truth clearly, and make the healthy choice the easy choice.
+
+- candidate_first_name: Austin
+  candidate_last_name: Graham
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q3
+  date: 2026-07-24
+  primary_candidate: false
+  response: |
+    Pennsylvania should take avian influenza seriously as both an agricultural threat and a public health threat. My approach would be to stay ahead of outbreaks instead of waiting until farms, workers, and local economies are already taking the hit. That means strong surveillance, fast reporting, clear quarantine protocols, and real support for producers who are being asked to absorb the cost of doing the right thing. It also means recognizing that poultry and dairy workers are often the first people exposed, so worker protection has to be part of the response, not an afterthought.
+
+    I would prioritize a few practical steps. First, strengthen testing and monitoring, including support for Pennsylvania’s dairy herd monitoring and mandatory milk testing programs, rapid diagnostics, and clear reporting lines between farmers, veterinarians, PDA, DOH, USDA, and the Game Commission. Second, help farms implement biosecurity with grants or cost-sharing for protective gear, sanitation supplies, traffic control measures, isolation space, and training, especially for smaller operators and backyard flocks that may not have the same resources as large commercial facilities. Third, protect workers with multilingual safety guidance, PPE access, exposure protocols, flu vaccination outreach, and the ability to stay home or seek care without fearing lost wages or retaliation. Fourth, make indemnification and recovery assistance move faster when flocks are culled or movement restrictions disrupt business. If the state asks producers to carry the burden of containment, the state should help carry the cost.
+
+    I would also emphasize honest public communication. People need to know that pasteurized milk remains safe, that properly handled poultry products are safe, and that the bigger risks are occupational exposure, spread between animals, and preventable breakdowns in surveillance and biosecurity. As of July 24, 2026, Pennsylvania reports no cases in dairy cattle, but the state is actively managing poultry outbreaks and has quarantine, testing, and movement restrictions around infected farms. The goal should be simple: contain outbreaks fast, protect workers, keep farms operating safely, and prevent an animal health crisis from becoming a broader public health problem.
+
+- candidate_first_name: Austin
+  candidate_last_name: Graham
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q4
+  date: 2026-07-24
+  primary_candidate: false
+  response: |
+    Pennsylvania should have a more balanced energy portfolio than it does today. Right now, according to the U.S. Energy Information Administration, Pennsylvania’s electric power sector is still dominated by natural gas at 51.4% and nuclear at 39.2%, with coal at 7.4% and renewables at just 2.0% in 2024. That tells me we need to keep a diverse and reliable system, but also do a much better job growing renewables, storage, and efficiency instead of staying near the bottom of the country on wind, solar, and hydropower.
+
+    My view is that nuclear should remain a major backbone source because it provides steady carbon-free power. I understand why people have concerns about nuclear power. I grew up right next to Three Mile Island, so I do not dismiss those concerns. But I also think we have to be honest about relative risk. Newer, smaller, more efficient reactor designs are not the same as older generations of nuclear plants, and the risks of modern nuclear technology are lower than the long-term public-health and environmental damage we have accepted for decades from coal. Natural gas will remain part of the mix in the near term, but it should not be an excuse to delay cleaner energy or ignore methane leakage. Coal should continue to decline.
+
+    The biggest area for growth should be renewables, battery storage, grid upgrades, and efficiency, especially where they can directly lower costs for working families and local governments. One policy I strongly support is expanding state support for schools to install solar power. School taxes are a real burden for many Pennsylvanians, especially seniors on fixed incomes who already own their homes and are getting squeezed by rising costs. If we can help school districts replace one of their major long-term operating costs with renewable energy, that is a win-win: lower utility costs for schools, less pressure on local property taxes, and more clean energy on the grid. I would also support modernizing Pennsylvania’s energy standards, speeding up interconnection for viable projects, expanding community energy and distributed generation, and strengthening efficiency programs that lower bills before families use a kilowatt.
+
+- candidate_first_name: Austin
+  candidate_last_name: Graham 
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q5
+  date: 2026-07-24
+  primary_candidate: false
+  response: |
+    Large data centers can bring jobs and tax base, but ordinary ratepayers and local communities should not be forced to subsidize their power demand, water use, or land-use impacts. If a project needs major new generation, transmission, distribution upgrades, backup systems, water infrastructure, or emergency-response capacity, the developer should pay those costs. The public benefit should come from good jobs, local tax revenue, enforceable community benefits, and infrastructure that communities actually want, not from backdoor subsidies or pressure on municipal zoning. I support the basic direction Pennsylvania has taken in requiring large-load customers to bear the costs they cause and in requiring more disclosure before projects move forward.
+
+    I would go a step further on land use. I support treating large AI data centers as a regional land-use issue, more like landfills or power plants than an ordinary warehouse. A municipality that hosts a project should have real control, but surrounding municipalities should also have a voice because the impacts do not stop at the property line. If a town wants a data center and neighboring communities can live with the traffic, noise, transmission buildout, water demand, and visual impact, that is one thing. If the host community or surrounding communities do not want it, the state should not steamroll them.
+
+    Before a project moves forward, I would support clear requirements on power, water, and public reporting. On power, the developer should show a binding energy plan proving that new demand will not raise bills for existing customers, and that it will pay for any grid upgrades, interconnection costs, and stranded-cost risk if the project scales down or walks away. On water, the developer should disclose expected annual consumption, source of supply, wastewater impacts, and water-use efficiency, and complete a feasibility study where local water stress is a concern. On transparency, I would require early notice to the host municipality and surrounding municipalities, public meetings before key site decisions are locked in, disclosure of the actual end user and project footprint, and ongoing annual reporting on energy use, water use, and community-benefit commitments. If a company wants fast-track treatment or public support, it should meet a very high bar on transparency and accountability first.
+
+    As of July 24, 2026, Pennsylvania already has several live proposals moving in this direction. House Bill 1834 passed the House on March 24, 2026 and would regulate commercial data centers with PUC review and cost-allocation rules. House Bill 2150 passed the House on April 13, 2026 and would require annual energy and water reporting. House Bill 2151 passed the House the same day and would create model zoning ordinance assistance for municipalities. The Governor’s May 27, 2026 GRID standards also require developers seeking Commonwealth support to build, bring, or buy incremental electric capacity, pay project-caused costs, report expected peak power and water use, and notify impacted local governments. That is a good start, but I would put even more weight on local consent and regional land-use control.
+
+- candidate_first_name: Jared
+  candidate_last_name: Bitting
+  state: pa
+  race: State House of Representatives
+  district: 138
+  party: Democratic 
+  question: pa-q1
+  date: 2026-07-24
+  primary_candidate: false
+  response: |
+    I do believe that we need to place restrictions on PFAS chemicals in Pennsylvania. This is largely due to the fact that they can build up in our ecosystems and resist the natural process of degradation. The impact to wildlife and human life is very concerning.  
+
+    KEYWORDS: ecosystem, impact, restrictions
+
+- candidate_first_name: Jared
+  candidate_last_name: Bitting
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q2
+  date: 2026-07-24
+  primary_candidate: false
+  response: |
+    I believe our state Department of Health needs to do everything in its power to educate our communities that the MMR vaccine is indeed safe and effective. As a policy maker, we need to ensure that there are mandates in place, but I don't believe that alone is enough. My priority would be to engage communities with transparency, respect, and evidence-based information while ensuring everyone has convenient access to vaccines.
+
+    KEYWORDS: evidence-based, mandates, effective, transparency
+
+- candidate_first_name: Jared
+  candidate_last_name: Bitting
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q3
+  date: 2026-07-24
+  primary_candidate: false
+  response: |
+    Strengthening Pennsylvania’s response to the avian influenza will require our ability to do diagnostic testing and enforcing strict biosecurity measures. As a state we need to ensure the necessary funding and support for the health monitoring systems we have in place here in Pennsylvania. Finally, there needs to be interagency cooperation between the USDA and our own Department of Agriculture to make sure emergency outbreaks are efficient and effective.
+
+    KEYWORDS: diagnostic testing, biosecurity, cooperation
+
+- candidate_first_name: Jared
+  candidate_last_name: Bitting
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q4
+  date: 2026-07-24
+  primary_candidate: false
+  response: |
+    There are clear environmental benefits to implementing more wind, solar, and hydropower energy production. However, at the same time fossil fuel and nuclear energy production supports thousands of jobs in our state. Finally, we need to set goals for more clean energy in Pennsylvania as well as funding to modernize our power grid to support these new sources.
+
+    KEYWORDS: modernize, jobs, clean energy, power grid
+
+- candidate_first_name: Jared
+  candidate_last_name: Bitting
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q5
+  date: 2026-07-24
+  primary_candidate: false
+  response: |
+    I believe in smart and responsible economic growth, but not at the cost to public utility customers. Data center developers must be required to pay their own grid, power, and water costs. Any new projects or ones under development need strict rules on how they use resources. This information needs to be made available to the public before any project proceeds. Also, whenever necessary, these projects should rely on clean energy sources to power their needs. Finally, the state needs to ensure oversight to ensure all state guidelines are met.
+
+    KEYWORDS: oversight, economic growth, rules clean energy
+
+- candidate_first_name: Tina
+  candidate_last_name: Burns
+  state: pa
+  race: State House of Representatives
+  district: 124
+  party: Democratic
+  question: pa-q1
+  date: 2026-07-24
+  primary_candidate: false
+  response: |
+    Yes. The documented evidence of the significant relationship between exposure and detrimental health risks.
+
+- candidate_first_name: Tina
+  candidate_last_name: Burns
+  state: pa
+  race: State House of Representatives
+  party: Democratic 
+  question: pa-q2
+  date: 2026-07-24
+  primary_candidate: false
+  response: |
+    Support HB 1828, & 120 and any other bills presented for vaccinations that are based in science. Community engagement needs to focus on early intervention utilizing public services such, as CFSS, schools and other outreach programs. 
+
+- candidate_first_name: Tina
+  candidate_last_name: Burns
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q3
+  date: 2026-07-24
+  primary_candidate: false
+  response: |
+    Support HB995 and for increased funding for preparedness. The governor's recent enhancement in the latest budget aims to both increase funds and has planning in place to grow, improve, and prioritize the workers, communities, and broader public. Education and public notification are paramount elements along with having the resources and trained staff at the ready to contain any outbreaks.
+
+- candidate_first_name: Tina
+  candidate_last_name: Burns
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q4
+  date: 2026-07-24
+  primary_candidate: false
+  response: |
+    PA needs to strive for being in the top 10 in the country for cleaner energy productions. Fossil fuel needs to be transitioned into cleaner sources. In order to do that dark and corporate money needs to be removed from politics, because PA is largely bought and paid for by dark and corporate money sources. 
+    
+    Many of those sources have vested interests in PA's fossil fuel industry. The fossil fuel industry in PA needs to have the same rules and regulations implemented on it, that many of the current politicians are trying to force on cleaner energy source in order to slow them down or even stop them from being viable energy source options. There are at least 4 HBs that outline a plan for incorporating cleaner energy sources in PA that would help with addressing energy distribution.
+
+- candidate_first_name: Tina
+  candidate_last_name: Burns
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q5
+  date: 2026-07-24
+  primary_candidate: false
+  response: |
+    There are currently some valuable house bills that have passed with bipartisan approval that have been set in a pile and forgotten by the Senate. Those bills would go a long way in starting the beginning of a long journey to regulate AI.
+    
+    Ordinary ratepayers should not have to absorb any cost at all related to AI. This needs to be placed directly on the tech companies and profiting organizations that are jamming AI down on everyone without say or regulation. The US currently has more data centers than any other country and we have more than we need. The only way AI and those pushing the advancement of it at a rate of lightning need to be regulated to slow them down, and also held accountable for coming up with technology that does not destroy our environment or pass the cost on to ordinary ratepayers.
+
+- candidate_first_name: Anju
+  candidate_last_name: Singh
+  state: pa
+  race: State House of Representatives
+  district: 106
+  party: Democratic
+  question: pa-q1
+  date: 2026-07-25
+  primary_candidate: false
+  response: |
+    Yes, Pennsylvania (and all other states/countries) should restrict PFAS in consumer products. The EPA provides resources to studies done that found a close association of PFAS with harmful health effects on humans like cancer, infertility, gestational hypertension, decreased immunity, developmental delays, etc. 
+    
+    In vitro and in vivo researches have found coorelations between PFAS exposure and oxidative stress effects in mammals and other vertebrates. According to a 2004 study by ChemRick Inc., the Dupont plant in Washington Works, West Virginia, which released large amounts of PFAO into the environment and water, found increased average PFAO blood concentration in the population near the plant compared to the national average. In another study a positve trend was seen for prostate and pancreatic cancer among workers in a Minnesota PFAO production plant. These observations led to the inference that there is an correlation between PFAO exposure and cancer.
+
+    KEYWORDS: PFAO, PFAS, cancer, forever chemicals,  
+
+- candidate_first_name: Anju
+  candidate_last_name: Singh
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q2
+  date: 2026-07-25
+  primary_candidate: false
+  response: |
+    People's concerns around vaccines are often based on misinformation or lack of education. Therefore public education and awarness on how vaccines work, why sometimes it may appear that they don't work and transperancy around posible side effects will hopefully increase vaccination rates. Also, emphasising the importance of herd immunity to protect those who are not able get vaccinated due to other health conditions is important to communicate. 
+    
+    As a policy maker I would introduce, support, co-sponsor legislation that encourages vaccination and make access to health care affordable. 
+
+    KEYWORDS: vaccine, measles, prevention, herd immunity
+
+- candidate_first_name: Anju
+  candidate_last_name: Singh
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q3
+  date: 2026-07-25
+  primary_candidate: false
+  response: |
+    As a policy maker, I would support, and co-sponsor legislature that invests in preventive measures, biosecurity, early detection, quarantine and treatment. To protect farm workers, agricultural communities and the public, I would outline best practices like use of PPE, sanitizing delivery vehicles, product movement protocol, guildline for farm access, etc. 
+
+    KEYWORDS: avain flu, protect farms, biosecurity, poultry, dairy
+
+- candidate_first_name: Anju
+  candidate_last_name: Singh
+  state: pa 
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q4
+  date: 2026-07-25
+  primary_candidate: false
+  response: |
+    In addition to PA being the second largest producer of natural gas and nuclear energy, as well as the third largest producer of coal, and ranking 45th in terms of wind, solar and hydropower energy production; PA is the fourth highest carbon-emitting state in the country.
+    
+    PA also recently exited the RGGI, thus eliminating the Commonwealth's primary climate policy. In addition, PA has numerous data centres being built which will add to the water, noise, and heat pollution while consuming large amounts of energy. Finally, the evergy demand is expected to grow over time while energy generation has been declining. 
+    
+    All this makes it critical for policy makers to be creative in finding incentives to generate clean energy. Modernizing fossil fuels to transition to co-located energy systems where gas plants pair with on-site solar and battery storage to ensure baseload relaibility. Nuclear energy provides zero-emission, very reliable baseload that compliments intermittent renewables. Expanding utility-scale solar arrays, wind and geo-thermal energy sources. Intergrating grid-enhancing technologies to manage large industrial and data-center loads, to avoid power bottlenecks.  
+
+    KEYWORDS: renewable energy, solar power, geothermal, GRID, fossil fuel, nuclear energy, data center, 
+
+- candidate_first_name: Anju
+  candidate_last_name: Singh
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q5
+  date: 2026-07-25
+  primary_candidate: false
+  response: |
+    In Pennsylvania, Governor Josh Shapario has set up some guard rails for data center development and I currently support his plan. The Governor's Responsible Infrastructure Development (GRID) standards establish best practices that data Centers must comply with to receive support from the Commonwealth. These standards are the benchmark for data center developers to demonstrate that they are doing right by Pennsylvania communities. 
+    
+    They focus on four key areas: Energy Affordability, Transparency and Community Engagement, Workforce and economic development and Environmental Protection. Data centers need to generate their own energy, preferable from renewable sources and provide evidence of community benefits, like job opportunities. They need to provide information about their water consumption and any chemicals added to their water, and finally if that water with any chemicals or pollutants in it will be emptied into the ground, or watershed. 
+    
+    Annual reports on energy, water, fire safety, community benefits must be available to the public.
+
+    KEYWORDS: GRID, Renewable energy, Data Centers, Artificail Intelligence, 
+
+- candidate_first_name: Lisa
+  candidate_last_name: Borowski
+  state: pa
+  race: State House of Representatives
+  district: 168
+  party: Democratic
+  question: pa-q1
+  date: 2026-07-26
+  primary_candidate: false
+  response: |
+    I am a co-sponsor of House Bill 2145 and fully support the provisions to eliminate the use of PFAS in everyday products. 
+    
+    I have also supported legislation to remove PFAS from clothing, specifically protective gear for firefighters and to ban the use in firefighting foam (I'm a co-sponsor of House Bill 1261). I believe scientific evidence from environmental experts (US EPA, PA DEP, Nature Conservancy, ECOS) coupled with healthcare experts (CDC, NASEM) and healthcare professional organizations (ACOG, AAP, AAFP) more than provide the evidence-based information which detail the negative effects of PFAS chemical.
+
+    KEYWORDS: Negative Effects, Evidence-based, Eliminate
+  
+- candidate_first_name: Lisa
+  candidate_last_name: Borowski
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q2
+  date: 2026-07-26
+  primary_candidate: false
+  response: |
+    It is important to understand why people have lost faith in the medical and scientific communities when it comes to vaccines. I think the best way to do so is to dig in and try to understand the concerns and address those one by one. 
+    
+    I think we have proven a mandate for people to do something only makes them more skeptical and distrustful. I think the best thing is also to have people talking to people. Not elected leaders telling people what to do. It might take time, but I think we need to identify the trusted individuals in the communities and provide them with the factual information to disseminate. 
+    
+    We also need to find the local stories which bear out the research and highlight the successes or, sadly, the bad outcomes.
+
+    KEYWORDS: Understand, No mandates, Facts
+
+- candidate_first_name: Lisa
+  candidate_last_name: Borowski
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q3
+  date: 2026-07-26
+  primary_candidate: false
+  response: |
+    I supported poultry technician licensing reform to try and get more inspectors on the ground to assist in addressing the outbreaks and make sure current regulations are being followed and enforced. 
+    
+    We need to make sure there is a focus on biosecurity and ensure that whether commercial or backyard, all poultry operations are registered. We need to invest more dollars in making sure there is broad awareness of the dangers of avian flu and that those in the business are following standards to help prevent the spread. More people committed to this effort would be helpful.
+
+    KEYWORDS: Inspectors, Awareness, Enforcement
+    
+- candidate_first_name: Lisa
+  candidate_last_name: Borowski
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q4
+  date: 2026-07-26
+  primary_candidate: false
+  response: |
+    I believe we need to expand our use of green energy and fully integrate it into the electrical grid. We will never be able to meaningfully reduce our dependence on fossil fuels if we don't invest in green infrastructure and prove it can help offset the need for fossil fuels. 
+    
+    As a member of the House Blue-Green Caucus I have supported geothermal and Small Modular Reactors (SMRs), Clean Manufacturing, Battery Storage and Solar Warehouses, Solar for Warehouses and Solar for Schools. In addition, I support House Bill 503 – Pennsylvania Climate Emissions Reduction Program.
+
+    KEYWORDS: Green energy, Expand, Integrate
+    
+- candidate_first_name: Lisa
+  candidate_last_name: Borowski
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q5
+  date: 2026-07-26
+  primary_candidate: false
+  response: |
+    We need to make sure our local communities have all the resources and tools they need to make decisions regarding data centers. In PA, development decisions are locally controlled, and they need to have strong legislation in place to make legally defendable decisions consistent with the desires of their communities.
+    
+    I fully support intensive vetting of these projects, complete transparency on the part of the developer, and strong local legislation to help elected leaders make legally defendable decisions if those decisions are challenged in court. 
+
+    KEYWORDS: Transparency, Legally Defendable, Local Control
+
+- candidate_first_name: Brian
+  candidate_last_name: Fitzpatrick
+  state: pa
+  race: US House of Representatives
+  district: 1
+  party: Republican
+  question: pa-q1
+  date: 2026-07-27
+  primary_candidate: false
+  response: |
+    Yes. I am leading on the federal level on a bipartisan legislative push to eliminate toxic "forever chemicals" (PFAS) from everyday consumer goods, focusing specifically on two key bills: the Keep Food Containers Safe from PFAS Act and the No PFAS in Cosmetics Act. These bills focus on direct pathways of human exposure where chemicals can leach straight into food or be absorbed through the skin. There are well-documented health risks linked to PFAS, including hormone disruption, liver disease, thyroid dysfunction, and various cancers. These uniform federal standards builds on similar phase-outs already enacted in several individual states.
+
+    KEYWORDS: PFAS health safety
+
+- candidate_first_name: Brian
+  candidate_last_name: Fitzpatrick
+  state: pa
+  race: US House of Representatives
+  party: Republican
+  question: pa-q2
+  date: 2026-07-27
+  primary_candidate: false
+  response: |
+    Regarding vaccines for highly transmissible, and widely studied diseases, I think it is important to approach communities with vaccine hesitancy with data and facts concerning safety and personal and public health benefits. While acknowledging distrust that may exist, I will support funding for public education efforts and expanding health resources for vaccines for those who the community where access and affordability remains an issue.
+
+    KEYWORDS: Health access affordability
+
+- candidate_first_name: Brian
+  candidate_last_name: Fitzpatrick
+  state: pa
+  race: US House of Representatives
+  party: Republican
+  question: pa-q3
+  date: 2026-07-27
+  primary_candidate: false
+  response: |
+    I support robust funding for USDA so that our nation’s experts and leading agricultural scientist can collaborate both with Pennsylvania agencies and our world leading research universities. 
+    
+    One of the legislative efforts I have led to stop the spread of avian influenza outbreaks is the Mink VIRUS Act, which aims to phase out or ban captive mink operations. Documented evidence shows that species like mink can be high-risk viral reservoirs capable of contracting and mutating dangerous pathogens, including H5N1 avian influenza. Therefore, by promoting humane animal welfare, we can in the future stop these outbreaks at the source or at the very least, slow transmission.
+
+    KEYWORDS: Agriculture prevention research
+
+- candidate_first_name: Brian
+  candidate_last_name: Fitzpatrick
+  state: pa
+  race: US House of Representatives
+  party: Republican
+  question: pa-q4
+  date: 2026-07-27
+  primary_candidate: false
+  response: |
+    The key to this expanding the energy deployment of renewable energy resources is to expand the transmission capabilities of the grid to allow more renewable energy to participate in the distribution on an equal basis with fossil fuels. Once transmission expansion occurs, ensuring that the renewables have access to capital investment and a fair tax base is crucial.
+
+    KEYWORDS: Renewable transmission deployment
+
+- candidate_first_name: Brian
+  candidate_last_name: Fitzpatrick
+  state: pa
+  race: US House of Representatives
+  party: Republican
+  question: pa-q5
+  date: 2026-07-27
+  primary_candidate: false
+  response: |
+    We must strike the right balance between protecting affordability for utility ratepayers and promoting environmentally conscious economic development and good-paying union jobs. Public reporting and transparency remains critical for public trust and understanding of the approval process. Other requirements and specifications should depend upon the particulars of a project, environmental factors, and that particular community’s input and energy needs. 
+
+    KEYWORDS: Affordability ratepayers community
+
+- candidate_first_name: Judy
+  candidate_last_name: Trombetta
+  state: pa
+  race: State House of Representatives
+  district: 166
+  party: Democratic 
+  question: pa-q1
+  date: 2026-07-27
+  primary_candidate: false
+  response: |
+    Yes, Pennsylvania should take action to restrict the use of PFAS chemicals in consumer products. As policymakers, we have a responsibility to protect Pennsylvanians from harmful exposures while ensuring decisions are guided by sound science and practical implementation.
+
+    In making decisions about PFAS regulation, I would rely on the best available scientific evidence, including research from public health agencies, environmental scientists, toxicologists, and regulatory bodies regarding the health impacts of PFAS exposure. I would also consider data on exposure levels, environmental contamination, and the effectiveness of available alternatives.
+
+    KEYWORDS: Public Health; Environmental Protection; Evidence-Based Research
+
+- candidate_first_name: Judy
+  candidate_last_name: Trombetta 
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q2
+  date: 2026-07-27
+  primary_candidate: false
+  response: |
+    As a policymaker, I believe it is essential to approach concerns about infectious diseases and vaccine safety with respect, empathy, and a commitment to sharing accurate, science-based information. Public trust is critical, and we need to engage communities through open conversations, accessible information, and partnerships with trusted local healthcare providers, schools, and community leaders.
+
+    At the same time, policymakers have a responsibility to protect public health and prevent the spread of serious and preventable diseases. I support policies that promote access to vaccines, strengthen public health education, and ensure families have the information and resources they need to make informed decisions. I also believe we must continue to listen to concerns, address misinformation with facts, and make sure communities understand the safety and effectiveness of recommended vaccines.
+
+    KEYWORDS: Education; Partnership; Communication
+
+- candidate_first_name: Judy
+  candidate_last_name: Trombetta
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q3
+  date: 2026-07-27
+  primary_candidate: false
+  response: |
+    Pennsylvania’s agricultural industry is a critical part of our economy and our communities, and we must ensure we are prepared to respond quickly and effectively to threats like avian influenza. I support strengthening coordination between state agencies, farmers, veterinarians, public health officials, and local communities to improve preparedness, communication, and response efforts.
+
+    Protecting farm workers and agricultural communities must be a priority. I support ensuring that workers have access to appropriate training, protective equipment, and timely information about potential risks. We should also continue investing in surveillance, testing, and resources that help farmers identify and contain outbreaks while minimizing economic harm.
+    
+    A strong response requires partnership. Farmers and agricultural professionals are on the front lines of protecting both their livelihoods and public health, and they should have a seat at the table when developing policies that impact their operations. By combining science-based strategies, strong communication, and support for our agricultural community, Pennsylvania can better protect workers, producers, and consumers.
+
+    KEYWORDS: Preparedness; Partnership; Education
+
+- candidate_first_name: Judy
+  candidate_last_name: Trombetta
+  state: pa
+  race: State House of Representatives
+  party: Democratic 
+  question: pa-q4
+  date: 2026-07-27
+  primary_candidate: false
+  response: |
+    While Pennsylvania has a strong history as an energy-producing state, there is a clear opportunity to diversify and expand our renewable energy portfolio. While natural gas, nuclear energy, and other traditional sources have played a significant role in our energy economy, I believe Pennsylvania should begin shifting toward a greater reliance on renewable energy sources, including wind, solar, and hydropower.
+
+    I am a strong proponent of renewable energy and believe we should be creating policies that incentivize its growth. Expanding renewable energy will help reduce pollution, protect public health, create good-paying jobs, and position Pennsylvania for the future. This includes supporting investments in solar and wind development, improving energy efficiency, modernizing our electric grid, and making it easier for communities, businesses, and residents to participate in the clean energy transition.
+
+    As we make this shift, we must ensure that our energy system remains reliable and affordable for Pennsylvania families and businesses. A responsible transition requires thoughtful planning, investment, and support for workers and communities impacted by changes in our energy economy. Pennsylvania has a significant opportunity to move toward a cleaner, more sustainable energy future while continuing to support economic growth across the Commonwealth.
+
+    KEYWORDS: Incentivize; Diversification; Expand Renewable
+
+- candidate_first_name: Judy
+  candidate_last_name: Trombetta
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q5
+  date: 2026-07-27
+  primary_candidate: false
+  response: |
+    Large data centers represent both economic opportunities and significant infrastructure challenges, and Pennsylvania should approach their development thoughtfully. I believe we must carefully consider the potential health, environmental, energy, and resource impacts of these facilities, in addition to the financial costs. Companies that benefit from these projects should bear an appropriate share of the costs associated with the demands they place on our infrastructure, and those costs should not unfairly fall on ordinary ratepayers or taxpayers.
+
+    I am a strong believer in local government authority when it comes to data center development. Local elected officials are responsible for zoning and land use decisions, and they should have a meaningful voice in determining whether and how these projects move forward in their communities. Those closest to the residents impacted by development are often best positioned to understand local needs and concerns.
+
+    At the same time, the state has an important role in establishing standards around energy and water usage, environmental protections, and transparency requirements. I support strong public reporting and oversight to ensure developers are accountable for their impacts. Pennsylvania should encourage responsible innovation while protecting our communities, natural resources, and long-term quality of life.
+
+    KEYWORDS: Local Control; Strong Regulations; Environmental Protection
+
+- candidate_first_name: Dave 
+  candidate_last_name: Zimmerman
+  state: pa
+  race: State House of Representatives
+  district: 99
+  party: Republican
+  question: pa-q1
+  date: 2026-07-27
+  primary_candidate: false
+  response: |
+    This bill is not ready for prime time. First the amount of PFAS that is considered dangerous in so minute it can almost not be measured. We need to begin with the big offenders and get our arms around the issue. Instead we are trying to make it a fund raiser by going after the little guys.
+
+- candidate_first_name: Dave
+  candidate_last_name: Zimmerman
+  state: pa
+  race: State House of Representatives
+  party: Republican
+  question: pa-q2
+  date: 2026-07-27
+  primary_candidate: false
+  response: |
+    I believe in medical freedom. I also believe it is the responsibility of a family to protect others if a family member becomes infected
+
+- candidate_first_name: Dave
+  candidate_last_name: Zimmerman
+  state: pa
+  race: State House of Representatives
+  party: Republican
+  question: pa-q3
+  date: 2026-07-27
+  primary_candidate: false
+  response: |
+    I have followed this since the beginning. The only solution that officials have come up with is killing the birds and composting them. Avian keeps returning so what we are doing is not working.
+
+- candidate_first_name: Dave
+  candidate_last_name: Zimmerman
+  state: pa
+  race: State House of Representatives
+  party: Republican
+  question: pa-q4
+  date: 2026-07-27
+  primary_candidate: false
+  response: |
+    Pa has the natural gas, nuclear and coal. We have the resources and we know how to do these. Pa should do more of what we have and build on that and do it even better. Then we can even help our neighbors and make energy more efficient for everyone. We simply hold up progress through overregulating. 
+
+- candidate_first_name: Dave
+  candidate_last_name: Zimmerman
+  state: pa
+  race: State House of Representatives
+  party: Republican
+  question: pa-q5
+  date: 2026-07-27
+  primary_candidate: false
+  response: |
+    The State needs to provide over arching policy, like bring your own energy. Then it should be left to the local municipalities to decide on a case by case basis. We want these center in our Country and not in China. Let build them responsibly without chasing them away. Lets build then on marginal land and not on good farmland. 
+
+- candidate_first_name: Lauren
+  candidate_last_name: McCurdy
+  state: pa
+  race: State House of Representatives
+  district: 119
+  party: Democratic
+  question: pa-q1
+  date: 2026-07-27
+  primary_candidate: false
+  response: |
+    Concerns about plastics and poisons leeching into our fresh water supplies is a major concern in my post-mining industry region. I would support legislation protecting consumers from these significant contaminants. 
+
+- candidate_first_name: Lauren
+  candidate_last_name: McCurdy
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q2
+  date: 2026-07-27
+  primary_candidate: false
+  response: |
+    This is a difficult issue. I don’t know how much “vaccine education” can solve this problem. Pediatricians need to be supportive of these vaccines. I know someone formerly from the vaccine industry who has shared some uncomfortable stories about the manufacturing process. People need to have full faith and trust in what they put into their children’s bodies, but the increase of home schooling communities that will use their children’s health as an exercise of freedom seems to be increasing. I do believe in the power of vaccination. I would like to support initiatives that expand the use. 
+
+- candidate_first_name: Lauren
+  candidate_last_name: McCurdy
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q3
+  date: 2026-07-27
+  primary_candidate: false
+  response: |
+    Improving early detection of outbreaks and having a systems in place that minimize risk of spread and death in herds/flocks is important and needs to be a priority. Perhaps more funding to our land grant universities could help this effort. Standards to protect farm workers should be developed.
+
+- candidate_first_name: Lauren
+  candidate_last_name: McCurdy
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q4
+  date: 2026-07-27
+  primary_candidate: false
+  response: |
+    We must close the door on new fossil fuel industries and incentivize renewable energy. Small scales green energy, grant systems to encourage green energy industries, including reducing dependence on petroleum based products is the right direction for PA
+
+- candidate_first_name: Lauren
+  candidate_last_name: McCurdy
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q5
+  date: 2026-07-27
+  primary_candidate: false
+  response: |
+    If profits leave the state, there must been deep taxation to lessen the burden on PA taxpayers for roads, schools and public safety costs.
+
+- candidate_first_name: Margaret 
+  candidate_last_name: Burke
+  state: pa
+  race: State House of Representatives
+  district: 147
+  party: Democratic
+  question: pa-q1
+  date: 2026-07-28
+  primary_candidate: false
+  response: |
+    PFAS chemicals are used in many products because they have tight chemical bonds that make them resistant to heat and staining. The 'impenetrability' that makes PFAS useful in products also makes them “forever chemicals”, breaking down slowly and remaining in our environment for long periods of time. Because PFAS chemicals are water-soluble, they cycle between our air, ground and drinking water. When products contain PFAS, those chemicals eventually make their way into our bodies. 
+    
+    Human consumption of PFAS is linked to, among other things, cancers, immune, cardiac and reproductive problems. Therefore, I support House Bill 2145 to restrict PFAS use in consumer products. The data that supports this decision include water and soil sample testing that show the chemicals are long lived as well as serum samples that show PFAS chemicals are not quickly cleared from human bodies. The link to health problems was made by studying populations with high levels of occupational PFAS exposure. 
+    
+    One caveat is that if PFAS is banned, companies likely would replace them with other chemicals with similar "impenetrable" chemical properties and we don’t know the health impacts of widespread exposure to those chemicals. We must be vigilant in monitoring the impact of any replacements. 
+
+- candidate_first_name: Margaret 
+  candidate_last_name: Burke 
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q2
+  date: 2026-07-28
+  primary_candidate: false
+  response: |
+    It’s now 132 cases- 27 in the last seven days! None were fully vaccinated. Vaccines have become victims of their own success. When polio raged, American citizens contributed dimes to find a way to prevent it and parents rushed to vaccinate their children. Today’s parents haven't experienced these vaccine-preventable diseases which can make them fear vaccination more than disease. Now vaccination rates are falling below levels that stop the spread of infectious disease. 
+    
+    With a vaccine skeptic heading HHS and the CDC pausing vaccine-preventable disease surveillance reporting, it’s unlikely the federal government will encourage vaccination. Our state priorities are in collecting and reporting infectious disease data and making health professionals aware of outbreaks to enable vaccination for those at highest risk in the zone of infection. With data, we can transparently explain that vaccination reduces infections and disease severity. 
+    
+    The state should launch state-wide awareness campaigns and provide materials to doctors, especially pediatricians, to encourage protection by vaccination. Studies show the best way to increase vaccination rates is for people to see other people being vaccinated. Ad campaigns should highlight parents who have protected their children from measles outbreaks and other diseases through vaccination. 
+
+- candidate_first_name: Margaret
+  candidate_last_name: Burke
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q3
+  date: 2026-07-28
+  primary_candidate: false
+  response: |
+    The key to reducing the impact of outbreaks is to be proactive in early detection and prevention as opposed to mounting an expensive reactive response. Staffing cuts at key federal agencies threaten rapid responses to infectious disease outbreaks in livestock that damage our food supply, our health and our economy. 
+    
+    Agriculture is a major part of Pennsylvania’s economy and we have strong animal health and disease control standards. As a scientist, I rely on data to make decisions. Without a strong surveillance partner in the Federal government, Pennsylvania needs to be prepared to protect workers and animals from diseases spreading from other states and the broader public from potentially infected food supplied from outside the state. We must continue to fund a strong testing and reporting system to monitor diseases and rapidly respond. 
+    
+    The state can impose quarantines, restrict animal movement, conduct trace investigations, and coordinate depopulation and cleaning measures when a serious disease is detected. However, tracing and stopping infections and food-borne illnesses originating from outside of the state will likely always require a robust federal response. When that wanes, all states will be at a higher risk because an effective response needs to include federal cooperation.
+
+- candidate_first_name: Margaret
+  candidate_last_name: Burke
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q4
+  date: 2026-07-28
+  primary_candidate: false
+  response: |
+    As a scientist, I know climate change driven by greenhouse gas emissions is real and is bringing more extreme weather, flooding, and droughts that threaten our ecosystems, food supply, economy, and safety. In my home district, Perkiomen Valley Watershed flooding has already become more frequent and more dangerous. 
+    
+    As a mom, I know we can’t afford to ignore it. In Pennsylvania, where we have a constitutional right to clean air and pure water, it is more imperative than ever that we pass stronger legislation to limit greenhouse gas emissions. We must transition away from fossil fuels and towards clean energy generation.
+    
+    I support the Pennsylvania Climate Emissions Reduction (PACER) initiative and the Pennsylvania Reliable Energy Sustainability Standard (PRESS). PACER would establish a PA-specific cap on carbon dioxide emissions from power plants and require large power plants to purchase allowances for carbon dioxide emissions (cap and trade). The cap would be lowered over time making allowances more expensive thusly those market forces would encourage development of more clean energy sources over time. PRESS would require 35% of electricity to come from clean sources like solar and wind by 2035 moving the state away from fossil fuels. 
+
+- candidate_first_name: Margaret
+  candidate_last_name: Burke
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q5
+  date: 2026-07-28
+  primary_candidate: false
+  response: |
+    Right now in Pennsylvania, residential electric rate payers are subsidizing energy-hungry data center power use. Our rates are skyrocketing while corporations profit and that is not fair. Data centers should be required to supply their own clean energy sources so as not to drive up residential energy costs or pollute the environment. There are few limits to data center development other than often out-dated local zoning ordinances. I support putting legislative guardrails in place at a state level for data center development and operation including: water and energy use reporting, requiring transparency during development so townships and the public have time to properly discuss and plan, zoning assistance from the state to help townships update their zoning laws and enforce those laws if challenged, energy efficiency standards, emergency planning, requiring developers to pay for infrastructure completed in support of projects they later abandon, “good neighbor” provisions like creating long-term local jobs. In Pennsylvania, developers are exempt from sales tax for materials used to build data centers. A corporate benefit projected to cost two billion dollars in lost tax revenues. I support removing this tax exemption.
+
+- candidate_first_name: Chris
+  candidate_last_name: Rabb
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q1
+  date: 2026-07-31
+  primary_candidate: false
+  response: |
+    PFAS need to be removed from any item used in the creation of ingestible products, for any organic organism. Many of the products that we use on a daily basis, like cosmetics, dental floss, and menstrual products, contain per- and polyfluoroalkyl substances (PFAS,) which are a group of over 7,800 human-made chemicals that are used due to their ability to repel dirt, water, and grease. These chemicals, which do not break down in the environment, have been found to potentially cause serious health problems, such as cancer, immune system suppression, increased cholesterol levels, pregnancy-induced hypertension, liver damage, reduced fertility, and increased risk of thyroid disease. 
+    
+    I have a track record of supporting legislative efforts such as PA HB 2145, which sought to address the issues I’ve stated above. Environmental scientists across the United States have sounded the alarms on this issue since the 1960s. Corporations knew what would happen to our bodies, and part of the accountability I support is holding them wholly responsible for the deaths that’ll be associated with this exposure. 
+
+- candidate_first_name: Chris
+  candidate_last_name: Rabb
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q2
+  date: 2026-07-31
+  primary_candidate: false
+  response: |
+    We desperately need capital investment in political education, sexual health and the sciences, as well as serious federal investment in public health infrastructure. 
+    
+    We must change the antagonistic and adversarial relationship between Americans and their healthcare. The working class is likely to suffer the lion’s share of fatalities when these outbreaks and pandemics take shape. We keep each other safe, and a plan to provide Universal Healthcare is the first step there.  
+
+- candidate_first_name: Chris
+  candidate_last_name: Rabb
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q3
+  date: 2026-07-31
+  primary_candidate: false
+  response: |
+    We need to regulate the industrial slaughter of animals to reflect stronger standards on ethical consumption, health and quality life of animals and animal inspections. The money that was robbed by the Trump Administration from research regarding these subjects must be reinstated. 
+    
+    We could look to the European Union’s standards on industrial slaughter as a model of success, compared to the reckless environment our food standards operate under today. Humans and animals across Pennsylvania are served by stricter standards that emphasize safety for workers, animals and consumers. 
+
+- candidate_first_name: Chris
+  candidate_last_name: Rabb
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q4
+  date: 2026-07-31
+  primary_candidate: false
+  response: |
+    We should prioritize the development of these energy production resources across cities and areas of land suited for such industrial purposes. I would support consumer credits to switch to green energy across every electronic asset that consumes traditional fuels. 
+    
+    I would also support massive, historic investments in rail services, their expansion, improvement and enhanced aesthetics and maintenance. We have the capital to perform these wonders, and should give it to the people so they can create these incredibly important projects. Green jobs are the future we need. 
+
+- candidate_first_name: Chris
+  candidate_last_name: Rabb
+  state: pa
+  race: State House of Representatives
+  party: Democratic
+  question: pa-q5
+  date: 2026-07-31
+  primary_candidate: false
+  response: |
+    There will be no Data Center project that I will ever support. The only data center I will ever support is the Free Library of Philadelphia.
+    
+    I am ecstatic to support libraries and tech centers across the United States. Human ingenuity is an endless, unquantifiable resource we must invest ourselves in. 

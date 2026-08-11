@@ -55,6 +55,19 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+          # The stance validator writes its full grouped report here when it
+          # fails, so notify-on-failure can quote it verbatim in the issue.
+          STANCE_VALIDATION_REPORT: stance-validation-report.txt
+      - name: Upload validation report
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: stance-validation-report
+          path: stance-validation-report.txt
+          # Absent for failures the validator wasn't responsible for (Liquid
+          # errors, gem issues); the notify job falls back to the log excerpt.
+          if-no-files-found: ignore
+          retention-days: 7
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
@@ -80,6 +93,15 @@ jobs:
       issues: write
       actions: read
     steps:
+      # Present only when the stance validator was what failed the build. The
+      # step is allowed to fail so that every other kind of build failure still
+      # falls through to the log-scraping path below.
+      - name: Download validation report
+        continue-on-error: true
+        uses: actions/download-artifact@v4
+        with:
+          name: stance-validation-report
+
       - name: Fetch failed-step logs and extract error excerpt
         id: excerpt
         env:
@@ -87,6 +109,24 @@ jobs:
           GH_REPO: ${{ github.repository }}
         run: |
           set +e
+
+          # Preferred path: the validator already wrote a formatted report, so
+          # quote it directly rather than digging it back out of the log.
+          if [ -s stance-validation-report.txt ]; then
+            head -c 60000 stance-validation-report.txt > excerpt.txt
+            echo 'heading=Validation report' >> "$GITHUB_OUTPUT"
+            echo 'note=Produced by `_plugins/stance_tag_validator.rb`. Entry numbers are 0-based positions in the YAML list. See the full log via the Run link above.' >> "$GITHUB_OUTPUT"
+            {
+              echo 'excerpt<<__EOF__'
+              cat excerpt.txt
+              echo
+              echo '__EOF__'
+            } >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          echo 'heading=Error excerpt' >> "$GITHUB_OUTPUT"
+          echo 'note=Shows everything after the most recent `Generating...` marker in the failed step'"'"'s output (capped at 12 KB). See the full log via the Run link above.' >> "$GITHUB_OUTPUT"
 
           # The whole-run log archive (gh run view --log-failed) isn't ready
           # while this job is still running, so fetch the failed job's logs
@@ -141,10 +181,10 @@ jobs:
             - **Branch:** ${{ github.ref_name }}
             - **Event:** ${{ github.event_name }}
 
-            ### Error excerpt
+            ### ${{ steps.excerpt.outputs.heading }}
 
             ```
             ${{ steps.excerpt.outputs.excerpt }}
             ```
 
-            _Shows everything after the most recent `Generating...` marker in the failed step's output (capped at 12 KB). See the full log via the Run link above._
+            _${{ steps.excerpt.outputs.note }}_

@@ -2,9 +2,9 @@ name: Build and Deploy (fork dev)
 
 on:
   push:
-    branches: ["feature/stance"]
+    branches: ["feature/stance", "feature/website"]
   pull_request:
-    branches: ["feature/stance"]
+    branches: ["feature/stance", "feature/website"]
 
 permissions:
   contents: read

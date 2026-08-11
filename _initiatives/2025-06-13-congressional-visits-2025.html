@@ -1,0 +1,57 @@
+---
+layout: gridlay
+title: "2025 Congressional District Visits"
+excerpt: "Learn about SNAP's August 2025 congressional district visits."
+collection: initiatives
+category: past
+date: 2025-06-13
+permalink: /initiatives/district-visits-2025/
+---
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/Untitled-2.png"  width="100%">
+
+<p>The SNAP Congressional District Visits initiative was designed to help early-career scientists meet with their Members of Congress during the August recess. By shifting advocacy from DC-based fly-ins to hometown offices, District Visits lower barriers to participation, build local connections, and emphasize that science is not an abstract enterprise but a vital part of every congressional district.</p>
+
+<hr>
+
+<h2>August 2025 District Visits</h2>
+
+<p>In August 2025, initiative participants joined a Congressional Visits 101 training session on Zoom co-led by SNAP and AAAS. 144 participants received training and were assigned to a visit group.</p>
+
+<p>SNAP organized 54 visits across 29 states. The majority took place in House offices, and more than 60% were held virtually to maximize accessibility. In one case, scientists even led a lab tour, giving policymakers firsthand insight into the facilities where federally funded research unfolds.</p>
+
+<p>Each group entered meetings with a clear set of policy asks:</p>
+<ol>
+  <li>Sustained and increased federal science funding to support discovery, education, and innovation.</li>
+  <li>Halting destabilizing activities that threaten the continuity of research and the well-being of scientists.</li>
+</ol>
+
+<p>To ensure local resonance, SNAP members prepared district-specific one-pagers (see examples from <a href="https://snapcoalition.org/initiatives/district-visits/one-pager-example-1">Texas</a> and <a href="https://snapcoalition.org/initiatives/district-visits/one-pager-example-2">Washington</a>), which highlighted:</p>
+<ul>
+  <li>The scale of federal research investment in each state (e.g., \$1.9B in NIH funding for Texas in FY2024; \$1.26B for Washington).</li>
+  <li>The ways that federal science dollars support workforce development, technology innovation, and community prosperity.</li>
+  <li>Testimonials underscoring how funding connects directly to saving lives, revolutionizing technology, and training the next generation of scientists.</li>
+</ul>
+
+<p>These visits invited early-career researchers—graduate students, postdocs, and new faculty—to see themselves not only as scientists but also as constituents and community representatives. By directly engaging with lawmakers and building relationships at their district offices, SNAP members help reframe science as a shared, bipartisan value tied to local economies and everyday lives.</p>
+
+<p>Follow-up surveys and feedback collection highlighted how these visits built confidence among participants and strengthened relationships with policymakers.</p>
+
+<div class="jumbotron">
+  <h2>Press Mentions</h2>
+  <ul>
+    {% assign found = 0 %}
+    {% for article in site.data.press %}
+      {% if article.category contains 'Congressional Visits' %}
+        <li>
+          <p><b>{{ article.date | date: '%b %d, %Y' }}:
+        <a href="{{ article.website }}">{{ article.headline }}</a> in <i>{{ article.source }}</i></b></p>
+        </li>
+        {% assign found = found | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+    {% if found == 0 %}
+      <p><b>None yet! Check back soon for updates!</b></p>
+    {% endif %}
+  </ul>
+</div>

@@ -1,0 +1,268 @@
+- candidate_first_name: James
+  candidate_last_name: William Parkin IV
+  state: ak
+  race: Governor
+  party: Republican
+  question: ak-q1
+  date: 2026-07-24
+  primary_candidate: false
+  response: |
+    While I recognize that artificial intelligence is a growing industry nationwide, my priority is protecting Alaska's resources and residents. Under my administration, Alaska will not host AI data centers. These facilities demand massive amounts of electricity and water—resources that we must carefully manage and prioritize for our communities and existing industries, not for the immense utility draw of data infrastructure. However, this does not mean we will ignore the technology itself. We will adopt a cautious, measured approach to using AI in state operations and services, ensuring that any implementation strictly prioritizes data security, educational integrity, and tangible benefits for Alaskans. By maintaining a firm boundary against resource-draining data centers while carefully evaluating practical AI software applications, we can protect our state's infrastructure while remaining adaptable to technological advancements.
+
+    KEYWORDS: Resource Protection, Caution, Security
+
+- candidate_first_name: James
+  candidate_last_name: William Parkin IV
+  state: ak
+  race: Governor
+  party: Republican
+  question: ak-q2
+  date: 2026-07-24
+  primary_candidate: false
+  response: |
+    The preservation of our wild fish stocks and marine biology is foundational to Alaska's culture and economy, yet I am deeply concerned that financial interests are currently corrupting scientific research and resource management. We are witnessing critically low numbers of king salmon, while multi-billion-dollar commercial trawlers generate unacceptably high levels of bycatch. Millions of pounds of dead fish are wasted annually, but because large areas are under federal control—and because of the immense money involved—government agencies lack the political will to intervene. Furthermore, there is a troubling reluctance among scientists to report the true negative impacts of these practices. We must end this corruption. My policy is to fight aggressively for state influence over federal waters to strictly regulate bycatch and hold this industry accountable. Management must be driven by independent science, not by corporate profits.
+
+    KEYWORDS: Accountability, Bycatch, Integrity
+
+- candidate_first_name: James
+  candidate_last_name: William Parkin IV
+  state: ak
+  race: Governor
+  party: Republican
+  question: ak-q3
+  date: 2026-07-24
+  primary_candidate: false
+  response: |
+    Alaska has always been an energy powerhouse, but as we look to the future and our high per-capita energy consumption, we must diversify responsibly. My administration will prioritize moving Alaska toward hydrogen and hydroelectric power as our primary alternative energy sources. Hydroelectric power is a proven, reliable source of baseline energy that makes sense for our geography and water resources. Pairing it with emerging hydrogen technology provides a powerful path to clean, sustainable energy storage and deployment. These technologies offer a robust alternative to our reliance on fossil fuels without sacrificing grid stability. We will support policies, regulatory frameworks, and research initiatives that incentivize the development of hydrogen-hydroelectric infrastructure, ensuring Alaska remains an energy leader while securing long-term, affordable, and sustainable power for our communities.
+
+    KEYWORDS: Hydroelectric, Hydrogen, Diversification
+    
+- candidate_first_name: James
+  candidate_last_name: William Parkin IV
+  state: ak
+  race: Governor
+  party: Republican
+  question: ak-q4
+  date: 2026-07-24
+  primary_candidate: false
+  response: |
+    Alaska's vast, rugged terrain and harsh weather require both resilience and innovation. While we will continue to support and maintain our current transportation infrastructure like ports and highways, we must integrate helium airships into our logistics network. Modern cargo airships are environmentally friendly, carry heavy payloads, and require minimal infrastructure—needing no roads or landing fields to operate. They have multiple applications for Alaska, from delivering freight and medical supplies to interior communities to supporting remote resource development. Furthermore, I propose establishing a state airship construction company, which would bring a new high-tech manufacturing sector to Alaska and create excellent jobs. By blending the maintenance of our existing systems with the cutting-edge capability of helium airships, we can finally solve the unique access challenges facing our remote communities.
+
+    KEYWORDS: Airships, Connectivity, Innovation
+
+- candidate_first_name: James
+  candidate_last_name: William Parkin IV
+  state: ak
+  race: Governor
+  party: Republican
+  question: ak-q5
+  date: 2026-07-24
+  primary_candidate: false
+  response: |
+    The Department of Health and Human Services exists to protect and improve the physical, mental, and social well-being of all Alaskans, ensuring our most vulnerable populations have access to the care and support they need. It is a critical agency that requires leadership grounded in both rigorous expertise and profound empathy. When considering an appointee to lead this department, my criteria are strict: the commissioner must possess an extensive background in science and medical knowledge, paired with strong, demonstrated humanitarian experience. We do not need a political operative or a pure administrator; we need a qualified health professional who understands the science behind public health policy and has a proven track record of fighting for people's well-being. This ensures that our health policies are both medically sound and deeply compassionate.
+
+    KEYWORDS: Science, Humanitarianism, Experience
+
+- candidate_first_name: Edna
+  candidate_last_name: DeVries
+  state: ak
+  race: Governor
+  party: Republican
+  question: ak-q1
+  date: 2026-07-24
+  primary_candidate: false
+  response: |
+    We are presently gathering information, holding public meetings for input from both pro and con .  Staff personally visiting sites in other parts of the nation.
+
+- candidate_first_name: Edna
+  candidate_last_name: DeVries
+  state: ak
+  race: Governor
+  party: Republican
+  question: ak-q2
+  date: 2026-07-24
+  primary_candidate: false
+  response: |
+    Management must continue.
+
+- candidate_first_name: Edna
+  candidate_last_name: DeVries
+  state: ak
+  race: Governor
+  party: Republican
+  question: ak-q3
+  date: 2026-07-24
+  primary_candidate: false
+  response: |
+    We at the Mat Su borough already have alternative energy development.
+
+- candidate_first_name: Edna
+  candidate_last_name: DeVries
+  state: ak
+  race: Governor
+  party: Republican
+  question: ak-q4
+  date: 2026-07-24
+  primary_candidate: false
+  response: |
+    Advancement in transportation will be managed for those areas preferring transportation for their regions.
+
+- candidate_first_name: Edna
+  candidate_last_name: DeVries
+  state: ak
+  race: Governor
+  party: Republican
+  question: ak-q4
+  date: 2026-07-24
+  primary_candidate: false
+  response: |
+    Advancement in transportation will be managed for those areas preferring transportation for their regions.
+
+- candidate_first_name: Edna
+  candidate_last_name: DeVries
+  state: ak
+  race: Governor
+  party: Republican
+  question: ak-q5
+  date: 2026-07-24
+  primary_candidate: false
+  response: |
+    Integrity is the most desired value all my commissioners will be equipped with.
+
+- candidate_first_name: James
+  candidate_last_name: McDermott
+  state: ak
+  race: US House of Representatives
+  district: At-Large
+  party: Libertarian
+  question: ak-q1
+  date: 2026-07-23
+  primary_candidate: false
+  response: |
+    KEYWORDS: AI will work well for "We the People" as long as we the people have policies and statues in place and honest representation in DC watching over the people's best interest. 
+
+- candidate_first_name: James
+  candidate_last_name: McDermott
+  state: ak
+  race: US House of Representatives
+  district: At-Large
+  party: Libertarian
+  question: ak-q2
+  date: 2026-07-23
+  primary_candidate: false
+  response: |
+    As a former university business instructor teaching management, and as a professional working as a manager, I believe that good management requires building strong relationships with all the executive managers across the topic spectrum. Additionally, working with managers throughout the chain of commands.
+
+    KEYWORDS: Clean water, soil, air, all jump into my mind.
+
+- candidate_first_name: James
+  candidate_last_name: McDermott
+  state: ak
+  race: US House of Representatives
+  district: At-Large
+  party: Libertarian
+  question: ak-q3
+  date: 2026-07-23
+  primary_candidate: false
+  response: |
+    We have abundance of clean coal, natural gas, and high-quality oil. I am a big fan of very clean power like mini nuclear power plants to especially locate within our rural areas.
+
+    KEYWORDS: Smart, out of the box thinking, high tech.
+
+- candidate_first_name: James
+  candidate_last_name: McDermott
+  state: ak
+  race: US House of Representatives
+  district: At-Large
+  party: Libertarian
+  question: ak-q4
+  date: 2026-07-23
+  primary_candidate: false
+  response: |
+    Our Alaskan people are ready for the challenges to build new roads, bridges, overpasses, etc.... and all we need is for government to lead, follow, or get the hell out of the way.
+
+    KEYWORDS: Freedom to build a better Alaskan infrastructure. 
+
+- candidate_first_name: James
+  candidate_last_name: McDermott
+  state: ak
+  race: US House of Representatives
+  district: At-Large
+  party: Libertarian
+  question: ak-q6
+  date: 2026-07-23
+  primary_candidate: false
+  response: |
+    Scientists, Engineers, Business Leaders all working together is what my briefing room will invite in to tackle tough issues.
+
+    KEYWORDS: Teamwork, critical thinkers, academic leaders.
+
+- candidate_first_name: Shirley
+  candidate_last_name: Saucerman, M.D.
+  state: ak
+  race: US Senate
+  district: At-Large
+  party: No Party Preference
+  question: ak-q1
+  date: 2026-07-24
+  primary_candidate: false
+  response: |
+    AI data centers should be held accountable and moratorium placed on them until We The People are the ones to receive financial benefit for our general knowledge and until the great concern over the water and resources used as well as to the negative purposes for which AI can be used are better resolved.
+
+    KEYWORDS: Accountability
+
+- candidate_first_name: Shirley
+  candidate_last_name: Saucerman, M.D.
+  state: ak
+  race: US Senate
+  district: At-Large
+  party: No Party Preference
+  question: ak-q2
+  date: 2026-07-24
+  primary_candidate: false
+  response: |
+    Support of Bycatch Reduction and Research Act
+
+    KEYWORDS: Bycatch Reduction and Research Act
+
+- candidate_first_name: Shirley
+  candidate_last_name: Saucerman, M.D.
+  state: ak
+  race: US Senate
+  district: At-Large
+  party: No Party Preference
+  question: ak-q3
+  date: 2026-07-24
+  primary_candidate: false
+  response: |
+    Alternative energy sources such as solar, wind, and geothermal are critical. The devastating effects of global warming are being felt all over with more than 10,000 people dying in Europe so far this summer from the heat and much of the U.S. experiencing extreme heat and the negative health effects of smoke from wildfires. 
+
+    KEYWORDS: Global warming, Existential crisis.
+
+- candidate_first_name: Shirley
+  candidate_last_name: Saucerman, M.D.
+  state: ak
+  race: US Senate
+  district: At-Large
+  party: No Party Preference
+  question: ak-q4
+  date: 2026-07-24
+  primary_candidate: false
+  response: |
+    Increased support to our state ferry system, free pubic transportation for all in Anchorage, Fairbanks, Juneau and other major centers and increased public transportation between cities on the road system, ferry system, and rail.
+
+    KEYWORDS: Support state ferry system, public transportation in major centers.
+
+- candidate_first_name: Shirley
+  candidate_last_name: Saucerman, M.D.
+  state: ak
+  race: US Senate
+  district: At-Large
+  party: No Party Preference
+  question: ak-q6
+  date: 2026-07-24
+  primary_candidate: false
+  response: |
+    Scientific evidence should be considered on all policy issues.
+
+    KEYWORDS: Accountability, Existential Threat

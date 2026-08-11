@@ -1,29 +1,34 @@
-- id: ak-q1-all-races
+- id: ak-q1
   question: >-
     America has a growing artificial intelligence (AI) industry, supporting cutting edge innovation and reshaping businesses, but raising concerns about education, ownership, and security. Application of AI technology has increased the demand placed on data centers, controversial for their resource use (such as water and land) and raising utility costs. What are your policy positions in regards to data centers and AI? What sources of evidence informed these positions?
   tag: Artificial Intelligence
 
-- id: ak-q2-all-races
+- id: ak-q2
   question: >-
     Alaska's coastal resources are among the best-managed and most sustainable in the world, with research and monitoring having allowed ocean ecosystems to support not only commercial fisheries, but also recreational fishing, tourism, and culture throughout the state. What are your policy positions for the continued management of Alaska's coastal resources?
   tag: Environment
 
-- id: ak-q3-all-races
+- id: ak-q3
   question: >-
     Alaska has one of the highest energy consumptions per capita of any US state, with energy resources primarily underpinned by oil and gas, but an increasing diversification into renewables like hydropower. As electricity demand increases across the country due to manufacturing, electrification, and data infrastructure, what role, if any, do you believe alternative energy sources, such as solar, wind, or geothermal, should play in Alaska's future energy mix? What policies, if any, would you support related to alternative energy development, regulation, and/or research, and why?
   tag: Energy
 
-- id: ak-q4-all-races
+- id: ak-q4
   question: >-
     Alaska faces unique obstacles in its transportation infrastructure due to its vast size, rugged landscape, and harsh weather. These challenges have led to significant advances in cold-weather design, seismic resilience, and drone inspections, but issues remain: for instance, Alaska's ports continue to face maintenance challenges as they age, and many of the state's interior communities remain poorly connected to rail and highway transportation networks. What are your policy positions on the management of Alaska's transportation infrastructure in the face of these unique challenges?
   tag: Transportation
 
-- id: ak-q5-governor
+- id: ak-q5
   question: >-
     What do you see as the purpose of the department of health and human services and what skill sets and values do you set as criteria when considering who to appoint to this state department?
   tag: Public Health
+  races:
+    - Governor
 
-- id: ak-q6-senate-house
+- id: ak-q6
   question: >-
     If elected, in what capacities would you refer to scientists when you are deciding how to vote on a policy?
   tag: Trust in Science
+  races:
+    - US Senate
+    - US House of Representatives

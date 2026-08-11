@@ -10,3 +10,4 @@ package-lock.json
 node_modules/
 vendor/bundle/
 .bundle/
+stance-validation-report.txt
