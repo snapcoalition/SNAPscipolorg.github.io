@@ -790,7 +790,7 @@
   party: Democratic
   question: pa-q4
   date: 2026-07-16
-  priamry_candidate: false
+  primary_candidate: false
   response: |
     Pennsylvania has been an energy leader for generations, and I believe we can continue to be one by embracing an “all-of-the-above” approach. Natural gas, nuclear, coal, renewables, and emerging technologies all have a role to play as we work toward affordable, reliable, and cleaner energy.
 
@@ -890,7 +890,7 @@
   candidate_last_name: Graham
   state: pa
   race: State House of Representatives
-  District: 169 
+  district: 169 
   party: Democratic
   question: pa-q1
   date: 2026-07-24
