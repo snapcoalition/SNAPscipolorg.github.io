@@ -4,21 +4,21 @@ collection: initiatives
 sitemap: true
 # `state` and `state_name` are used by the global search and map to look up
 # this page from a USPS code. Keep them in sync with the YAML responses file
-# at _data/stance_responses/ca.yml.
-state: ca
-state_name: California
-demonym_plural: Californians
-team_email: ca.stanceonscience@gmail.com
-ballot_lookup_url: https://findyourrep.legislature.ca.gov/
-ballot_lookup_label: Find Your California Representatives
+# at _data/stance_responses/or.yml.
+state: or
+state_name: Oregon
+demonym_plural: Oregonians
+team_email: stanceonscienceoregon@gmail.com
+ballot_lookup_url: https://secure.sos.state.or.us/orestar/CFSearchPage.do
+ballot_lookup_label: Oregon Secretary of State "ORESTAR" website
 # Socials (optional — leave blank to hide a link, or all blank to hide the footer):
-instagram_url: https://www.instagram.com/castanceonscience
-facebook_url:
+instagram_url: https://www.instagram.com/stanceonscience.oregon/
+facebook_url: https://www.facebook.com/groups/28242701145393569
 tiktok_url:
-x_url:
-bluesky_url: https://bsky.app/profile/castanceonscience.bsky.social
+x_url: https://x.com/ORStanceOnSci
+bluesky_url:
 reddit_url:
-linkedin_url:
+linkedin_url: https://www.linkedin.com/in/stance-on-science-or-126934435/
 linktree_url:
 published: true
 ---
@@ -73,14 +73,14 @@ published: true
   <a href="{{ '/initiatives/stance-on-science#stance-map' | relative_url }}" class="stance-back-link"><i class="fa-solid fa-arrow-left"></i> Back to map</a>
   <h1>{{ page.state_name }}</h1>
   <p>
-    Created by the {{ team_name }} team. Please contact <a href="mailto:{{ page.team_email }}">{{ page.team_email }}</a> with any questions. Follow us on
+    Created by the {{ team_name }} team. Please contact <a href="mailto:{{ page.team_email }}">{{ page.team_email }}</a> with any questions.{%- if socials.size > 0 %} Follow us on
     {%- for s in socials -%}
       {%- if forloop.first %} {{ s }}
       {%- elsif forloop.last -%}
         {%- if socials.size > 2 %}, and {% else %} and {% endif -%}{{ s }}
       {%- else %}, {{ s }}
       {%- endif -%}
-    {%- endfor -%}.
+    {%- endfor -%}.{%- endif %}
   </p>
   {%- if page.last_updated %}<p><em>Last updated: {{ page.last_updated | date: "%B %-d, %Y" }}</em></p>{%- endif %}
 </header>
@@ -99,6 +99,12 @@ published: true
   <li>Encourage thoughtful engagement between communities and policymakers on science policy-related topics in our state.</li>
 </ol>
 
+<figure class="stance-state-graphic">
+  <img src="{{ '/images/stance_states/or/oregon-ballot-box.png' | relative_url }}"
+       alt="Oregon Stance on Science logo: the blue Oregon state flag rising out of an orange ballot box marked with five dark blue stars and the words &quot;Stance on Science Oregon&quot; beside a white outline of the state."
+       loading="lazy">
+</figure>
+
 <p>Through Stance on Science, we hope to help {{ page.demonym_plural }} understand how their elected representatives will utilize science to improve the state that they love. Learn more about this initiative on the <a href="{{ '/initiatives/stance-on-science' | relative_url }}">home page</a>.</p>
 
 <details class="info">
@@ -107,31 +113,38 @@ published: true
   <p>This webpage houses the responses to {{ questions.size }} questions
   crafted by the {{ team_name }} team.</p>
   <p>Only official candidates who will appear on ballots were contacted.</p>
-  <p>Candidates were contacted in May 2026 (with a follow-up to those who did
-  not initially respond) and given the opportunity to answer all questions. Only the responses of candidates who answered the questions are
+  <p>Candidates were contacted in September 2026 (with a follow-up to those who
+  did not initially respond) and given the opportunity to answer the questions
+  selected for their race. Only the responses of candidates who answered the questions are
   included. None of the candidates' responses were modified in any way before
   being published on this resource page.</p>
 
-  <p><u>For the <strong>June 2026 primary election</strong></u>, only candidates in
-  the following elections were contacted<sup>1</sup>:</p>
+  <p><u>For the <strong>November 2026 general election</strong></u>, only candidates in
+  the following elections were contacted:</p>
+  {%- comment -%}
+    For races that have district/party sub-bullets, wrap them in a
+    <details class="stance-race-group"> so the sub-list collapses by default.
+    For a race with no sub-bullets, use <div class="stance-race-flat">.
+  {%- endcomment -%}
   <div>
     <details class="stance-race-group">
-      <summary>US House of Representatives for California</summary>
+      <summary>US Senate (OR)</summary>
         <ul>
-          <li>Representative for District 11</li>
-          <li>Representative for District 40</li>
+          <li>Jeff Merkley (Dem)</li>
+          <li>David Brock Smith (Rep)</li>
+          <li>Gary Dye (Libertarian)</li>
+          <li>Chris Henry (Pacific Green, Progressive)</li>
         </ul>
     </details>
-    <div class="stance-race-flat">California Governor</div>
-    <div class="stance-race-flat">Los Angeles Mayor</div>
+    <details class="stance-race-group">
+      <summary>OR Governor</summary>
+        <ul>
+          <li>Tina Kotek (Dem)</li>
+          <li>Christine Drazan (Rep)</li>
+          <li>Brett Smith (Green)</li>
+        </ul>
+    </details>
   </div>
-  <p><small><sup>1</sup> These primary elections were prioritized because
-  they have more than one official candidate on the ballot.</small></p>
-
-  <p>Prior to the <u>general election in November 2026</u>,
-  additional candidates will be contacted across all state districts. For a
-  complete list of which elections will be targeted at that time, please
-  check back in Summer 2026.</p>
   </div>
 </details>
 
@@ -148,6 +161,9 @@ published: true
         <li>
           <div>
             {{ q.question | markdownify | remove_first: "<p>" | remove: "</p>" | strip }}{% if q_tag_list.size > 0 %} (<em>see{% for t in q_tag_list %}{% if forloop.first %} "{{ t }}"{% elsif forloop.last %}{% if q_tag_list.size > 2 %}, and "{{ t }}"{% else %} and "{{ t }}"{% endif %}{% else %}, "{{ t }}"{% endif %}{% endfor %}</em>){% endif %}
+            {%- if q.races and q.races.size > 0 -%}
+              <span class="question-applicability">Asked of: {{ q.races | join: ", " }} candidates.</span>
+            {%- endif -%}
           </div>
         </li>
       {%- endfor -%}
@@ -169,7 +185,7 @@ published: true
 </div>
 
 <div class="ballot-lookup-callout">
-  <p>To find your districts for state and federal races and see who is on your ballot, please visit
+  <p>To find your districts for state and federal races and see who is on your ballot, please visit the
     <a href="{{ page.ballot_lookup_url }}" target="_blank" rel="noopener">{{ page.ballot_lookup_label }}</a>.</p>
 </div>
 
@@ -177,6 +193,7 @@ published: true
 
 <hr class="stance-rule"/>
 
-{% include stance/response_explorer.html heading="November 2026 General Midterm Elections" %}
+{% include stance/response_explorer.html heading="November 2026 general election" %}
 
 {% include stance/press_mentions.html state=page.state %}
+  

@@ -4,19 +4,19 @@ collection: initiatives
 sitemap: true
 # `state` and `state_name` are used by the global search and map to look up
 # this page from a USPS code. Keep them in sync with the YAML responses file
-# at _data/stance_responses/ca.yml.
-state: ca
-state_name: California
-demonym_plural: Californians
-team_email: ca.stanceonscience@gmail.com
-ballot_lookup_url: https://findyourrep.legislature.ca.gov/
-ballot_lookup_label: Find Your California Representatives
+# at _data/stance_responses/nv.yml.
+state: nv
+state_name: Nevada
+demonym_plural: Nevadans
+team_email: nvstanceonscience@gmail.com
+ballot_lookup_url: https://www.nvsos.gov/votersearch/
+ballot_lookup_label: Nevada Secretary of State Registered Voter Services website
 # Socials (optional — leave blank to hide a link, or all blank to hide the footer):
-instagram_url: https://www.instagram.com/castanceonscience
+instagram_url: https://www.instagram.com/nvstanceonscience/
 facebook_url:
 tiktok_url:
 x_url:
-bluesky_url: https://bsky.app/profile/castanceonscience.bsky.social
+bluesky_url:
 reddit_url:
 linkedin_url:
 linktree_url:
@@ -73,14 +73,14 @@ published: true
   <a href="{{ '/initiatives/stance-on-science#stance-map' | relative_url }}" class="stance-back-link"><i class="fa-solid fa-arrow-left"></i> Back to map</a>
   <h1>{{ page.state_name }}</h1>
   <p>
-    Created by the {{ team_name }} team. Please contact <a href="mailto:{{ page.team_email }}">{{ page.team_email }}</a> with any questions. Follow us on
+    Created by the {{ team_name }} team. Please contact <a href="mailto:{{ page.team_email }}">{{ page.team_email }}</a> with any questions.{%- if socials.size > 0 %} Follow us on
     {%- for s in socials -%}
       {%- if forloop.first %} {{ s }}
       {%- elsif forloop.last -%}
         {%- if socials.size > 2 %}, and {% else %} and {% endif -%}{{ s }}
       {%- else %}, {{ s }}
       {%- endif -%}
-    {%- endfor -%}.
+    {%- endfor -%}.{%- endif %}
   </p>
   {%- if page.last_updated %}<p><em>Last updated: {{ page.last_updated | date: "%B %-d, %Y" }}</em></p>{%- endif %}
 </header>
@@ -107,31 +107,25 @@ published: true
   <p>This webpage houses the responses to {{ questions.size }} questions
   crafted by the {{ team_name }} team.</p>
   <p>Only official candidates who will appear on ballots were contacted.</p>
-  <p>Candidates were contacted in May 2026 (with a follow-up to those who did
-  not initially respond) and given the opportunity to answer all questions. Only the responses of candidates who answered the questions are
+  <p>Candidates were contacted in September 2026 (with a follow-up to those who
+  did not initially respond) and given the opportunity to answer all questions. Only the responses of candidates who answered the questions are
   included. None of the candidates' responses were modified in any way before
   being published on this resource page.</p>
 
-  <p><u>For the <strong>June 2026 primary election</strong></u>, only candidates in
+  <p><u>For the <strong>November 2026 general election</strong></u>, only candidates in
   the following elections were contacted<sup>1</sup>:</p>
   <div>
-    <details class="stance-race-group">
-      <summary>US House of Representatives for California</summary>
-        <ul>
-          <li>Representative for District 11</li>
-          <li>Representative for District 40</li>
-        </ul>
-    </details>
-    <div class="stance-race-flat">California Governor</div>
-    <div class="stance-race-flat">Los Angeles Mayor</div>
+    <div class="stance-race-flat">U.S. House of Representatives</div>
+    <div class="stance-race-flat">Nevada Governor</div>
+    <div class="stance-race-flat">Nevada Lieutenant Governor</div>
+    <div class="stance-race-flat">Nevada Attorney General</div>
+    <div class="stance-race-flat">Nevada Secretary of State</div>
+    <div class="stance-race-flat">Nevada Board of Regents</div>
+    <div class="stance-race-flat">Nevada State Senate</div>
+    <div class="stance-race-flat">Nevada State Assembly</div>
+    <div class="stance-race-flat">Clark County School District Board</div>
   </div>
-  <p><small><sup>1</sup> These primary elections were prioritized because
-  they have more than one official candidate on the ballot.</small></p>
-
-  <p>Prior to the <u>general election in November 2026</u>,
-  additional candidates will be contacted across all state districts. For a
-  complete list of which elections will be targeted at that time, please
-  check back in Summer 2026.</p>
+  <p><small><sup>1</sup> All candidates in race unless no electronic contact information was provided</small></p>
   </div>
 </details>
 
@@ -169,7 +163,7 @@ published: true
 </div>
 
 <div class="ballot-lookup-callout">
-  <p>To find your districts for state and federal races and see who is on your ballot, please visit
+  <p>To find your districts for state and federal races and see who is on your ballot, please visit the
     <a href="{{ page.ballot_lookup_url }}" target="_blank" rel="noopener">{{ page.ballot_lookup_label }}</a>.</p>
 </div>
 
@@ -177,6 +171,6 @@ published: true
 
 <hr class="stance-rule"/>
 
-{% include stance/response_explorer.html heading="November 2026 General Midterm Elections" %}
+{% include stance/response_explorer.html heading="November 2026 general election" %}
 
 {% include stance/press_mentions.html state=page.state %}

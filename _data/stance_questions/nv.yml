@@ -1,0 +1,79 @@
+- id: nv-q1
+  question: >-
+    K-12 EDUCATION: In 2023–24, approximately 14% of fifth-grade students
+    and 36% of eighth-grade students in Nevada met or exceeded state
+    standards for science, while many Nevada school districts face
+    challenges attracting and retaining qualified STEM educators. What
+    evidence-based policies, if any, would you support to strengthen
+    science education and access to quality STEM educators across the
+    state, and why?
+  tag: K-12 Science Education
+
+- id: nv-q2
+  question: >-
+    WATER: Nevada is the driest state in the United States, and our
+    limited water resources are facing increasing demand as drought
+    pressure increases. Research has documented declining groundwater
+    levels and concerns about the long-term sustainability of groundwater
+    withdrawals. What policies, if any, would you support to promote
+    sustainable groundwater use and protect long-term access to fresh
+    water in Nevada? How would you approach balancing competing water
+    demands, such as those from agriculture, communities, industry, and
+    environmental needs?
+  tag: Environment
+
+- id: nv-q3
+  question: >-
+    HEAT: Reno was recently identified as the fastest-warming city in the
+    country, closely followed by Las Vegas. What steps, if any, would you
+    take to protect Nevadans from the increasing threat of extreme heat,
+    particularly vulnerable populations such as children, older adults,
+    low-income communities, and outdoor workers?
+  tag:
+    - Climate
+    - Environment
+    - Public Health
+
+- id: nv-q4
+  question: >-
+    ENERGY: In 2025, solar power provided approximately 34% of Nevada’s
+    total in-state electricity generation. As electricity demand continues
+    to grow, what role do you believe renewable energy sources should play
+    in meeting Nevada’s future energy needs? What policies, if any, would
+    you support to facilitate the development of these resources while
+    keeping energy affordable for Nevada households and ensuring that
+    residents who generate their own electricity can participate fairly in
+    the energy system?
+  tag: Energy
+
+- id: nv-q5
+  question: >-
+    Nevada has increasingly attracted large-scale data centers and other
+    energy-intensive industries, which can provide economic investment
+    while also increasing demand for electricity and water. What approach,
+    if any, would you take to ensure that the anticipated water and energy
+    needs of these developments are accurately accounted for in planning
+    and permitting, while balancing economic benefits and electricity
+    costs for residents?
+  tag:
+    - Climate
+    - Energy
+    - Environment
+    - Jobs and Workforce
+
+- id: nv-q6
+  question: >-
+    MINING AND MINERAL RESOURCES:  As the Silver State, Nevada is a major
+    U.S. source of mineral resources and has some of the country's largest
+    lithium reserves, which are increasingly important to the nation's
+    energy and technology industries. How would you balance the
+    development of these resources with potential impacts on water,
+    ecosystems, and surrounding communities, and what role, if any, should
+    scientific and environmental assessments play in decisions about where
+    and how mining occurs?
+  tag:
+    - Climate
+    - Energy
+    - Environment
+    - Jobs and Workforce
+    - Public Health

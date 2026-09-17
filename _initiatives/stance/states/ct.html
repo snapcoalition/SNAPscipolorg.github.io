@@ -1,61 +1,4 @@
 ---
-# do NOT delete the line above -- jekyll needs this to render the page
-# ────────────────────────────────────────────────────────────────────────────
-# Stance on Science — state page TEMPLATE
-#
-# This file temporarily renders at /initiatives/stance-on-science/states/xx.
-#
-# To create a new state page:
-#
-#   4. Add `_data/stance_questions/<state-code>.yml` with the questions
-#      posed to each candidate. Each entry has a unique `id` (e.g. `q1`,
-#      `q2`), a `question` (markdown), and a `tag` (a single tag or list
-#      of tags from _data/stance_filters.yml). The question list and
-#      "available tags" sentence on this page are rendered from that file.
-#   5. Add `_data/stance_responses/<state-code>.yml` with the candidate
-#      responses. Each response sets `question:` to one of the question
-#      ids from the file above — that link is how the card knows which
-#      question to display and which tag(s) to apply. Responses do not
-#      carry their own `tag` field; tags come from the linked question.
-#      Until this file exists, the page will show "no responses yet"
-#      automatically.
-#
-#   The response viewer itself is a shared include,
-#   `_includes/stance/response_explorer.html`, rendered by the
-#   `{% include stance/response_explorer.html heading="…" %}` line near the
-#   bottom of this file. It offers three views of the same data — "Group by
-#   candidate" (the searchable directory + feed), "Group by topic", and
-#   "Compare" (a head-to-head matrix) — and loads this state's `responses` /
-#   `questions` from `page.state`, so the only per-state input is the
-#   `heading` (the election-cycle title). Tweaks to the viewer itself are made
-#   once, in that include, and apply to every state.
-#
-# Required front matter:
-#   state               — lowercase USPS code, must match the YAML file under
-#                         _data/stance_responses/. Used by the global search/map.
-#   state_name          — display name for the state (e.g. "New York"). Used by
-#                         the global search badge and map tooltip.
-#   demonym_plural      — plural resident name (e.g. "New Yorkers"). Used in
-#                         body copy that refers to people from the state.
-#   team_email          — contact address. Used for both the `mailto:` and
-#                         the visible link text in the header and disclaimer.
-#   ballot_lookup_url   — link to this state's voter/district lookup tool.
-#   ballot_lookup_label — visible text for that link.
-#
-# The page's URL (permalink) is computed automatically by the
-# _plugins/stance_permalink.rb plugin as
-# /initiatives/stance-on-science/states/<code> from the `state` field below
-#
-# The "Last updated" date shown in the header is computed automatically by the
-# _plugins/stance_last_updated.rb plugin from the last git commit that touched
-# this page's _data/stance_responses/<code>.yml file — there is no last_updated
-# front-matter field to maintain. (It stays blank until that file exists.)
-#
-# Optional front matter (omit or leave blank to hide):
-#   instagram_url, facebook_url, tiktok_url, x_url, bluesky_url, reddit_url
-#                       — social links shown in the header sentence. The
-#                         "Follow us on …" clause is hidden if all are blank.
-# ────────────────────────────────────────────────────────────────────────────
 layout: gridlay
 collection: initiatives
 sitemap: true
@@ -235,7 +178,7 @@ published: true                           # TODO: delete this line (or set to tr
 
 <hr class="stance-rule"/>
 
-{% include stance/response_explorer.html heading="CT Governor Primary and CT US House Primary Elections" %}
+{% include stance/response_explorer.html heading="November 2026 General Midterm Elections" %}
 
 {% include stance/press_mentions.html state=page.state %}
   

@@ -1,0 +1,109 @@
+- id: or-q1
+  question: >-
+    In the age of social media and AI, it is faster and easier than ever
+    for information to spread, and in many ways this is making it
+    increasingly difficult to trust. Information presented as
+    “evidenced-based” or “backed by science” is no exception. However,
+    with the rates of current AI algorithms providing incorrect
+    information to users, it is also incredibly easy for internet users to
+    be misinformed by AI tools that claim to present accurate information
+    or by people rapidly spreading incorrect information. What policies,
+    if any, would you support to help curb the spread of scientific
+    misinformation through the use of AI or social media?
+  tag:
+    - Artificial Intelligence
+    - Social Media
+  races:
+    - US Senate
+
+- id: or-q2
+  question: >-
+    In 2025 alone, the National Science Foundation (NSF) and National
+    Institute on Health (NIH) awarded over $500 million in research grants
+    and contracts to Oregon universities, which directly supported over $1
+    billion of economic activity in Oregon. However, federal funding cuts
+    for science research and agencies like the NIH and NSF leaves the
+    future for science research less assured. What policies, if any, do
+    you support or plan to implement to secure funding for continued
+    science research at either the state or federal level?
+  tag: Science Funding
+  races:
+    - US Senate
+
+- id: or-q3
+  question: >-
+    Many Oregon residents and policymakers have put pressure on the energy
+    industry to reduce power production from facilities which present
+    hazards to the environment, such as the retirement of multiple coal
+    power plants. However, Oregonians are also facing sharply rising
+    electricity bills driven by surging market prices and rapidly growing
+    demand, including from the proliferation of data centers across the
+    region. If elected, what specific steps will you take to address the
+    causes of high energy costs for Oregon residents and businesses,
+    including data centers?
+  tag:
+    - Energy
+    - Environment
+  races:
+    - US Senate
+    - Governor
+
+- id: or-q4
+  question: >-
+    Artificial intelligence is being rapidly adopted across many sectors
+    of the economy and society, raising questions about workforce impacts,
+    data privacy, equity of access, and economic competitiveness. What are
+    your top policy priorities for addressing the opportunities and
+    challenges that AI presents for Oregon residents?
+  tag:
+    - Artificial Intelligence
+    - Jobs and Workforce
+  races:
+    - US Senate
+    - Governor
+
+- id: or-q5
+  question: >-
+    Distrust in science has been on the rise among the general public and
+    policymakers, which has been associated with changes in federal
+    funding for scientific research. In order to bridge this gap, how do
+    you think scientists and policymakers can work together to strengthen
+    their communication?
+  tag:
+    - Science Diplomacy
+    - Trust in Science
+  races:
+    - US Senate
+    - Governor
+
+- id: or-q6
+  question: >-
+    Recent policies and budget decisions have led to the termination of
+    thousands of research grants across the country. Oregon’s universities
+    and tech centers such as the “Silicon Forest” are important research
+    hubs for scientists and engineers in the region and bring a lot of
+    economic benefit to the state. What role do you think research should
+    have in Oregon and what action, if any, will you take to retain
+    scientific talent to the state?
+  tag:
+    - Jobs and Workforce
+    - Science Funding
+  races:
+    - Governor
+
+- id: or-q7
+  question: >-
+    Oregon has developed a brand as a “green” state, both for its wildlife
+    and natural beauty, which attract billions of dollars in recreation
+    and tourism revenue, as well as for its focus on the development and
+    proliferation of green technology. However, this has often been at
+    odds with Oregon’s historic timber and agriculture industries. What
+    policies, if any, do you support or envision in managing land-based
+    resources in Oregon (i.e. water, forests, parks) and how will you
+    balance conservation with economic development in Oregon’s natural
+    resource sectors?
+  tag:
+    - Agriculture
+    - Environment
+  races:
+    - Governor
