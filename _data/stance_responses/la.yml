@@ -177,3 +177,183 @@
   question: la-q6
   response: |
     We have an urgency in our state and nation to adapt to newer, renewable energy sources. Even limited funding for adding solar panels can have an impact on neighbors in communities. We must promote more responsible energy usage with financial and psychological reward systems. 
+
+- candidate_first_name: Patrick
+  candidate_last_name: Forbes
+  state: la
+  race: US House of Representatives 
+  district: 6
+  party: Democratic 
+  question: la-q1
+  response: |
+    It is critical to our economy and to our national security that the U.S. keep up with or surpass the rest of the world in technological advances. They may be economically beneficial for a local community, but there are always tradeoffs. A community can't make informed decisions about whether those trade-offs are worth it unless they have all the facts. That's why complete transparency is necessary anytime a community is considering hosting a data center. 
+
+- candidate_first_name: Patrick
+  candidate_last_name: Forbes
+  state: la
+  race: US House of Representatives 
+  district: 6
+  party: Democratic 
+  question: la-q2
+  response: |
+    I would support returning to reliance on scientists and engineers regarding which projects and investments are most likely to provide future benefits.  In stopping the Mid-Barataria Diversion project, the current administration has used their own, underinformed judgement to override 20 years of study and debate about what will be most effective in addressing coastal land loss.  
+
+- candidate_first_name: Patrick
+  candidate_last_name: Forbes
+  state: la
+  race: US House of Representatives 
+  district: 6
+  party: Democratic 
+  question: la-q3
+  response: |
+    I'll fight against the current efforts in DC to roll back environmental regulations regarding clean air and water. I'll fight to retore protection of our wetlands, which are so critical to water quality and habitat. 
+
+- candidate_first_name: Patrick
+  candidate_last_name: Forbes
+  state: la
+  race: US House of Representatives 
+  district: 6
+  party: Democratic 
+  question: la-q4
+  response: |
+    Yes, it's important that we have a common set of facts as we make decisions and it's everyone's job to understand the role of science in that process.
+
+- candidate_first_name: Patrick
+  candidate_last_name: Forbes
+  state: la
+  race: US House of Representatives 
+  district: 6
+  party: Democratic 
+  question: la-q5
+  response: |
+    K-12 education is the foundation of a successful, thriving society. It is also basic to teaching our children the critical thinking skills necessary to go on to a career in science or any other field.  Children should be exposed to the role of the sciences in our economy, culture and society so they can have a clear understanding of what a career in the sciences might look like. 
+
+- candidate_first_name: Patrick
+  candidate_last_name: Forbes
+  state: la
+  race: US House of Representatives 
+  district: 6
+  party: Democratic 
+  question: la-q6
+  response: |
+    Louisiana is arguably the most vulnerable state in the country in the face of climate change and we should be leading the way in reducing its effects. We need to continually expand our renewable energy sources to slow the effects of carbon emissions on the climate and to ensure we have affordable energy into the future.
+
+- candidate_first_name: Michael
+  candidate_last_name: Mebruer
+  state: la
+  race: US House of Representatives 
+  district: 6
+  party: Republican 
+  question: la-q1
+  response: |
+    Data centers can bring significant new investment and economic development to Louisiana. However, the rapid growth in electricity demand from these facilities could put upward pressure on energy prices in the short term, particularly while Louisiana works to expand power generation and strengthen its electrical grid. I support economic development, but that development should not come at the expense of Louisiana families. We need to expand our energy supply and modernize the grid while ensuring that the additional infrastructure costs created by large data centers are not unfairly passed on to residential ratepayers.
+
+- candidate_first_name: Michael
+  candidate_last_name: Mebruer
+  state: la
+  race: US House of Representatives 
+  district: 6
+  party: Republican 
+  question: la-q2
+  response: |
+    This is more of a state and local issue. I'd rather leave it to locals and environmental experts to handle the issue. 
+
+- candidate_first_name: Michael
+  candidate_last_name: Mebruer
+  state: la
+  race: US House of Representatives 
+  district: 6
+  party: Republican 
+  question: la-q3
+  response: |
+    Again, this is more of a state and local issue. It is up to Louisiana officials to determine the environmental policy and balance the effects of the policies. 
+
+- candidate_first_name: Michael
+  candidate_last_name: Mebruer
+  state: la
+  race: US House of Representatives 
+  district: 6
+  party: Republican 
+  question: la-q4
+  response: |
+    Not really. I would say that science creditability comes on its own merits and transparency.  
+
+- candidate_first_name: Michael
+  candidate_last_name: Mebruer
+  state: la
+  race: US House of Representatives 
+  district: 6
+  party: Republican 
+  question: la-q5
+  response: |
+    These schools are meant to provide the foundation for understanding science. But I do not know of any exact policy that I have to provide support. 
+
+- candidate_first_name: Michael
+  candidate_last_name: Mebruer
+  state: la
+  race: US House of Representatives 
+  district: 6
+  party: Republican 
+  question: la-q6
+  response: |
+    I am an advocate of nuclear energy. It is cleaner, has low variable costs, and is stable in terms of prices. Several strategically placed nuclear power plants could greatly improve the energy output in Louisiana. 
+
+- candidate_first_name: Matt
+  candidate_last_name: Gromlich
+  state: la
+  race: US House of Representatives 
+  district: 4
+  party: Democratic 
+  question: la-q1
+  response: |
+    While the data centers claim that they will bring in economic benefits, those benefits have yet to be seen. In other states, the claims have been shown to be highly inflated. Additionally, there is a huge environmental aspect to data centers that we have not investigated or researched. Before we build any new data centers, we must conduct scientific studies on how these data centers will impact our health, our water, our land, our flora, and our fauna.
+
+- candidate_first_name: Matt
+  candidate_last_name: Gromlich
+  state: la
+  race: US House of Representatives 
+  district: 4
+  party: Democratic 
+  question: la-q2
+  response: |
+    We must protect our coastal communities. As mentioned, this means shoreline restoration is necessary. As a congressman, I will support funding shoreline restoration projects and provide funding for our natural buffer zones. 
+
+- candidate_first_name: Matt
+  candidate_last_name: Gromlich
+  state: la
+  race: US House of Representatives 
+  district: 4
+  party: Democratic 
+  question: la-q3
+  response: |
+    Water is one of the most important resources. We must protect our water and our waterways. One aspect is investing in our drinking water. Louisiana municipal water facilities have continued to earn failing grades. It is necessary for congressional members to work with municipal officials to help make our water better. 
+
+- candidate_first_name: Matt
+  candidate_last_name: Gromlich
+  state: la
+  race: US House of Representatives 
+  district: 4
+  party: Democratic 
+  question: la-q4
+  response: |
+    Absolutely. My background is science and science education (Bachelor’s in Chemistry, Bachelor’s in Science Education, and Master’s in Agriculture & Extension Education). We need to work with scientists to improve our state. As your next congressman, I would have a science advisory board that would provide necessary input into all decisions.  
+
+- candidate_first_name: Matt
+  candidate_last_name: Gromlich
+  state: la
+  race: US House of Representatives 
+  district: 4
+  party: Democratic 
+  question: la-q5
+  response: |
+    I am a life-long educator. I have taught secondary mathematics and science and now I teach future secondary mathematics and science educators at LSU-Shreveport. Science literacy begins at school. We must strengthen science programs in our K-12 schools, community colleges, and higher education institutions. I support funding research that helps push our society forward.
+
+- candidate_first_name: Matt
+  candidate_last_name: Gromlich
+  state: la
+  race: US House of Representatives 
+  district: 4
+  party: Democratic 
+  question: la-q6
+  response: |
+    While Louisiana has benefited from oil and natural gas, we can not rely on these energy sources forever. We must branch out into the renewable energy sector. Solar energy could be a great benefit to Louisiana and its residents, who consistently pay more and more each year on utilities. 
