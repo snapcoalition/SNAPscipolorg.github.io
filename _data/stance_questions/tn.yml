@@ -1,0 +1,77 @@
+- id: tn-q1
+  question: >-
+    Data centers and the TVA grid (Energy / AI / Environment) – Data
+    center electricity use in the Tennessee Valley has grown roughly sevenfold
+    since 2020, and in the Memphis area, gas turbines powering AI data centers
+    have raised air-quality concerns. What specific policies, if any, would
+    you support to protect Tennesseans' electricity bills, grid reliability,
+    and air quality as data centers expand?
+  tag:
+    - Artificial Intelligence
+    - Energy
+    - Environment
+
+- id: tn-q2
+  question: >-
+    Childhood vaccination (Public Health / Trust in Science) – According
+    to the Tennessee Department of Health, roughly 80% of Tennessee counties
+    fall below the 95% kindergarten vaccination rate needed to prevent
+    outbreaks of diseases such as measles. What policies, if any, would you
+    support to manage vaccine-preventable diseases in Tennessee?
+  tag:
+    - Public Health
+    - Trust in Science
+
+- id: tn-q3
+  question: >-
+    Flooding and extreme-weather resilience (Environment / Climate) – Two
+    years after Tropical Storm Helene, East Tennessee communities are still
+    rebuilding, and a 2026 winter storm left hundreds of thousands of
+    Tennesseans without power. What specific steps, if any, would you take to
+    prepare Tennessee's communities, infrastructure, and power grid for severe
+    weather?
+  tag:
+    - Climate
+    - Environment
+
+- id: tn-q4
+  question: >-
+    Federal science funding and Oak Ridge (Science Funding /
+    Jobs and Workforce) – Oak Ridge National Laboratory, the University of
+    Tennessee, Vanderbilt, and other Tennessee institutions depend on federal
+    research funding. What priorities, if any, would guide your votes on
+    funding for federal science agencies such as the Department of Energy,
+    NIH, and NSF?
+  tag:
+    - Jobs and Workforce
+    - Science Funding
+  races:
+    - US Senate
+    - US House of Representatives
+
+- id: tn-q5
+  question: >-
+    State Science Education (K-12 Science Education) Secondary
+    science (biology, chemistry, and physics) is one of the subject areas
+    where Tennessee schools most often face teacher vacancies or rely on
+    teachers with emergency credentials, and Tennessee lost a larger share of
+    its teachers between 2023 and 2025 than any other state. What specific
+    state policies, if any, would you support to recruit and keep qualified
+    science teachers in Tennessee classrooms, particularly in rural and
+    high-need districts?
+  tag: K-12 Science Education
+  races:
+    - State Senate
+    - State House of Representatives
+    - Governor
+
+- id: tn-q6
+  question: >-
+    Trust in science (Policymaking Process / Trust in Science) – Distrust
+    in science has been on the rise among the general public and policymakers,
+    which has been associated with changes in federal funding for scientific
+    research. In order to bridge this gap, how do you think scientists and
+    policymakers can work together to strengthen their communication?
+  tag:
+    - Policymaking Process
+    - Trust in Science

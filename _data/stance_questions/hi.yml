@@ -1,0 +1,48 @@
+- id: hi-q1
+  question: >-
+    As energy prices continue to increase in Hawaiʻi, what role, if any,
+    should alternative energy sources, such as solar, wind, geothermal, and
+    liquefied natural gas, play in Hawaiʻi’s future energy mix? What policies
+    would you support related to alternative energy development, regulation,
+    and/or research, and why?
+  tag: Energy
+
+- id: hi-q2
+  question: >-
+    Every county has faced a major disaster in the last decade, with more and
+    more happening each year. What is your concrete plan to adapt to a world
+    with more volatile, climate-driven risks and protect our communities?
+  tag: Climate
+
+- id: hi-q3
+  question: >-
+    While data centers can be important facilities for processing,
+    transferring, and storing data, there are growing concerns about data
+    centers’ environmental impacts and health repercussions. What policies, if
+    any, would you support to balance technological and economic growth with
+    infrastructure reliability, environmental sustainability, and the
+    preservation of land and water? For example, Bill 170 from Hawaiʻi County
+    proposes to ban AI data centers and distinguish them from standard data
+    processing facilities; should other counties follow suit?
+  tag: Artificial Intelligence
+
+- id: hi-q4
+  question: >-
+    Across the Hawaiʻi’s Public School System, a little more than 40% of
+    students achieved math and science proficiency in the 2024-2025 school
+    year. However, access to these opportunities varies across the state due
+    to factors such as geography, school resources, and program availability.
+    What policies do you support to expand equitable access to high-quality
+    STEM and general education for students across Hawaiʻi, such as the use of
+    AI in the classroom, increasing public funding, and more support for
+    extracurricular activities?
+  tag: K-12 Science Education
+
+- id: hi-q5
+  question: >-
+    Hawaiʻi faces unique obstacles in its transportation infrastructure, with
+    inter-island travel, ports, and many rural communities. How can we balance
+    environmentally sustainable technologies (such as sustainable aviation
+    fuel, electric or hybrid vehicles, public transit options like the bus or
+    rail) with equity for different communities?
+  tag: Transportation

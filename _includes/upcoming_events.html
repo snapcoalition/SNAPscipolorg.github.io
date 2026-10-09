@@ -23,6 +23,8 @@
   Pass `compact=true` to render a condensed list — just date, name, and
   category bubble per row — with a toggle to expand a row and show its flyer
   and remaining details (description, link).
+
+  Pass `empty_message` to override the text shown when no events are listed.
 {%- endcomment -%}
 {%- assign now_seconds = 'now' | date: '%s' | plus: 0 -%}
 {%- assign events = site.data.events | sort: 'date' -%}
@@ -97,7 +99,7 @@
   {%- endfor -%}
 
   <p class="snap-events__empty"{% if shown > 0 %} hidden{% endif %}>
-    <b>No upcoming events right now — check the calendar below, and check back soon!</b>
+    <b>{{ include.empty_message | default: "No upcoming events right now — check the calendar below, and check back soon!" }}</b>
   </p>
 
   {%- comment -%} Lightbox overlay for flyer images. Enhanced by snap-events-lightbox.js. {%- endcomment -%}
