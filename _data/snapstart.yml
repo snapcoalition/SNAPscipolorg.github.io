@@ -1,0 +1,53 @@
+# SNAPStart awardees across all rounds, rendered by `_includes/snapstart_awardees.html`.
+#
+# Each entry may set:
+#   round        (required) funding round number, e.g. 1 for Fall 2026
+#   id           (required) slug that names the logo file. To add a logo, drop
+#                `<id>.png` (or .svg/.jpg/.webp) into
+#                `images/snapstart/round_<round>_logos/` - no edit here is needed.
+#   name         (required) full organization name
+#   short        (optional) abbreviation shown in the placeholder tile until a
+#                logo is added; defaults to the first letters of `name`
+#   institution  (optional) university or location, shown under the name
+#   website      (optional) makes the name a link
+#   description  (optional) Markdown blurb shown on the card
+
+- round: 1
+  id: coas
+  name: Coalition of Athens Scientists (COAS)
+  short: COAS
+
+- round: 1
+  id: spark
+  name: SPARK (Science Policy, Advocacy, Research, and Knowledge)
+  short: SPARK
+
+- round: 1
+  id: rice-spcc
+  name: Rice Science Policy & Communication Club
+  short: Rice
+
+- round: 1
+  id: uab-span
+  name: Science Policy Advocacy Network (SPAN) at UAB
+  short: SPAN
+
+- round: 1
+  id: m-span
+  name: Mizzou Science Policy Advocacy Network (M-SPAN)
+  short: M-SPAN
+
+- round: 1
+  id: houston-spag
+  name: Houston Science Policy and Advocacy Group
+  short: HSPAG
+
+- round: 1
+  id: nu-soap
+  name: Northeastern University Science Outreach and Policy (NU-SOAP)
+  short: NU-SOAP
+
+- round: 1
+  id: gfsa
+  name: Graduate Food Science Association
+  short: GFSA
