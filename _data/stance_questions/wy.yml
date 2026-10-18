@@ -1,0 +1,54 @@
+- id: wy-q1
+  question: >-
+    ENVIRONMENTAL CONCERNS, CONSERVATION, AND LAND USE  Wyoming is known
+    for its land and natural resources (e.g. water resources, public
+    lands, wildlife, air quality, wind & nuclear energy, mining & fossil
+    fuel extraction).  Considering Wyoming’s resources, what policies and
+    efforts, if any, will you prioritize, such as environmental projects,
+    conservation efforts, research, or economic growth, in regard to land
+    management and use?
+  tag: Environment
+
+- id: wy-q2
+  question: >-
+    DATA CENTERS A recent Associated Press report described proposals for
+    large AI data centers in Wyoming, which could bring significant
+    economic development but also substantially increase demands on the
+    state’s electricity and water resources. What is your stance on
+    expanding data centers across Wyoming, and what scientific, economic,
+    and environmental evidence has informed that position—particularly
+    regarding grid reliability, water use, emissions, and long-term
+    benefits for Wyoming communities?
+  tag: Energy
+
+- id: wy-q3
+  question: >-
+    K-12 EDUCATION What do you see as the main strengths and areas for
+    improvement in Wyoming’s science education curriculum and students’
+    science proficiency? What changes, if any, would you propose to
+    science education policy or curriculum, and why?
+  tag: K-12 Science Education
+
+- id: wy-q4
+  question: >-
+    PUBLIC HEALTH Wyoming meets an estimated 32.3% of its mental-health
+    care needs, and many residents live in federally designated Health
+    Professional Shortage Areas and Medically Underserved Areas. What
+    health and science-policy initiatives, if any, would you prioritize to
+    address health-care access and workforce capacity statewide, including
+    in rural and underserved communities? What evidence would guide those
+    decisions?
+  tag: Public Health
+
+- id: wy-q5
+  question: >-
+    FUNDING FOR UNIVERSITY  The University of Wyoming is the state’s only
+    public four-year university. In early 2026, the Joint Appropriations
+    Committee considered a proposal that could have reduced the
+    University’s state funding by approximately 11%, with differing
+    effects across colleges and programs. What was your position on that
+    proposal, and what role, if any, should the University play in future
+    state-budget priorities? Please explain your approach to state support
+    for academic programs, research, and student services, as well as the
+    evidence or principles that would guide those decisions.
+  tag: Investment in Higher Education
