@@ -1,0 +1,73 @@
+- id: ut-q1
+  question: >-
+    Colorado River Basin states, including Utah, missed a federal deadline
+    to agree on new rules for sharing the river once current operating
+    guidelines expire, and federal forecasts earlier this year projected
+    that Lake Powell could fall to the level at which Glen Canyon Dam can
+    no longer generate hydropower. What policies, if any, would you
+    support to manage the Colorado River sustainably, and how would you
+    balance competing demands from agriculture, growing communities,
+    industry, tribal nations, and the environment?
+  tag: Environment
+  races:
+    - US House of Representatives
+    - State Senate
+    - State House of Representatives
+
+- id: ut-q2
+  question: >-
+    The Great Salt Lake ended 2025 at its third-lowest level in more than
+    120 years, and more than 120 square miles of exposed lakebed in
+    Farmington Bay alone have become sources of windblown dust along the
+    Wasatch Front. What policies and funding, if any, would you prioritize
+    for scientific monitoring of the lake, its watershed, and its air
+    quality impacts, and to help communities adapt?
+  tag: Environment
+  races:
+    - US House of Representatives
+    - State Senate
+    - State House of Representatives
+
+- id: ut-q3
+  question: >-
+    Utah’s measles outbreak, which began in June 2025, had surpassed 700
+    cases by August 2026, one of the largest outbreaks in the country, and
+    about 12.8% of Utah kindergarteners were missing their measles vaccine
+    last school year. As an elected official, how do you approach engaging
+    with communities that have concerns about infectious disease outbreaks
+    and vaccine safety, and what policies, if any, would you support
+    related to these issues, and why?
+  tag: Public Health
+  races:
+    - US House of Representatives
+    - State Senate
+    - State House of Representatives
+
+- id: ut-q4
+  question: >-
+    Utah is seeing proposals for large data centers, including a planned
+    campus in Juab County requesting up to 750 megawatts of electricity,
+    while the state is also pursuing new energy sources, including
+    advanced nuclear reactors. What role, if any, do you believe sources
+    such as nuclear, natural gas, coal, solar, wind, geothermal, and
+    hydropower should play in the country’s future energy mix? What
+    policies, if any, would you support related to energy development,
+    grid reliability, and the water and power needs of data centers?
+  tag: Energy
+  races:
+    - US House of Representatives
+    - State Senate
+    - State House of Representatives
+
+- id: ut-q5
+  question: >-
+    The University of Utah had 77 of its federal research grants cancelled
+    in 2025 – resulting in the loss of $16 million in research funding. As
+    a member of Congress, you would vote on appropriations for federal
+    science agencies, including the National Institutes of Health, the
+    National Science Foundation, and the Department of Energy. What
+    priorities, if any, would guide your decisions on federal science
+    funding, and why?
+  tag: Science Funding
+  races:
+    - US House of Representatives
