@@ -1,0 +1,60 @@
+{%- comment -%}
+  SNAPStart awardee cards, driven by `_data/snapstart.yml`.
+
+  Pass `round` to show only that round's awardees, e.g.
+  `{% include snapstart_awardees.html round=1 %}`. Without it, every round is
+  listed.
+
+  Logos are picked up by file name: an entry with `round: 1` and `id: coas`
+  shows `images/snapstart/round_1_logos/coas.<png|svg|jpg|webp|...>` as soon as
+  that file exists. Until then the card shows a placeholder tile with the
+  entry's `short` label (or its initials).
+{%- endcomment -%}
+{%- assign awardees = site.data.snapstart -%}
+{%- assign round_filter = include.round | append: "" -%}
+{%- assign logos = site.static_files | where_exp: "f", "f.path contains '/images/snapstart/'" -%}
+
+<div class="snapstart-awardees">
+  {%- for org in awardees -%}
+    {%- assign org_round = org.round | append: "" -%}
+    {%- if round_filter != "" and org_round != round_filter -%}
+      {%- continue -%}
+    {%- endif -%}
+    {%- assign org_logo_dir = "/images/snapstart/round_" | append: org_round | append: "_logos/" -%}
+    {%- assign logo_path = "" -%}
+    {%- for f in logos -%}
+      {%- if f.basename == org.id and f.path contains org_logo_dir -%}
+        {%- assign logo_path = f.path -%}
+      {%- endif -%}
+    {%- endfor -%}
+    {%- if org.short -%}
+      {%- assign badge = org.short -%}
+    {%- else -%}
+      {%- assign badge = org.name | slice: 0, 3 -%}
+    {%- endif -%}
+    <div class="snapstart-awardee">
+      <div class="snapstart-awardee__logo">
+        {%- if logo_path != "" -%}
+          <img src="{{ site.url }}{{ site.baseurl }}{{ logo_path }}" alt="{{ org.name | escape }} logo" loading="lazy">
+        {%- else -%}
+          <span class="snapstart-awardee__placeholder" aria-hidden="true">{{ badge | escape }}</span>
+        {%- endif -%}
+      </div>
+      <div class="snapstart-awardee__body">
+        <h4 class="snapstart-awardee__name">
+          {%- if org.website -%}
+            <a href="{{ org.website }}">{{ org.name | escape }}</a>
+          {%- else -%}
+            {{ org.name | escape }}
+          {%- endif -%}
+        </h4>
+        {%- if org.institution -%}
+          <p class="snapstart-awardee__institution">{{ org.institution | escape }}</p>
+        {%- endif -%}
+        {%- if org.description -%}
+          <div class="snapstart-awardee__description">{{ org.description | markdownify }}</div>
+        {%- endif -%}
+      </div>
+    </div>
+  {%- endfor -%}
+</div>
