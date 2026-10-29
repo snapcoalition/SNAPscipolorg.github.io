@@ -1447,6 +1447,62 @@
 
     My role as an elected official would not be to be the scientist in the room. It would be to make sure scientists are heard, evidence is respected, and residents have clear, honest information they can use to make informed decisions.
 
+- candidate_first_name: Deborah K.
+  candidate_last_name: Ross
+  state: nc
+  race: US House of Representatives
+  district: 2
+  party: Democratic
+  question: nc-q1
+  date: 2026-10-27
+  primary_candidate: false
+  response: |
+    Data centers put strain on local communities through high utility bills, large water usage, and other environmental impacts. I do not support the federal government giving tax breaks or financial incentives to build data centers. I recently joined my colleagues in introducing legislation that would reverse the Big Ugly Law’s tax breaks for data centers.
+
+    We must ensure that no data center is built without local input, transparency, and protections for consumers against utility rate hikes.
+
+- candidate_first_name: Deborah K.
+  candidate_last_name: Ross
+  state: nc
+  race: US House of Representatives
+  district: 2
+  party: Democratic
+  question: nc-q2
+  date: 2026-10-27
+  primary_candidate: false
+  response: |
+    I will always work to ensure that North Carolina’s workforce is prepared for the science and biotechnology industry. I wrote and passed the Innovation in STEM Education at Community Colleges which was an amendment to the CHIPS and Science Act. This amendment directs funds through the National Science Foundation to improve teaching methods and learning at community colleges. I also wrote legislation that establishes National Science Foundation programs that align student skills with modern tech industry demands.
+
+    I will also continue to bring back federal funding to the district like the near million dollars I brought back to Wake Technical Community College to prepare students for the green energy workforce.
+
+- candidate_first_name: Deborah K.
+  candidate_last_name: Ross
+  state: nc
+  race: US House of Representatives
+  district: 2
+  party: Democratic
+  question: nc-q3
+  date: 2026-10-27
+  primary_candidate: false
+  response: |
+    I served on the House Select Subcommittee on the Coronavirus Pandemic, and strongly believe that federal vaccine policy should prioritize science over political influence and the federal government should not limit vaccine availability. I believe that the federal government needs to fully fund scientific research to prevent future disease outbreaks. We can not let political disinformation shape healthcare policy.
+
+    I have also worked across party lines to protect North Carolinians from PFAS exposure, including by supporting a new EPA reporting rule that will give policymakers a better understanding of the extent and effects of PFAS contamination.
+
+    I continue to work with EPA, NC DEQ, public water utilities, and industry to implement a science-based approach to this challenge. Among other steps, I believe the federal government should play a role in supporting the development of PFAS-free alternatives that could be used in manufacturing, firefighting, and other industries.
+
+- candidate_first_name: Deborah K.
+  candidate_last_name: Ross
+  state: nc
+  race: US House of Representatives
+  district: 2
+  party: Democratic
+  question: nc-q4
+  date: 2026-10-27
+  primary_candidate: false
+  response: |
+    I am proud to serve on the House Committee on Science, Space, and Technology and serve as the Ranking Member on the Energy Subcommittee. I know the importance of science and the public's trust in it. I will always support evidence based science and follow recommendations publicly. That’s one reason why I introduced a resolution designating March 26 as National Science Appreciation Day, to recognize the contributions of scientists and highlight how scientific research improves lives. Beyond simply recognition, I am also committed to hosting scientific leaders at my town halls and community events, partnering with our world class universities, and creating opportunities to connect people with experts doing the work.
+
 - candidate_first_name: Mona
   candidate_last_name: Singh
   state: nc
