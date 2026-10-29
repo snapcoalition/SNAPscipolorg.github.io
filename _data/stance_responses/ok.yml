@@ -1375,18 +1375,6 @@
   question: ok-q1
   date: 2026-10-25
   primary_candidate: false
-  response: | 
-    I would support legislation that would use public dollars to make up the deficit to maintain current levels, even if it were only half of the deficit, we can't continue cutting scientific work, education or research!
-    
-- candidate_first_name: Amy
-  candidate_last_name: Hossain
-  state: ok
-  race: State Senate
-  district: SD-34
-  party: Democratic
-  question: ok-q1
-  date: 2026-10-25
-  primary_candidate: false
   response: |
     I would support legislation that would use public dollars to make up the deficit to maintain current levels, even if it were only half of the deficit, we can't continue cutting scientific work, education or research!
     
@@ -1469,33 +1457,32 @@
     
     We could also involve our higher education institutions to complete research in rural areas to provide additional data tracking for these initiative, being where the people are is a vital first step in Public Health initiatives and community health!
   
-  
 # US Senate
 - candidate_first_name: Kevin
   candidate_last_name: Hern
   state: ok
-  race: U.S. Senate
+  race: US Senate
   party: Republican
   did_not_respond: true
 
 - candidate_first_name: Curtis
   candidate_last_name: Stinnett
   state: ok
-  race: U.S. Senate
+  race: US Senate
   party: Independent
   did_not_respond: true
 
 - candidate_first_name: Sevier
   candidate_last_name: White
   state: ok
-  race: U.S. Senate
+  race: US Senate
   party: Libertarian
   did_not_respond: true
 
 - candidate_first_name: Ron
   candidate_last_name: Meinhardt
   state: ok
-  race: U.S. Senate
+  race: US Senate
   party: Independent
   did_not_respond: true
 
@@ -1504,7 +1491,7 @@
 - candidate_first_name: John
   candidate_last_name: Croisant
   state: ok
-  race: U.S. House
+  race: US House of Representatives
   party: Democratic
   district: CD-1
   did_not_respond: true
@@ -1512,7 +1499,7 @@
 - candidate_first_name: Mark
   candidate_last_name: Tedford
   state: ok
-  race: U.S. House
+  race: US House of Representatives
   party: Republican
   district: CD-1
   did_not_respond: true
@@ -1520,7 +1507,7 @@
 - candidate_first_name: Josh
   candidate_last_name: Brecheen
   state: ok
-  race: U.S. House
+  race: US House of Representatives
   party: Republican
   district: CD-2
   did_not_respond: true
@@ -1528,7 +1515,7 @@
 - candidate_first_name: Brandon
   candidate_last_name: Wade
   state: ok
-  race: U.S. House
+  race: US House of Representatives
   party: Democratic
   district: CD-2
   did_not_respond: true
@@ -1536,7 +1523,7 @@
 - candidate_first_name: Ronnie
   candidate_last_name: Hopkins
   state: ok
-  race: U.S. House
+  race: US House of Representatives
   party: Independent
   district: CD-2
   did_not_respond: true
@@ -1544,7 +1531,7 @@
 - candidate_first_name: Frank
   candidate_last_name: Lucas
   state: ok
-  race: U.S. House
+  race: US House of Representatives
   party: Republican
   district: CD-3
   did_not_respond: true
@@ -1552,7 +1539,7 @@
 - candidate_first_name: Tom
   candidate_last_name: Cole
   state: ok
-  race: U.S. House
+  race: US House of Representatives
   party: Republican
   district: CD-4
   did_not_respond: true
@@ -1560,7 +1547,7 @@
 - candidate_first_name: Mitchell
   candidate_last_name: Jacob
   state: ok
-  race: U.S. House
+  race: US House of Representatives
   party: Democratic
   district: CD-4
   did_not_respond: true
@@ -1568,7 +1555,7 @@
 - candidate_first_name: Rocco
   candidate_last_name: Bonacci
   state: ok
-  race: U.S. House
+  race: US House of Representatives
   party: Independent
   district: CD-4
   did_not_respond: true
@@ -1576,7 +1563,7 @@
 - candidate_first_name: Jena
   candidate_last_name: Nelson
   state: ok
-  race: U.S. House
+  race: US House of Representatives
   party: Democratic
   district: CD-5
   did_not_respond: true
@@ -1584,10 +1571,11 @@
 - candidate_first_name: Austin
   candidate_last_name: Nieves
   state: ok
-  race: U.S. House
+  race: US House of Representatives
   party: Independent
   district: CD-5
   did_not_respond: true
+
 
 # Attorney General
 - candidate_first_name: Jon
@@ -1789,4 +1777,3 @@
   party: Republican
   district: SD-42
   did_not_respond: true
-    
