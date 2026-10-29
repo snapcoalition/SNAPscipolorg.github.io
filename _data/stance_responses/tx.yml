@@ -9549,3 +9549,2676 @@
     If the experts don't agree, I want to know why. Sometimes there isn't enough research yet. Sometimes they're looking at different information. And sometimes they agree about the science but disagree about what the Legislature should do with it.
     I also listen to the people I represent. They may be seeing something on the ground that we need to know about. There are times when what people want conflicts with what the research is shows us. We can’t just disregard the research when that happens.  
     
+# US Senate
+- candidate_first_name: Ken
+  candidate_last_name: Paxton
+  state: tx
+  race: U.S. Senate
+  party: Republican
+  did_not_respond: true
+
+- candidate_first_name: James
+  candidate_last_name: Talarico
+  state: tx
+  race: U.S. Senate
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Joshua
+  candidate_last_name: Cain
+  state: tx
+  race: U.S. Senate
+  party: Independent
+  did_not_respond: true
+
+- candidate_first_name: Camencia
+  candidate_last_name: Ford
+  state: tx
+  race: U.S. Senate
+  party: Independent
+  did_not_respond: true
+
+- candidate_first_name: Hans
+  candidate_last_name: Truelson
+  state: tx
+  race: U.S. Senate
+  party: Independent
+  did_not_respond: true
+
+
+# Governor
+- candidate_first_name: Greg
+  candidate_last_name: Abbott
+  state: tx
+  race: Governor
+  party: Republican
+  did_not_respond: true
+
+- candidate_first_name: Gina
+  candidate_last_name: Hinojosa
+  state: tx
+  race: Governor
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Jenn Mack
+  candidate_last_name: Raphoon
+  state: tx
+  race: Governor
+  party: Independent
+  did_not_respond: true
+
+
+# Lieutenant Governor
+- candidate_first_name: Dan
+  candidate_last_name: Patrick
+  state: tx
+  race: Lieutenant Governor
+  party: Republican
+  did_not_respond: true
+
+- candidate_first_name: Kevin
+  candidate_last_name: McCormick
+  state: tx
+  race: Lieutenant Governor
+  party: Green
+  did_not_respond: true
+
+- candidate_first_name: Anthony
+  candidate_last_name: Cristo
+  state: tx
+  race: Lieutenant Governor
+  party: Libertarian
+  did_not_respond: true
+
+
+# Attorney General
+- candidate_first_name: Mayes
+  candidate_last_name: Middleton
+  state: tx
+  race: Attorney General
+  party: Republican
+  did_not_respond: true
+
+- candidate_first_name: Nathan
+  candidate_last_name: Johnson
+  state: tx
+  race: Attorney General
+  party: Democratic
+  did_not_respond: true
+
+
+# State Senate
+- candidate_first_name: Bryan
+  candidate_last_name: Hughes
+  state: tx
+  race: State Senate
+  party: Republican
+  district: SD-1
+  did_not_respond: true
+
+- candidate_first_name: Bob
+  candidate_last_name: Hall
+  state: tx
+  race: State Senate
+  party: Republican
+  district: SD-2
+  did_not_respond: true
+
+- candidate_first_name: Keenen
+  candidate_last_name: Colbert
+  state: tx
+  race: State Senate
+  party: Democratic
+  district: SD-2
+  did_not_respond: true
+
+- candidate_first_name: Trent
+  candidate_last_name: Ashby
+  state: tx
+  race: State Senate
+  party: Republican
+  district: SD-3
+  did_not_respond: true
+
+- candidate_first_name: Brett
+  candidate_last_name: Ligon
+  state: tx
+  race: State Senate
+  party: Republican
+  district: SD-4
+  did_not_respond: true
+
+- candidate_first_name: Charles
+  candidate_last_name: Schwertner
+  state: tx
+  race: State Senate
+  party: Republican
+  district: SD-5
+  did_not_respond: true
+
+- candidate_first_name: Paul
+  candidate_last_name: Thomasson
+  state: tx
+  race: State Senate
+  party: Democratic
+  district: SD-5
+  did_not_respond: true
+
+- candidate_first_name: Taylor
+  candidate_last_name: Rehmet
+  state: tx
+  race: State Senate
+  party: Democratic
+  district: SD-9
+  did_not_respond: true
+
+- candidate_first_name: Leigh
+  candidate_last_name: Wambsganss
+  state: tx
+  race: State Senate
+  party: Republican
+  district: SD-9
+  did_not_respond: true
+
+- candidate_first_name: Dennis
+  candidate_last_name: Paul
+  state: tx
+  race: State Senate
+  party: Republican
+  district: SD-11
+  did_not_respond: true
+
+- candidate_first_name: Borris L.
+  candidate_last_name: Miles
+  state: tx
+  race: State Senate
+  party: Democratic
+  district: SD-13
+  did_not_respond: true
+
+- candidate_first_name: Lois
+  candidate_last_name: Kolkhorst
+  state: tx
+  race: State Senate
+  party: Republican
+  district: SD-18
+  did_not_respond: true
+
+- candidate_first_name: Erica
+  candidate_last_name: Gillum
+  state: tx
+  race: State Senate
+  party: Democratic
+  district: SD-18
+  did_not_respond: true
+
+- candidate_first_name: Roland
+  candidate_last_name: Gutierrez
+  state: tx
+  race: State Senate
+  party: Democratic
+  district: SD-19
+  did_not_respond: true
+
+- candidate_first_name: Marcus
+  candidate_last_name: Cardenas
+  state: tx
+  race: State Senate
+  party: Republican
+  district: SD-19
+  did_not_respond: true
+
+- candidate_first_name: Julie
+  candidate_last_name: Dahlberg
+  state: tx
+  race: State Senate
+  party: Republican
+  district: SD-21
+  did_not_respond: true
+
+- candidate_first_name: Amy
+  candidate_last_name: Martinez-Salas
+  state: tx
+  race: State Senate
+  party: Democratic
+  district: SD-22
+  did_not_respond: true
+
+- candidate_first_name: David
+  candidate_last_name: Cook
+  state: tx
+  race: State Senate
+  party: Republican
+  district: SD-22
+  did_not_respond: true
+
+- candidate_first_name: Pete
+  candidate_last_name: Flores
+  state: tx
+  race: State Senate
+  party: Republican
+  district: SD-24
+  did_not_respond: true
+
+- candidate_first_name: José
+  candidate_last_name: Menéndez
+  state: tx
+  race: State Senate
+  party: Democratic
+  district: SD-26
+  did_not_respond: true
+
+- candidate_first_name: Charles
+  candidate_last_name: Perry
+  state: tx
+  race: State Senate
+  party: Republican
+  district: SD-28
+  did_not_respond: true
+
+- candidate_first_name: Riley
+  candidate_last_name: Rodriquez
+  state: tx
+  race: State Senate
+  party: Democratic
+  district: SD-28
+  did_not_respond: true
+
+- candidate_first_name: Kevin
+  candidate_last_name: Sparks
+  state: tx
+  race: State Senate
+  party: Republican
+  district: SD-31
+  did_not_respond: true
+
+- candidate_first_name: John
+  candidate_last_name: Betancourt
+  state: tx
+  race: State Senate
+  party: Democratic
+  district: SD-31
+  did_not_respond: true
+
+
+# US House
+- candidate_first_name: Nathaniel
+  candidate_last_name: Moran
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-1
+  did_not_respond: true
+
+- candidate_first_name: Sonia
+  candidate_last_name: Canchola
+  state: tx
+  race: U.S. House
+  party: Independent
+  district: CD-1
+  did_not_respond: true
+
+- candidate_first_name: Steve
+  candidate_last_name: Toth
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-2
+  did_not_respond: true
+
+- candidate_first_name: Shaun
+  candidate_last_name: Finnie
+  state: tx
+  race: U.S. House
+  party: Democratic
+  district: CD-2
+  did_not_respond: true
+
+- candidate_first_name: Keith
+  candidate_last_name: Self
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-3
+  did_not_respond: true
+
+- candidate_first_name: Evan
+  candidate_last_name: Hunt
+  state: tx
+  race: U.S. House
+  party: Democratic
+  district: CD-3
+  did_not_respond: true
+
+- candidate_first_name: Pat
+  candidate_last_name: Fallon
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-4
+  did_not_respond: true
+
+- candidate_first_name: Lance
+  candidate_last_name: Gooden
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-5
+  did_not_respond: true
+
+- candidate_first_name: Jake
+  candidate_last_name: Ellzey
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-6
+  did_not_respond: true
+
+- candidate_first_name: Danny
+  candidate_last_name: Minton
+  state: tx
+  race: U.S. House
+  party: Democratic
+  district: CD-6
+  did_not_respond: true
+
+- candidate_first_name: Lizzie Pannill
+  candidate_last_name: Fletcher
+  state: tx
+  race: U.S. House
+  party: Democratic
+  district: CD-7
+  did_not_respond: true
+
+- candidate_first_name: Alexander
+  candidate_last_name: Hale
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-7
+  did_not_respond: true
+
+- candidate_first_name: Espoir
+  candidate_last_name: Ngabo
+  state: tx
+  race: U.S. House
+  party: Green
+  district: CD-7
+  did_not_respond: true
+
+- candidate_first_name: Jessica
+  candidate_last_name: Steinmann
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-8
+  did_not_respond: true
+
+- candidate_first_name: Alex
+  candidate_last_name: Mealer
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-9
+  did_not_respond: true
+
+- candidate_first_name: Roy
+  candidate_last_name: Morales
+  state: tx
+  race: U.S. House
+  party: Independent
+  district: CD-9
+  did_not_respond: true
+
+- candidate_first_name: Caitlin
+  candidate_last_name: Rourk
+  state: tx
+  race: U.S. House
+  party: Democratic
+  district: CD-10
+  did_not_respond: true
+
+- candidate_first_name: Chris
+  candidate_last_name: Gober
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-10
+  did_not_respond: true
+
+- candidate_first_name: August
+  candidate_last_name: Pfluger
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-11
+  did_not_respond: true
+
+- candidate_first_name: Craig
+  candidate_last_name: Goldman
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-12
+  did_not_respond: true
+
+- candidate_first_name: Heli
+  candidate_last_name: Rodriguez Prilliman
+  state: tx
+  race: U.S. House
+  party: Democratic
+  district: CD-12
+  did_not_respond: true
+
+- candidate_first_name: Ronny L.
+  candidate_last_name: Jackson
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-13
+  did_not_respond: true
+
+- candidate_first_name: Randy
+  candidate_last_name: Weber
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-14
+  did_not_respond: true
+
+- candidate_first_name: Thurman Bill
+  candidate_last_name: Bartie
+  state: tx
+  race: U.S. House
+  party: Democratic
+  district: CD-14
+  did_not_respond: true
+
+- candidate_first_name: Monica
+  candidate_last_name: De La Cruz
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-15
+  did_not_respond: true
+
+- candidate_first_name: Bobby
+  candidate_last_name: Pulido
+  state: tx
+  race: U.S. House
+  party: Democratic
+  district: CD-15
+  did_not_respond: true
+
+- candidate_first_name: Veronica
+  candidate_last_name: Escobar
+  state: tx
+  race: U.S. House
+  party: Democratic
+  district: CD-16
+  did_not_respond: true
+
+- candidate_first_name: Adam
+  candidate_last_name: Bauman
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-16
+  did_not_respond: true
+
+- candidate_first_name: Pete
+  candidate_last_name: Sessions
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-17
+  did_not_respond: true
+
+- candidate_first_name: Casey
+  candidate_last_name: Shepard
+  state: tx
+  race: U.S. House
+  party: Democratic
+  district: CD-17
+  did_not_respond: true
+
+- candidate_first_name: Ronald
+  candidate_last_name: Whitfield
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-18
+  did_not_respond: true
+
+- candidate_first_name: Christian
+  candidate_last_name: Menefee
+  state: tx
+  race: U.S. House
+  party: Democratic
+  district: CD-18
+  did_not_respond: true
+
+- candidate_first_name: Kyle
+  candidate_last_name: Rable
+  state: tx
+  race: U.S. House
+  party: Democratic
+  district: CD-19
+  did_not_respond: true
+
+- candidate_first_name: Tom
+  candidate_last_name: Sell
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-19
+  did_not_respond: true
+
+- candidate_first_name: Joaquin
+  candidate_last_name: Castro
+  state: tx
+  race: U.S. House
+  party: Democratic
+  district: CD-20
+  did_not_respond: true
+
+- candidate_first_name: Anthony
+  candidate_last_name: Tristan
+  state: tx
+  race: U.S. House
+  party: Independent
+  district: CD-20
+  did_not_respond: true
+
+- candidate_first_name: Mark
+  candidate_last_name: Teixeira
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-21
+  did_not_respond: true
+
+- candidate_first_name: Dan
+  candidate_last_name: McQueen
+  state: tx
+  race: U.S. House
+  party: Independent
+  district: CD-21
+  did_not_respond: true
+
+- candidate_first_name: Marquette
+  candidate_last_name: Greene-Scott
+  state: tx
+  race: U.S. House
+  party: Democratic
+  district: CD-22
+  did_not_respond: true
+
+- candidate_first_name: Trever
+  candidate_last_name: Nehls
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-22
+  did_not_respond: true
+
+- candidate_first_name: Demile
+  candidate_last_name: James
+  state: tx
+  race: U.S. House
+  party: American Independent
+  district: CD-22
+  did_not_respond: true
+
+- candidate_first_name: Brandon
+  candidate_last_name: Herrera
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-23
+  did_not_respond: true
+
+- candidate_first_name: Beth
+  candidate_last_name: Van Duyne
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-24
+  did_not_respond: true
+
+- candidate_first_name: Kevin
+  candidate_last_name: Burge
+  state: tx
+  race: U.S. House
+  party: Democratic
+  district: CD-24
+  did_not_respond: true
+
+- candidate_first_name: Roger
+  candidate_last_name: Williams
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-25
+  did_not_respond: true
+
+- candidate_first_name: Dione
+  candidate_last_name: Sims
+  state: tx
+  race: U.S. House
+  party: Democratic
+  district: CD-25
+  did_not_respond: true
+
+- candidate_first_name: Brandon
+  candidate_last_name: Gill
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-26
+  did_not_respond: true
+
+- candidate_first_name: Michael
+  candidate_last_name: Cloud
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-27
+  did_not_respond: true
+
+- candidate_first_name: Tanya
+  candidate_last_name: Lloyd
+  state: tx
+  race: U.S. House
+  party: Democratic
+  district: CD-27
+  did_not_respond: true
+
+- candidate_first_name: Travis
+  candidate_last_name: McQueen
+  state: tx
+  race: U.S. House
+  party: Independent
+  district: CD-27
+  did_not_respond: true
+
+- candidate_first_name: Henry
+  candidate_last_name: Cuellar
+  state: tx
+  race: U.S. House
+  party: Democratic
+  district: CD-28
+  did_not_respond: true
+
+- candidate_first_name: Tano
+  candidate_last_name: Tijerina
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-28
+  did_not_respond: true
+
+- candidate_first_name: Marlon
+  candidate_last_name: Duran
+  state: tx
+  race: U.S. House
+  party: Green
+  district: CD-28
+  did_not_respond: true
+
+- candidate_first_name: Sylvia
+  candidate_last_name: Garcia
+  state: tx
+  race: U.S. House
+  party: Democratic
+  district: CD-29
+  did_not_respond: true
+
+- candidate_first_name: Martha
+  candidate_last_name: Fierro
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-29
+  did_not_respond: true
+
+- candidate_first_name: Frederick
+  candidate_last_name: Haynes
+  state: tx
+  race: U.S. House
+  party: Democratic
+  district: CD-30
+  did_not_respond: true
+
+- candidate_first_name: Everett
+  candidate_last_name: Jackson
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-30
+  did_not_respond: true
+
+- candidate_first_name: Oxford
+  candidate_last_name: Nordberg
+  state: tx
+  race: U.S. House
+  party: Independent
+  district: CD-30
+  did_not_respond: true
+
+- candidate_first_name: John
+  candidate_last_name: Carter
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-31
+  did_not_respond: true
+
+- candidate_first_name: Greg
+  candidate_last_name: Stoker
+  state: tx
+  race: U.S. House
+  party: Green
+  district: CD-31
+  did_not_respond: true
+
+- candidate_first_name: Jace
+  candidate_last_name: Yarbrough
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-32
+  did_not_respond: true
+
+- candidate_first_name: Charles
+  candidate_last_name: Harper
+  state: tx
+  race: U.S. House
+  party: Independent
+  district: CD-32
+  did_not_respond: true
+
+- candidate_first_name: Colin
+  candidate_last_name: Allred
+  state: tx
+  race: U.S. House
+  party: Democratic
+  district: CD-33
+  did_not_respond: true
+
+- candidate_first_name: Patrick David
+  candidate_last_name: Gillespie
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-33
+  did_not_respond: true
+
+- candidate_first_name: Vicente
+  candidate_last_name: Gonzalez Jr.
+  state: tx
+  race: U.S. House
+  party: Democratic
+  district: CD-34
+  did_not_respond: true
+
+- candidate_first_name: Eric
+  candidate_last_name: Flores
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-34
+  did_not_respond: true
+
+- candidate_first_name: Johnny
+  candidate_last_name: Garcia
+  state: tx
+  race: U.S. House
+  party: Democratic
+  district: CD-35
+  did_not_respond: true
+
+- candidate_first_name: Carlos
+  candidate_last_name: De La Cruz
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-35
+  did_not_respond: true
+
+- candidate_first_name: Brian
+  candidate_last_name: Babin
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-36
+  did_not_respond: true
+
+- candidate_first_name: Greg
+  candidate_last_name: Casar
+  state: tx
+  race: U.S. House
+  party: Democratic
+  district: CD-37
+  did_not_respond: true
+
+- candidate_first_name: Lauren
+  candidate_last_name: Peña
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-37
+  did_not_respond: true
+
+- candidate_first_name: Jon
+  candidate_last_name: Bonck
+  state: tx
+  race: U.S. House
+  party: Republican
+  district: CD-38
+  did_not_respond: true
+
+- candidate_first_name: William
+  candidate_last_name: Taggart
+  state: tx
+  race: U.S. House
+  party: Independent
+  district: CD-38
+  did_not_respond: true
+
+
+# TX House
+- candidate_first_name: Sean
+  candidate_last_name: Huffman
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-1
+  did_not_respond: true
+
+- candidate_first_name: Chris
+  candidate_last_name: Spencer
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-1
+  did_not_respond: true
+
+- candidate_first_name: Brent
+  candidate_last_name: Money
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-2
+  did_not_respond: true
+
+- candidate_first_name: Nicole
+  candidate_last_name: King
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-3
+  did_not_respond: true
+
+- candidate_first_name: Kristen
+  candidate_last_name: Plaisance
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-3
+  did_not_respond: true
+
+- candidate_first_name: Keith
+  candidate_last_name: Bell
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-4
+  did_not_respond: true
+
+- candidate_first_name: Cole
+  candidate_last_name: Hefner
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-5
+  did_not_respond: true
+
+- candidate_first_name: Hector
+  candidate_last_name: Garza
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-5
+  did_not_respond: true
+
+- candidate_first_name: Daniel
+  candidate_last_name: Alders
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-6
+  did_not_respond: true
+
+- candidate_first_name: Lorenzo
+  candidate_last_name: Johnson
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-6
+  did_not_respond: true
+
+- candidate_first_name: Jay
+  candidate_last_name: Dean
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-7
+  did_not_respond: true
+
+- candidate_first_name: Fantasha
+  candidate_last_name: Allen
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-7
+  did_not_respond: true
+
+- candidate_first_name: Cody
+  candidate_last_name: Harris
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-8
+  did_not_respond: true
+
+- candidate_first_name: Jeff
+  candidate_last_name: Chavez
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-8
+  did_not_respond: true
+
+- candidate_first_name: Shelley
+  candidate_last_name: Tatum
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-9
+  did_not_respond: true
+
+- candidate_first_name: Rocky
+  candidate_last_name: Thigpen
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-9
+  did_not_respond: true
+
+- candidate_first_name: Brian
+  candidate_last_name: Harrison
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-10
+  did_not_respond: true
+
+- candidate_first_name: Michael
+  candidate_last_name: Myers
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-10
+  did_not_respond: true
+
+- candidate_first_name: Joanne
+  candidate_last_name: Shofner
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-11
+  did_not_respond: true
+
+- candidate_first_name: Trey
+  candidate_last_name: Wharton
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-12
+  did_not_respond: true
+
+- candidate_first_name: Angelia
+  candidate_last_name: Orr
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-13
+  did_not_respond: true
+
+- candidate_first_name: Albert
+  candidate_last_name: Hunter
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-13
+  did_not_respond: true
+
+- candidate_first_name: Paul
+  candidate_last_name: Dyson
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-14
+  did_not_respond: true
+
+- candidate_first_name: Janet
+  candidate_last_name: Dudding
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-14
+  did_not_respond: true
+
+- candidate_first_name: Brad
+  candidate_last_name: Bailey
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-15
+  did_not_respond: true
+
+- candidate_first_name: Moniqua'
+  candidate_last_name: Scott
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-15
+  did_not_respond: true
+
+- candidate_first_name: Will
+  candidate_last_name: Metcalf
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-16
+  did_not_respond: true
+
+- candidate_first_name: Bobbie
+  candidate_last_name: Clayton
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-16
+  did_not_respond: true
+
+- candidate_first_name: Stan
+  candidate_last_name: Gerdes
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-17
+  did_not_respond: true
+
+- candidate_first_name: Dr. Mary Elizabeth
+  candidate_last_name: Klenz
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-17
+  did_not_respond: true
+
+- candidate_first_name: Janis
+  candidate_last_name: Holt
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-18
+  did_not_respond: true
+
+- candidate_first_name: Valorie
+  candidate_last_name: Barton
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-18
+  did_not_respond: true
+
+- candidate_first_name: Ellen
+  candidate_last_name: Troxclair
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-19
+  did_not_respond: true
+
+- candidate_first_name: Kelly
+  candidate_last_name: Hall
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-19
+  did_not_respond: true
+
+- candidate_first_name: Terry M.
+  candidate_last_name: Wilson
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-20
+  did_not_respond: true
+
+- candidate_first_name: Ray
+  candidate_last_name: Callas
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-21
+  did_not_respond: true
+
+- candidate_first_name: Jacqueline "Jacky"
+  candidate_last_name: Hernandez
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-21
+  did_not_respond: true
+
+- candidate_first_name: Christian
+  candidate_last_name: Manuel
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-22
+  did_not_respond: true
+
+- candidate_first_name: Terri
+  candidate_last_name: Leo Wilson
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-23
+  did_not_respond: true
+
+- candidate_first_name: Cheryl
+  candidate_last_name: Clark
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-23
+  did_not_respond: true
+
+- candidate_first_name: Dr. Greg
+  candidate_last_name: Bonnen
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-24
+  did_not_respond: true
+
+- candidate_first_name: Frank
+  candidate_last_name: Carr
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-24
+  did_not_respond: true
+
+- candidate_first_name: Cody
+  candidate_last_name: Vasut
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-25
+  did_not_respond: true
+
+- candidate_first_name: Matt
+  candidate_last_name: Morgan
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-26
+  did_not_respond: true
+
+- candidate_first_name: Ron
+  candidate_last_name: Reynolds
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-27
+  did_not_respond: true
+
+- candidate_first_name: Max
+  candidate_last_name: Alalibo
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-27
+  did_not_respond: true
+
+- candidate_first_name: Jeff
+  candidate_last_name: Barry
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-29
+  did_not_respond: true
+
+- candidate_first_name: Karen
+  candidate_last_name: Reeder
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-29
+  did_not_respond: true
+
+- candidate_first_name: A.J.
+  candidate_last_name: Louderback
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-30
+  did_not_respond: true
+
+- candidate_first_name: Ryan
+  candidate_last_name: Guillen
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-31
+  did_not_respond: true
+
+- candidate_first_name: Jennifer "JJ"
+  candidate_last_name: Dominguez
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-31
+  did_not_respond: true
+
+- candidate_first_name: Todd
+  candidate_last_name: Hunter
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-32
+  did_not_respond: true
+
+- candidate_first_name: Denise
+  candidate_last_name: Villalobos
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-34
+  did_not_respond: true
+
+- candidate_first_name: Stephanie
+  candidate_last_name: Guerrero Sáenz
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-34
+  did_not_respond: true
+
+- candidate_first_name: Oscar
+  candidate_last_name: Longoria
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-35
+  did_not_respond: true
+
+- candidate_first_name: Oscar
+  candidate_last_name: Rosa
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-35
+  did_not_respond: true
+
+- candidate_first_name: Sergio
+  candidate_last_name: Muñoz Jr.
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-36
+  did_not_respond: true
+
+- candidate_first_name: Janie
+  candidate_last_name: Lopez
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-37
+  did_not_respond: true
+
+- candidate_first_name: Oziel "Ozzie"
+  candidate_last_name: Ochoa Jr.
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-37
+  did_not_respond: true
+
+- candidate_first_name: Erin Elizabeth
+  candidate_last_name: Gámez
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-38
+  did_not_respond: true
+
+- candidate_first_name: Laura
+  candidate_last_name: Cisneros
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-38
+  did_not_respond: true
+
+- candidate_first_name: Armando "Mando"
+  candidate_last_name: Martinez
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-39
+  did_not_respond: true
+
+- candidate_first_name: Terry
+  candidate_last_name: Canales
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-40
+  did_not_respond: true
+
+- candidate_first_name: Celeste
+  candidate_last_name: Cabrera-Huff
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-40
+  did_not_respond: true
+
+- candidate_first_name: Nehemias
+  candidate_last_name: Gomez
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-40
+  primary_candidate: true
+  did_not_respond: true
+
+- candidate_first_name: Gary
+  candidate_last_name: Groves
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-41
+  did_not_respond: true
+
+- candidate_first_name: Richard Peña
+  candidate_last_name: Raymond
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-42
+  did_not_respond: true
+
+- candidate_first_name: Dr. Teresa
+  candidate_last_name: Johnson-Hernandez
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-42
+  did_not_respond: true
+
+- candidate_first_name: J.M.
+  candidate_last_name: Lozano
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-43
+  did_not_respond: true
+
+- candidate_first_name: Jeffrey
+  candidate_last_name: Jackson
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-43
+  did_not_respond: true
+
+- candidate_first_name: Alan
+  candidate_last_name: Schoolcraft
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-44
+  did_not_respond: true
+
+- candidate_first_name: Eric
+  candidate_last_name: Norman
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-44
+  did_not_respond: true
+
+- candidate_first_name: Erin
+  candidate_last_name: Zwiener
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-45
+  did_not_respond: true
+
+- candidate_first_name: Tennyson
+  candidate_last_name: Moreno
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-45
+  did_not_respond: true
+
+- candidate_first_name: Sheryl
+  candidate_last_name: Cole
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-46
+  did_not_respond: true
+
+- candidate_first_name: Anthony
+  candidate_last_name: Gupta
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-48
+  did_not_respond: true
+
+- candidate_first_name: Samantha
+  candidate_last_name: Lopez-Resendez
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-50
+  did_not_respond: true
+
+- candidate_first_name: Howard
+  candidate_last_name: Olsen
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-50
+  did_not_respond: true
+
+- candidate_first_name: Lulu
+  candidate_last_name: Flores
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-51
+  did_not_respond: true
+
+- candidate_first_name: Jessica
+  candidate_last_name: Martinez
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-51
+  did_not_respond: true
+
+- candidate_first_name: Caroline
+  candidate_last_name: Harris Davila
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-52
+  did_not_respond: true
+
+- candidate_first_name: Chris
+  candidate_last_name: Jimenez
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-52
+  did_not_respond: true
+
+- candidate_first_name: Wes
+  candidate_last_name: Virdell
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-53
+  did_not_respond: true
+
+- candidate_first_name: Brad
+  candidate_last_name: Buckley
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-54
+  did_not_respond: true
+
+- candidate_first_name: Dawn
+  candidate_last_name: Richardson
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-54
+  did_not_respond: true
+
+- candidate_first_name: Hillary
+  candidate_last_name: Hickland
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-55
+  did_not_respond: true
+
+- candidate_first_name: Amelia
+  candidate_last_name: Rabroker
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-55
+  did_not_respond: true
+
+- candidate_first_name: Pat
+  candidate_last_name: Curry
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-56
+  did_not_respond: true
+
+- candidate_first_name: Ashley Bean
+  candidate_last_name: Thornton
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-56
+  did_not_respond: true
+
+- candidate_first_name: Richard
+  candidate_last_name: Hayes
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-57
+  did_not_respond: true
+
+- candidate_first_name: Ray
+  candidate_last_name: Stith
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-57
+  did_not_respond: true
+
+- candidate_first_name: Helen
+  candidate_last_name: Kerwin
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-58
+  did_not_respond: true
+
+- candidate_first_name: Shelby
+  candidate_last_name: Slawson
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-59
+  did_not_respond: true
+
+- candidate_first_name: Andrew
+  candidate_last_name: Turner
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-59
+  did_not_respond: true
+
+- candidate_first_name: Mike
+  candidate_last_name: Olcott
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-60
+  did_not_respond: true
+
+- candidate_first_name: Krissy
+  candidate_last_name: Guess
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-60
+  did_not_respond: true
+
+- candidate_first_name: Keresa
+  candidate_last_name: Richardson
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-61
+  did_not_respond: true
+
+- candidate_first_name: Shelley
+  candidate_last_name: Luther
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-62
+  did_not_respond: true
+
+- candidate_first_name: Catherine
+  candidate_last_name: Thorne
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-62
+  did_not_respond: true
+
+- candidate_first_name: Ben
+  candidate_last_name: Bumgarner
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-63
+  did_not_respond: true
+
+- candidate_first_name: Denise
+  candidate_last_name: Wooten
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-63
+  did_not_respond: true
+
+- candidate_first_name: Andy
+  candidate_last_name: Hopper
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-64
+  did_not_respond: true
+
+- candidate_first_name: Julie
+  candidate_last_name: Evans
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-64
+  did_not_respond: true
+
+- candidate_first_name: Mitch
+  candidate_last_name: Little
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-65
+  did_not_respond: true
+
+- candidate_first_name: Matt
+  candidate_last_name: Shaheen
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-66
+  did_not_respond: true
+
+- candidate_first_name: Sandeep
+  candidate_last_name: Srivastava
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-66
+  did_not_respond: true
+
+- candidate_first_name: Jeff
+  candidate_last_name: Leach
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-67
+  did_not_respond: true
+
+- candidate_first_name: Jordan
+  candidate_last_name: Wheatley
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-67
+  did_not_respond: true
+
+- candidate_first_name: David
+  candidate_last_name: Spiller
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-68
+  did_not_respond: true
+
+- candidate_first_name: Jasmine
+  candidate_last_name: Henderson
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-68
+  did_not_respond: true
+
+- candidate_first_name: James
+  candidate_last_name: Frank
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-69
+  did_not_respond: true
+
+- candidate_first_name: Diana
+  candidate_last_name: Luna
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-71
+  did_not_respond: true
+
+- candidate_first_name: Jay
+  candidate_last_name: Hardaway
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-71
+  did_not_respond: true
+
+- candidate_first_name: Drew
+  candidate_last_name: Darby
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-72
+  did_not_respond: true
+
+- candidate_first_name: Carrie
+  candidate_last_name: Isaac
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-73
+  did_not_respond: true
+
+- candidate_first_name: Merrie
+  candidate_last_name: Fox
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-73
+  did_not_respond: true
+
+- candidate_first_name: Robert
+  candidate_last_name: Garza
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-74
+  did_not_respond: true
+
+- candidate_first_name: John
+  candidate_last_name: McLeon
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-74
+  primary_candidate: true
+  did_not_respond: true
+
+- candidate_first_name: Mary E.
+  candidate_last_name: González
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-75
+  did_not_respond: true
+
+- candidate_first_name: Dr. Suleman
+  candidate_last_name: Lalani
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-76
+  did_not_respond: true
+
+- candidate_first_name: Linda
+  candidate_last_name: Howell
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-76
+  did_not_respond: true
+
+- candidate_first_name: Vince
+  candidate_last_name: Perez
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-77
+  did_not_respond: true
+
+- candidate_first_name: Joe
+  candidate_last_name: Moody
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-78
+  did_not_respond: true
+
+- candidate_first_name: Claudia
+  candidate_last_name: Ordaz
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-79
+  did_not_respond: true
+
+- candidate_first_name: Jesse
+  candidate_last_name: Romero
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-79
+  did_not_respond: true
+
+- candidate_first_name: Don
+  candidate_last_name: McLaughlin Jr.
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-80
+  did_not_respond: true
+
+- candidate_first_name: Brooks
+  candidate_last_name: Landgraf
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-81
+  did_not_respond: true
+
+- candidate_first_name: Ceasar
+  candidate_last_name: Sanchez
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-81
+  did_not_respond: true
+
+- candidate_first_name: Tom
+  candidate_last_name: Craddick
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-82
+  did_not_respond: true
+
+- candidate_first_name: Cathy
+  candidate_last_name: Broadrick
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-82
+  did_not_respond: true
+
+- candidate_first_name: Dustin
+  candidate_last_name: Burrows
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-83
+  did_not_respond: true
+
+- candidate_first_name: Malik
+  candidate_last_name: Williams
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-83
+  did_not_respond: true
+
+- candidate_first_name: Carl
+  candidate_last_name: Tepper
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-84
+  did_not_respond: true
+
+- candidate_first_name: Margaret
+  candidate_last_name: Durham
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-84
+  did_not_respond: true
+
+- candidate_first_name: Dr. Lawrence D.
+  candidate_last_name: Brandyburg
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-85
+  did_not_respond: true
+
+- candidate_first_name: Dennis "Goose"
+  candidate_last_name: Geesaman
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-85
+  did_not_respond: true
+
+- candidate_first_name: Holly
+  candidate_last_name: Jeffreys
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-86
+  did_not_respond: true
+
+- candidate_first_name: Caroline
+  candidate_last_name: Fairly
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-87
+  did_not_respond: true
+
+- candidate_first_name: Ken
+  candidate_last_name: King
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-88
+  did_not_respond: true
+
+- candidate_first_name: Candy
+  candidate_last_name: Noble
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-89
+  did_not_respond: true
+
+- candidate_first_name: Ramon
+  candidate_last_name: Romero Jr.
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-90
+  did_not_respond: true
+
+- candidate_first_name: David
+  candidate_last_name: Lowe
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-91
+  did_not_respond: true
+
+- candidate_first_name: Salman
+  candidate_last_name: Bhojani
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-92
+  did_not_respond: true
+
+- candidate_first_name: JP
+  candidate_last_name: Woodruff
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-92
+  did_not_respond: true
+
+- candidate_first_name: Alan
+  candidate_last_name: Blaylock
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-93
+  did_not_respond: true
+
+- candidate_first_name: Cheryl
+  candidate_last_name: Bean
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-94
+  did_not_respond: true
+
+- candidate_first_name: Nicole
+  candidate_last_name: Collier
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-95
+  did_not_respond: true
+
+- candidate_first_name: Ebony
+  candidate_last_name: Turner
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-96
+  did_not_respond: true
+
+- candidate_first_name: John
+  candidate_last_name: McQueeney
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-97
+  did_not_respond: true
+
+- candidate_first_name: Beth Llewellyn
+  candidate_last_name: McLaughlin
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-97
+  did_not_respond: true
+
+- candidate_first_name: Armin
+  candidate_last_name: Mizani
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-98
+  did_not_respond: true
+
+- candidate_first_name: Charlie
+  candidate_last_name: Geren
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-99
+  did_not_respond: true
+
+- candidate_first_name: Michelle
+  candidate_last_name: Winder
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-99
+  did_not_respond: true
+
+- candidate_first_name: Venton
+  candidate_last_name: Jones
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-100
+  did_not_respond: true
+
+- candidate_first_name: Ana-Maria
+  candidate_last_name: Ramos
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-102
+  did_not_respond: true
+
+- candidate_first_name: Rafael
+  candidate_last_name: Anchía
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-103
+  did_not_respond: true
+
+- candidate_first_name: Melanie
+  candidate_last_name: Medley-Thomas
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-103
+  did_not_respond: true
+
+- candidate_first_name: Jessica
+  candidate_last_name: González
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-104
+  did_not_respond: true
+
+- candidate_first_name: Terry
+  candidate_last_name: Meza
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-105
+  did_not_respond: true
+
+- candidate_first_name: Jared
+  candidate_last_name: Patterson
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-106
+  did_not_respond: true
+
+- candidate_first_name: Joe
+  candidate_last_name: Mayes
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-106
+  did_not_respond: true
+
+- candidate_first_name: Linda
+  candidate_last_name: Garcia
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-107
+  did_not_respond: true
+
+- candidate_first_name: Morgan
+  candidate_last_name: Meyer
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-108
+  did_not_respond: true
+
+- candidate_first_name: Allison
+  candidate_last_name: Mitchell
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-108
+  did_not_respond: true
+
+- candidate_first_name: Aicha
+  candidate_last_name: Davis
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-109
+  did_not_respond: true
+
+- candidate_first_name: Toni
+  candidate_last_name: Rose
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-110
+  did_not_respond: true
+
+- candidate_first_name: Yvonne
+  candidate_last_name: Davis
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-111
+  did_not_respond: true
+
+- candidate_first_name: Angie Chen
+  candidate_last_name: Button
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-112
+  did_not_respond: true
+
+- candidate_first_name: Zach
+  candidate_last_name: Herbert
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-112
+  did_not_respond: true
+
+- candidate_first_name: Rhetta Andrews
+  candidate_last_name: Bowers
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-113
+  did_not_respond: true
+
+- candidate_first_name: John
+  candidate_last_name: Bryant
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-114
+  did_not_respond: true
+
+- candidate_first_name: Tim
+  candidate_last_name: McDonough
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-114
+  did_not_respond: true
+
+- candidate_first_name: Cassandra
+  candidate_last_name: Hernandez
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-115
+  did_not_respond: true
+
+- candidate_first_name: Danny
+  candidate_last_name: Rosellini
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-115
+  did_not_respond: true
+
+- candidate_first_name: Trey
+  candidate_last_name: Martinez Fischer
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-116
+  did_not_respond: true
+
+- candidate_first_name: Rhett Rosenquest
+  candidate_last_name: Smith
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-116
+  did_not_respond: true
+
+- candidate_first_name: Philip
+  candidate_last_name: Cortez
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-117
+  did_not_respond: true
+
+- candidate_first_name: Jorge
+  candidate_last_name: Borrego
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-118
+  did_not_respond: true
+
+- candidate_first_name: Kristian
+  candidate_last_name: Carranza
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-118
+  did_not_respond: true
+
+- candidate_first_name: Elizabeth "Liz"
+  candidate_last_name: Campos
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-119
+  did_not_respond: true
+
+- candidate_first_name: Melva
+  candidate_last_name: Pérez
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-119
+  did_not_respond: true
+
+- candidate_first_name: Barbara
+  candidate_last_name: Gervin-Hawkins
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-120
+  did_not_respond: true
+
+- candidate_first_name: Marc
+  candidate_last_name: LaHood
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-121
+  did_not_respond: true
+
+- candidate_first_name: Zack
+  candidate_last_name: Dunn
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-121
+  did_not_respond: true
+
+- candidate_first_name: Mark
+  candidate_last_name: Dorazio
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-122
+  did_not_respond: true
+
+- candidate_first_name: Shelly
+  candidate_last_name: Nickels
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-122
+  did_not_respond: true
+
+- candidate_first_name: Diego
+  candidate_last_name: Bernal
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-123
+  did_not_respond: true
+
+- candidate_first_name: Rick
+  candidate_last_name: Martinez
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-125
+  did_not_respond: true
+
+- candidate_first_name: Stan
+  candidate_last_name: Stanart
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-126
+  did_not_respond: true
+
+- candidate_first_name: Michelle
+  candidate_last_name: Williams
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-127
+  did_not_respond: true
+
+- candidate_first_name: Tom
+  candidate_last_name: Butler
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-128
+  did_not_respond: true
+
+- candidate_first_name: Scott
+  candidate_last_name: Bowen
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-129
+  did_not_respond: true
+
+- candidate_first_name: Tom
+  candidate_last_name: Oliverson
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-130
+  did_not_respond: true
+
+- candidate_first_name: Scott
+  candidate_last_name: Whitmarsh
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-131
+  did_not_respond: true
+
+- candidate_first_name: Mike
+  candidate_last_name: Schofield
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-132
+  did_not_respond: true
+
+- candidate_first_name: Sara
+  candidate_last_name: McGee
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-132
+  did_not_respond: true
+
+- candidate_first_name: Mano
+  candidate_last_name: DeAyala
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-133
+  did_not_respond: true
+
+- candidate_first_name: Ann
+  candidate_last_name: Johnson
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-134
+  did_not_respond: true
+
+- candidate_first_name: Mike
+  candidate_last_name: Michna
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-134
+  did_not_respond: true
+
+- candidate_first_name: Liz
+  candidate_last_name: Ramos
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-135
+  did_not_respond: true
+
+- candidate_first_name: Gene
+  candidate_last_name: Wu
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-137
+  did_not_respond: true
+
+- candidate_first_name: Helen
+  candidate_last_name: Zhou
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-137
+  did_not_respond: true
+
+- candidate_first_name: Lacey
+  candidate_last_name: Hull
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-138
+  did_not_respond: true
+
+- candidate_first_name: Tyler
+  candidate_last_name: Smith
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-138
+  did_not_respond: true
+
+- candidate_first_name: Kyle
+  candidate_last_name: Harding
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-139
+  did_not_respond: true
+
+- candidate_first_name: Armando Lucio
+  candidate_last_name: Walle
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-140
+  did_not_respond: true
+
+- candidate_first_name: Laura Garcia
+  candidate_last_name: DeLeon
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-140
+  did_not_respond: true
+
+- candidate_first_name: Senfronia
+  candidate_last_name: Thompson
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-141
+  did_not_respond: true
+
+- candidate_first_name: Julie
+  candidate_last_name: Hunt
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-141
+  did_not_respond: true
+
+- candidate_first_name: Harold V.
+  candidate_last_name: Dutton Jr.
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-142
+  did_not_respond: true
+
+- candidate_first_name: Heidi
+  candidate_last_name: Hall
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-142
+  did_not_respond: true
+
+- candidate_first_name: Ana
+  candidate_last_name: Hernandez
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-143
+  did_not_respond: true
+
+- candidate_first_name: Frank
+  candidate_last_name: Salazar
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-143
+  did_not_respond: true
+
+- candidate_first_name: Mary Ann
+  candidate_last_name: Perez
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-144
+  did_not_respond: true
+
+- candidate_first_name: David
+  candidate_last_name: Flores
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-144
+  did_not_respond: true
+
+- candidate_first_name: Lauren Ashley
+  candidate_last_name: Simmons
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-146
+  did_not_respond: true
+
+- candidate_first_name: Alexandria Nicole
+  candidate_last_name: Butler
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-146
+  did_not_respond: true
+
+- candidate_first_name: Jolanda
+  candidate_last_name: Jones
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-147
+  did_not_respond: true
+
+- candidate_first_name: Theodis
+  candidate_last_name: Daniel
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-147
+  did_not_respond: true
+
+- candidate_first_name: Penny
+  candidate_last_name: Morales Shaw
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-148
+  did_not_respond: true
+
+- candidate_first_name: Amanda
+  candidate_last_name: LaBrie
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-148
+  did_not_respond: true
+
+- candidate_first_name: Dave
+  candidate_last_name: Bennett
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-149
+  did_not_respond: true
+
+- candidate_first_name: Valoree
+  candidate_last_name: Swanson
+  state: tx
+  race: State House of Representatives
+  party: Republican
+  district: HD-150
+  did_not_respond: true
+
+- candidate_first_name: A'Yonna
+  candidate_last_name: Kellum
+  state: tx
+  race: State House of Representatives
+  party: Democratic
+  district: HD-150
+  did_not_respond: true
