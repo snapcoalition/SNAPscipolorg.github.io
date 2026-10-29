@@ -1377,7 +1377,19 @@
   primary_candidate: false
   response: | 
     I would support legislation that would use public dollars to make up the deficit to maintain current levels, even if it were only half of the deficit, we can't continue cutting scientific work, education or research!
- 
+    
+- candidate_first_name: Amy
+  candidate_last_name: Hossain
+  state: ok
+  race: State Senate
+  district: SD-34
+  party: Democratic
+  question: ok-q1
+  date: 2026-10-25
+  primary_candidate: false
+  response: |
+    I would support legislation that would use public dollars to make up the deficit to maintain current levels, even if it were only half of the deficit, we can't continue cutting scientific work, education or research!
+    
 - candidate_first_name: Amy
   candidate_last_name: Hossain
   state: ok
@@ -1458,5 +1470,323 @@
     We could also involve our higher education institutions to complete research in rural areas to provide additional data tracking for these initiative, being where the people are is a vital first step in Public Health initiatives and community health!
   
   
-    
+# US Senate
+- candidate_first_name: Kevin
+  candidate_last_name: Hern
+  state: ok
+  race: U.S. Senate
+  party: Republican
+  did_not_respond: true
+
+- candidate_first_name: Curtis
+  candidate_last_name: Stinnett
+  state: ok
+  race: U.S. Senate
+  party: Independent
+  did_not_respond: true
+
+- candidate_first_name: Sevier
+  candidate_last_name: White
+  state: ok
+  race: U.S. Senate
+  party: Libertarian
+  did_not_respond: true
+
+- candidate_first_name: Ron
+  candidate_last_name: Meinhardt
+  state: ok
+  race: U.S. Senate
+  party: Independent
+  did_not_respond: true
+
+
+# US House
+- candidate_first_name: John
+  candidate_last_name: Croisant
+  state: ok
+  race: U.S. House
+  party: Democratic
+  district: CD-1
+  did_not_respond: true
+
+- candidate_first_name: Mark
+  candidate_last_name: Tedford
+  state: ok
+  race: U.S. House
+  party: Republican
+  district: CD-1
+  did_not_respond: true
+
+- candidate_first_name: Josh
+  candidate_last_name: Brecheen
+  state: ok
+  race: U.S. House
+  party: Republican
+  district: CD-2
+  did_not_respond: true
+
+- candidate_first_name: Brandon
+  candidate_last_name: Wade
+  state: ok
+  race: U.S. House
+  party: Democratic
+  district: CD-2
+  did_not_respond: true
+
+- candidate_first_name: Ronnie
+  candidate_last_name: Hopkins
+  state: ok
+  race: U.S. House
+  party: Independent
+  district: CD-2
+  did_not_respond: true
+
+- candidate_first_name: Frank
+  candidate_last_name: Lucas
+  state: ok
+  race: U.S. House
+  party: Republican
+  district: CD-3
+  did_not_respond: true
+
+- candidate_first_name: Tom
+  candidate_last_name: Cole
+  state: ok
+  race: U.S. House
+  party: Republican
+  district: CD-4
+  did_not_respond: true
+
+- candidate_first_name: Mitchell
+  candidate_last_name: Jacob
+  state: ok
+  race: U.S. House
+  party: Democratic
+  district: CD-4
+  did_not_respond: true
+
+- candidate_first_name: Rocco
+  candidate_last_name: Bonacci
+  state: ok
+  race: U.S. House
+  party: Independent
+  district: CD-4
+  did_not_respond: true
+
+- candidate_first_name: Jena
+  candidate_last_name: Nelson
+  state: ok
+  race: U.S. House
+  party: Democratic
+  district: CD-5
+  did_not_respond: true
+
+- candidate_first_name: Austin
+  candidate_last_name: Nieves
+  state: ok
+  race: U.S. House
+  party: Independent
+  district: CD-5
+  did_not_respond: true
+
+# Attorney General
+- candidate_first_name: Jon
+  candidate_last_name: Echols
+  state: ok
+  race: Attorney General
+  party: Republican
+  did_not_respond: true
+
+- candidate_first_name: Nick
+  candidate_last_name: Coffey
+  state: ok
+  race: Attorney General
+  party: Democratic
+  did_not_respond: true
+
+
+# State Senate
+- candidate_first_name: Ally
+  candidate_last_name: Seifried
+  state: ok
+  race: State Senate
+  party: Republican
+  district: SD-2
+  did_not_respond: true
+
+- candidate_first_name: Tom
+  candidate_last_name: Woods
+  state: ok
+  race: State Senate
+  party: Republican
+  district: SD-4
+  did_not_respond: true
+
+- candidate_first_name: Ellen
+  candidate_last_name: Cuff
+  state: ok
+  race: State Senate
+  party: Democratic
+  district: SD-4
+  did_not_respond: true
+
+- candidate_first_name: David
+  candidate_last_name: Bullard
+  state: ok
+  race: State Senate
+  party: Republican
+  district: SD-6
+  did_not_respond: true
+
+- candidate_first_name: Bryan
+  candidate_last_name: Logan
+  state: ok
+  race: State Senate
+  party: Republican
+  district: SD-8
+  did_not_respond: true
+
+- candidate_first_name: Bill
+  candidate_last_name: Coleman
+  state: ok
+  race: State Senate
+  party: Republican
+  district: SD-10
+  did_not_respond: true
+
+- candidate_first_name: Chayelynn
+  candidate_last_name: Moore
+  state: ok
+  race: State Senate
+  party: Democratic
+  district: SD-10
+  did_not_respond: true
+
+- candidate_first_name: Todd
+  candidate_last_name: Gollihare
+  state: ok
+  race: State Senate
+  party: Republican
+  district: SD-12
+  did_not_respond: true
+
+- candidate_first_name: Erica
+  candidate_last_name: Watkins
+  state: ok
+  race: State Senate
+  party: Democratic
+  district: SD-12
+  did_not_respond: true
+
+- candidate_first_name: Justin
+  candidate_last_name: Wood
+  state: ok
+  race: State Senate
+  party: Republican
+  district: SD-17
+  did_not_respond: true
+
+- candidate_first_name: Ed
+  candidate_last_name: Bolt
+  state: ok
+  race: State Senate
+  party: Democratic
+  district: SD-17
+  did_not_respond: true
+
+- candidate_first_name: Tyler
+  candidate_last_name: Herring
+  state: ok
+  race: State Senate
+  party: Republican
+  district: SD-18
+  did_not_respond: true
+
+- candidate_first_name: Kristen
+  candidate_last_name: Thompson
+  state: ok
+  race: State Senate
+  party: Republican
+  district: SD-22
+  did_not_respond: true
+
+- candidate_first_name: Kenny
+  candidate_last_name: Kemper
+  state: ok
+  race: State Senate
+  party: Democratic
+  district: SD-22
+  did_not_respond: true
+
+- candidate_first_name: Dr. Jon
+  candidate_last_name: Painter
+  state: ok
+  race: State Senate
+  party: Republican
+  district: SD-24
+  did_not_respond: true
+
+- candidate_first_name: Grant
+  candidate_last_name: Green
+  state: ok
+  race: State Senate
+  party: Republican
+  district: SD-28
+  did_not_respond: true
+
+- candidate_first_name: Kevin
+  candidate_last_name: Connor
+  state: ok
+  race: State Senate
+  party: Democratic
+  district: SD-28
+  did_not_respond: true
+
+- candidate_first_name: Curtis
+  candidate_last_name: Erwin
+  state: ok
+  race: State Senate
+  party: Republican
+  district: SD-32
+  did_not_respond: true
+
+- candidate_first_name: Booker
+  candidate_last_name: Newton
+  state: ok
+  race: State Senate
+  party: Democratic
+  district: SD-32
+  did_not_respond: true
+
+- candidate_first_name: Aaron
+  candidate_last_name: Forst
+  state: ok
+  race: State Senate
+  party: Republican
+  district: SD-34
+  did_not_respond: true
+
+- candidate_first_name: John
+  candidate_last_name: Haste
+  state: ok
+  race: State Senate
+  party: Republican
+  district: SD-36
+  did_not_respond: true
+
+- candidate_first_name: Rick
+  candidate_last_name: Vernon
+  state: ok
+  race: State Senate
+  party: Republican
+  district: SD-38
+  did_not_respond: true
+
+- candidate_first_name: Brenda
+  candidate_last_name: Stanley
+  state: ok
+  race: State Senate
+  party: Republican
+  district: SD-42
+  did_not_respond: true
     
