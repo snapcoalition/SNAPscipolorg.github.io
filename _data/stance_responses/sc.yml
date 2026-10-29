@@ -159,10 +159,34 @@
   district: 44
   party: Democratic
   question: sc-q1
+  date: 2026-10-12
+  primary_candidate: false
+  response: |
+    New data centers must be held accountable for producing their own energy and cleaning their own water; they cannot be allowed to take advantage of poor or rural communities or destroy protected lands. The substantial profits they claim to make should be plenty of money for them to build their own self-sustaining systems that don't cut deals that increase costs for consumers, and they should be able to afford to do it in environmentally safe ways. If they can't, they don't need to build a data center.
+
+- candidate_first_name: Katie
+  candidate_last_name: Crosby
+  state: sc
+  race: State House of Representatives
+  district: 44
+  party: Democratic
+  question: sc-q1
   date: 2026-10-25
   primary_candidate: false
   response: |
     New data centers must be held accountable for producing their own energy and cleaning their own water; they cannot be allowed to take advantage of poor or rural communities or destroy protected lands. The substantial profits they claim to make should be plenty of money for them to build their own self-sustaining systems that don't cut deals that increase costs for consumers, and they should be able to afford to do it in environmentally safe ways. If they can't, they don't need to build a data center.
+
+- candidate_first_name: Katie
+  candidate_last_name: Crosby
+  state: sc
+  race: State House of Representatives
+  district: 44
+  party: Democratic
+  question: sc-q2
+  date: 2026-10-12
+  primary_candidate: false
+  response: |
+    First, we have to keep pubic money in public schools and increase accountability and transparency into how that money is spent so stakeholders know it is benefiting students. When we have funding for sufficient school buildings, competitive teacher pay, and can shift the focus from banning books to boosting quality curriculum, we will see an increase in student performance. We have to successfully teach all the subjects: hands-on science, real social studies, writing, arts, and music, in addition to reading and math that boost test scores, so our students become successful citizens who are ready to succeed in the workforce and in our communities.
 
 - candidate_first_name: Katie
   candidate_last_name: Crosby
@@ -183,10 +207,34 @@
   district: 44
   party: Democratic
   question: sc-q3
+  date: 2026-10-12
+  primary_candidate: false
+  response: |
+    While our founding fathers weren't perfect, I wholeheartedly agree with the sentiment that governments are instituted to secure the rights to life, liberty, and the pursuit of happiness. Protecting pubic health and community well-being is the first and fundamental responsibility of a government; that of securing the right to life. Without it, the government cannot secure the rights to liberty or the pursuit of happiness. It is absolutely the government's responsibility to provide vaccine access, mitigate environmental health risks, prevent disease where possible, and execute emergency preparedness plans.
+
+- candidate_first_name: Katie
+  candidate_last_name: Crosby
+  state: sc
+  race: State House of Representatives
+  district: 44
+  party: Democratic
+  question: sc-q3
   date: 2026-10-25
   primary_candidate: false
   response: |
     While our founding fathers weren't perfect, I wholeheartedly agree with the sentiment that governments are instituted to secure the rights to life, liberty, and the pursuit of happiness. Protecting pubic health and community well-being is the first and fundamental responsibility of a government; that of securing the right to life. Without it, the government cannot secure the rights to liberty or the pursuit of happiness. It is absolutely the government's responsibility to provide vaccine access, mitigate environmental health risks, prevent disease where possible, and execute emergency preparedness plans.
+
+- candidate_first_name: Katie
+  candidate_last_name: Crosby
+  state: sc
+  race: State House of Representatives
+  district: 44
+  party: Democratic
+  question: sc-q4
+  date: 2026-10-12
+  primary_candidate: false
+  response: |
+    Nelson Mandela stated, "Education is the most powerful weapon which you can use to change the world." What we have to remember is that access to information is not education. We must follow in the footsteps of those like Modjeska Simpkins and meet people exactly where they are and show them why the information she had was important and could protect them from diseases like tuberculosis. Her personal connection built trust and saved lives. Elected officials need to do two things: build trust directly with their constituents through communication, whether by knocking on their doors, holding town halls, calling them personally on the phone, or whatever that looks like for their community; and publicly demonstrate trusting relationships with scientists by publicly working together. Many elected officials currently excel at one piece or the other, but it is certainly a challenge to achieve both. We need both our own open mindset and the support of our constituents and our scientists to achieve it.
 
 - candidate_first_name: Katie
   candidate_last_name: Crosby
@@ -395,6 +443,54 @@
 
 
     I’ll support making scientific information more accessible and public engagement a two-way conversation. We also need accountability in the form of independent research, transparency about potential conflicts of interest, and clear explanations of how scientific evidence informs government decisions.
+
+- candidate_first_name: Zyon
+  candidate_last_name: El-Khalifa
+  state: sc
+  race: US House of Representatives
+  district: 2
+  party: Democratic
+  question: sc-q1
+  date: 2026-10-28
+  primary_candidate: false
+  response: |
+    Data centers are a necessary part of life, but as Americans pay more and more for utilities, we can’t allow them to make Americans’ lives more expensive. I support a pause on the development of data centers while we investigate the impact on local communities. I support communities having a say in whether data centers are built near them. And I think we must insist that data centers provide their own electricity and determine ways to limit the use of water so Americans are not paying the cost while seeing no benefit.
+
+- candidate_first_name: Zyon
+  candidate_last_name: El-Khalifa
+  state: sc
+  race: US House of Representatives
+  district: 2
+  party: Democratic
+  question: sc-q2
+  date: 2026-10-28
+  primary_candidate: false
+  response: |
+    The need for scientific literacy will only increase in the future. We must insure our schools receive adequate resources to make sure everyone, beginnning at the earliest levels, has a solid understanding of science. We must renew programs that encouraged all young people, but especially those from underrepresented communities, to consider fields in STEM. These programs were dismantled by the current administration and we need to encourage more, not fewer, students to pursue these fields. They will be the key to new discoveries we can barely imagine today and are the road to a better future for all Americans.
+
+- candidate_first_name: Zyon
+  candidate_last_name: El-Khalifa
+  state: sc
+  race: US House of Representatives
+  district: 2
+  party: Democratic
+  question: sc-q3
+  date: 2026-10-28
+  primary_candidate: false
+  response: |
+    Protecting public health and community wellbeing are exactly the kinds of areas where the government must take a leading role. Individual communities may help, for example, with vaccine access, but what happens when rural communities lack access? We have already seen here in South Carolina, with devastating effects,  what can happen when our herd immunity is diminished. Without government assistance in protecting the public from everything from new diseases to natural disasters, only the wealthiest will have access to the protections they need and average Americans will fall through the cracks.
+
+- candidate_first_name: Zyon
+  candidate_last_name: El-Khalifa
+  state: sc
+  race: US House of Representatives
+  district: 2
+  party: Democratic
+  question: sc-q4
+  date: 2026-10-28
+  primary_candidate: false
+  response: |
+    It should be a given, but in the current environment, I feel obligated to say that I believe in science. Mistrust of sciences is perhaps one of the deadliest consequences of the free flow of misinformation and deliberate disinformation. For example, one discredited study is the foundation of much of the anti-vaccine movement. Elected officials have a responsibility not just to work with scientists to help increase public trust, but they need to encourage the tools needed to identify misinformation online. And we need to work with schools to develop programs to teach students critical thinking skills specifically geared towards critical consumption of online content.
 
 - candidate_first_name: Marina
   candidate_last_name: Franco
@@ -766,6 +862,54 @@
     My guiding philosophy remains that we must do more than provide immediate assistance. We must equip individuals with the knowledge, skills, and opportunities necessary to improve their circumstances and build stronger communities.
 
     Science should inform public policy, public policy should respond to the needs of people, and both should be accountable for the outcomes they produce.
+
+- candidate_first_name: Jason
+  candidate_last_name: Payne
+  state: sc
+  race: State House of Representatives
+  district: 83
+  party: Democratic
+  question: sc-q1
+  date: 2026-10-28
+  primary_candidate: false
+  response: |
+    Data centers are an inescapable facet of our future because of their role in supporting AI applications, advanced manufacturing, critical infrastructure, and more. Our country has to invest in data centers, but we must do so safely and smartly. That includes informing residents and empowering local governments with unbiased information and a state-level policy framework that works to their advantage. I plan to commission state-funded research for public state universities to study the long-term economic and environmental impacts of data centers. This will provide South Carolinians with unbiased information about data center risks, rewards, and policy suggestions.
+
+- candidate_first_name: Jason
+  candidate_last_name: Payne
+  state: sc
+  race: State House of Representatives
+  district: 83
+  party: Democratic
+  question: sc-q2
+  date: 2026-10-28
+  primary_candidate: false
+  response: |
+    Within my district, we have premier R&D and applied science organizations like Savannah River National Laboratory, which is a federally funded R&D center that has a directed mission to engage in community development by promoting STEM in K-12 and higher education instutitions across the state. However, SRNL is not the only organization in South Carolina that can be leveraged to support scientific workforce preparedness. I will travel across the state and build relationships with those organizations that turn into fruitful and enduring partnerships between learning institutions and scientific practitioners. Finally, I supporting broadening the scope of the South Carolina Research Authority to provide more opportunities for researchers and institutions that focused on emerging and cross-cutting technologies.
+
+- candidate_first_name: Jason
+  candidate_last_name: Payne
+  state: sc
+  race: State House of Representatives
+  district: 83
+  party: Democratic
+  question: sc-q3
+  date: 2026-10-28
+  primary_candidate: false
+  response: |
+    Every echelon of government has an inherent degree of responsibility to provide its citizes with (a) access to vaccines and other evidence-based public health and safety measures and (b) complete transparency about potential risks and downstream costs associated with those threats and solutions.
+
+- candidate_first_name: Jason
+  candidate_last_name: Payne
+  state: sc
+  race: State House of Representatives
+  district: 83
+  party: Democratic
+  question: sc-q4
+  date: 2026-10-28
+  primary_candidate: false
+  response: |
+    I am an aspiring academic scholar myself. I have completed two master's degrees, and I anticipate defending my dissertation for my PhD in Data Science before Thanksgiving 2026. I will consistently seek feedback from my constituents on desired solutions that affect our district, but I will always ensure that the final versions of any corresponding bills that I sponsor are evidence based. Moreover, the supporting evidence, risks, and rewards those challenges and initiatives will be transparent. No black boxes.
 
 - candidate_first_name: Lynn
   candidate_last_name: Ramirez
@@ -1310,61 +1454,3 @@
     legitimate scientific disagreements.
     We must also recognize that questioning scientific conclusions is not necessarily rejecting science. Honest questioning, testing, and correcting mistakes are essential parts of the scientific process.
     My guiding principle is simple: Science should be driven by truth, not money or politics. Public trust will return when scientific integrity becomes more important than financial interests, political agendas, or protecting reputations
-
-- candidate_first_name: Eunice
-  candidate_last_name: Lehmacher, LISW-CP
-  state: sc
-  race: US House of Representatives # must match one of the options!
-  district: 3 
-  party: Democratic # must match one of the options!
-  question: sc-q1
-  date: 2026-10-22 # optional
-  county_race: # feel free to remove if not applicable
-  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
-  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
-  response: |
-    The cost of electricity and water are on the rise with nearby data centers straining current resources in combination with increased energy costs to consumers. How will you navigate the economic, public health, and environmental impacts when considering new data centers and data center permissions, in general?
-    I want federal laws that require data centers to generate all their own power with renewable energy and that they pay for the infrastructure needs they have related to energy.  I also would require all data centers to offer some public good to the community/county they are coming to (e.g. they generate some energy for the community, they buy all transmission lines in the county, they raise teacher salaries the public schools, put solar on the roof of all big box stores and warehouses built in the community for the next 10 years, etc.).  I would forbid the building of any data centers that did not have solar on their roof and parking lots and were not generating a certain amount of energy in the community. I would like federal mandate that data centers can only be built that use the low water option for cooling. I want data centers to have decommissioning rules before the build.  
-    See all my ideas related to data centers [here](https://www.euniceforsc.com/data-centers-and-privacy).  
-
-- candidate_first_name: Eunice
-  candidate_last_name: Lehmacher, LISW-CP
-  state: sc
-  race: US House of Representatives # must match one of the options!
-  district: 3 
-  party: Democratic # must match one of the options!
-  question: sc-q2
-  date: 2026-10-22 # optional
-  primary_candidate: false
-  response: |
-    Science needs to be taught in all grades and integrated into all subjects, not just as a stand alone subject (although stand alone science classes are also needed)  Students must also learn how to program, how to make AI prompts, and how to use critical thinking in all areas (including how to judge if information learned through AI or online is accurate).  
-    I support increased funding to public schools for science labs, for teacher training, and for workforce prep classes in high schools.
-
-
-- candidate_first_name: Eunice
-  candidate_last_name: Lehmacher, LISW-CP
-  state: sc
-  race: US House of Representatives # must match one of the options!
-  district: 3 
-  party: Democratic # must match one of the options!
-  question: sc-q3
-  date: 2026-10-22 # optional
-  primary_candidate: false
-  response: |
-    Governments should test for PFAS, asbestos and other chemicals in water, land, and air and the EPA standards should be restored.  
-    I support free access to all vaccines.  I support disease education in all workplaces and schools and support funding that would help large businesses and local governments to hire NPs for employee wellness.  
-    I would increase funding for FEMA and resiliency programs run by the states (e.g. state purchase of land that is flood prone so that people don't build homes and businesses in areas likely to flood).
-
-- candidate_first_name: Eunice
-  candidate_last_name: Lehmacher, LISW-CP
-  state: sc
-  race: US House of Representatives # must match one of the options!
-  district: 3 
-  party: Democratic # must match one of the options!
-  question: sc-q4
-  date: 2026-10-22 # optional
-  primary_candidate: false
-  response: |
-    I would like to have groups of experts to advise the government (and government leaders) on issues related to science including for education, energy generation, AI/Data Centers, Surveillance (e.g. Flock cameras), disease, wellness, etc.  
-    I believe a diverse group of scientists and technology experts should be funded to help create guidelines (curbs) for AI in the coming year.
-
