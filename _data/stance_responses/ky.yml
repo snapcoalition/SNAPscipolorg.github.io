@@ -330,3 +330,254 @@
   race: Mayor
   party: Non-partisan
   did_not_respond: true
+
+- candidate_first_name: Chris
+  candidate_last_name: Waddell
+  state: ky
+  race: State House of Representatives
+  party: Democratic
+  question: ky-q1
+
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  response: |
+    I believe preventative healthcare should be a priority in Kentucky. We cannot expect healthier communities if families cannot afford medical care, nutritious food, or routine screenings.
+
+    I support expanding access to affordable preventative care, strengthening community health departments, and increasing funding for diabetes education, early detection, and nutrition programs. I also support improving access to healthy foods and safe recreational spaces, particularly in rural communities.
+
+    Preventing illness is not only about improving quality of life; it also reduces long-term healthcare costs. My goal is to make it easier and more affordable for Kentucky families to stay healthy rather than waiting until they become sick to receive care.
+
+- candidate_first_name: Chris
+  candidate_last_name: Waddell
+  state: ky
+  race: State House of Representatives
+  party: Democratic
+  question: ky-q2
+  primary_candidate: false
+  response: |
+    Kentuckians deserve clean drinking water, and protecting that basic necessity should never be a partisan issue.
+
+    I support stronger enforcement of existing water quality regulations, increased monitoring of groundwater contamination, and holding corporations financially accountable for pollution caused by their operations. I would also advocate for investments in cleaning up abandoned mine sites, addressing coal ash contamination, and modernizing aging water infrastructure.
+
+    Our communities should not be forced to choose between economic opportunity and environmental safety. We can respect Kentucky’s coal mining heritage while recognizing our responsibility to protect the health of our families and preserve our natural resources for future generations.
+
+- candidate_first_name: Chris
+  candidate_last_name: Waddell
+  state: ky
+  race: State House of Representatives
+  party: Democratic
+  question: ky-q3
+  primary_candidate: false
+  response: |
+    I support responsible economic development and recognize the opportunities that emerging technologies can bring to Kentucky. However, those opportunities should never come at the expense of our communities, natural resources, or taxpayers.
+
+    I support requiring independent environmental impact assessments, transparent reporting of water and energy consumption, and meaningful opportunities for public input before major data center projects are approved. Developers should also be responsible for the infrastructure costs their facilities create, rather than passing those expenses along to Kentucky families through higher utility bills.
+
+    Additionally, I believe any public tax incentives should be tied to measurable benefits, including permanent local jobs and enforceable commitments to our communities.
+
+    Economic development must benefit the people who live here, not simply the corporations investing here.
+
+- candidate_first_name: Chris
+  candidate_last_name: Waddell
+  state: ky
+  race: State House of Representatives
+  party: Democratic
+  question: ky-q4
+  primary_candidate: false
+  response: |
+    I believe protecting public health starts with making healthcare accessible, affordable, and grounded in science.
+
+    I support expanding access to free or low-cost vaccinations through local health departments, schools, pharmacies, and rural healthcare providers. I also believe we must combat medical misinformation through transparent, evidence-based public education and rebuild trust between healthcare professionals and the communities they serve.
+
+    Vaccines have saved countless lives, and preventing infectious diseases protects not only individuals but also our most vulnerable citizens.
+
+    As a legislator, I would support adequate funding for local health departments, strong disease surveillance programs, and policies that ensure cost or geographic location never prevents a Kentuckian from receiving recommended vaccinations.
+    Public health should be guided by medical evidence, transparency, and a commitment to protecting our communities.
+
+- candidate_first_name: Stella
+  candidate_last_name: Pollard
+  state: ky
+  race: State Senate
+  party: Democratic
+  question: ky-q1
+  primary_candidate: false
+  response: |
+    I would support early education and preventive services to help Kentuckians build healthy habits before chronic conditions develop. That includes nutritional education in schools, access to affordable preventive screenings, regular checkups, and education about the risks of these diseases- especially in our more rural towns where healthcare isn't as easy to find.
+
+- candidate_first_name: Stella
+  candidate_last_name: Pollard
+  state: ky
+  race: State Senate
+  party: Democratic
+  question: ky-q2
+  primary_candidate: false
+  response: |
+    Growing up in Eastern Kentucky, I understand that access to clean water cannot be taken for granted. I would support stronger monitoring of groundwater and streams near coal ash sites and abandoned mines, enforcement of existing environmental protections, and holding polluters accountable for contamination and cleanup costs. I would begin by taking a look at SB89 (2025) which changed Kentucky's definition of "Waters of the Commonwealth".
+
+- candidate_first_name: Stella
+  candidate_last_name: Pollard
+  state: ky
+  race: State Senate
+  party: Democratic
+  question: ky-q3
+  primary_candidate: false
+  response: |
+    I understand the technology industry. As a Director of Technology, I oversee technology infrastructure that serves thousands of users. I recognize the value of technology and the jobs it can create, but construction jobs alone are not enough to justify putting a community’s resources at risk - and they're not long-term. Kentucky should welcome responsible partners for economic development but our water, electricity, farmland, and taxpayers should never pay the cost. Especially when it comes to our health.
+
+- candidate_first_name: Stella
+  candidate_last_name: Pollard
+  state: ky
+  race: State Senate
+  party: Democratic
+  question: ky-q4
+  primary_candidate: false
+  response: |
+    I believe vaccine hesitancy is partly a reflection of the loss of trust in our government and public institutions, and that is very sad to me. We need to begin rebuilding that trust with our people.
+
+    Social media makes it easy to receive an overwhelming amount of information at once, and it can be difficult to know what to trust. People deserve accurate information so they can make informed healthcare decisions alongside their medical providers. We should address their concerns honestly, rely on established medical evidence, and work to rebuild public trust rather than dismiss people who have questions.
+
+    At the same time, when pharmaceutical companies charge outlandish prices for medications people depend on to live, we cannot ignore why people may be skeptical of the healthcare system. Affordability and transparency are so important to ensuring Kentucky is healthy.
+
+    I would encourage more community town halls where people feel comfortable expressing their concerns and can hear directly from qualified medical professionals. I would also support community vaccination clinics that make recommended vaccines more accessible to families, seniors, and residents in rural communities. Rebuilding trust takes time, honest communication, and a willingness to listen.
+
+- candidate_first_name: Jay
+  candidate_last_name: Bowman
+  state: ky
+  race: US House of Representative
+  party: Independent
+  question: ky-q1
+  primary_candidate: false
+  response: |
+    Prevention isn’t just smart; it’s essential, especially in a state with some of the country's highest diabetes rates. Public service campaigns and trusted local clinics can go a long way in spreading the word, but they’re even more powerful when paired with policies that make healthy choices easier.
+    For example, we could fund more community health workers who meet people where they are—not just in clinics, but at churches, schools, and farmers' markets—to help with blood sugar checks or nutrition coaching.
+    We could also incentivize grocery stores and mobile markets to open in neighborhoods without fresh food, and make sure insurance covers nutrition counseling the same way it covers prescriptions.
+
+- candidate_first_name: Jay
+  candidate_last_name: Bowman
+  state: ky
+  race: US House of Representative
+  party: Independent
+  question: ky-q2
+  primary_candidate: false
+  response: |
+    Clean water isn’t a luxury; it’s a baseline. And in Kentucky, where coal’s legacy runs deep, fixing water quality means tackling both the pollution and the weakened oversight that lets it linger. Restoring the EPA’s authority to step in when states don’t act is a critical move — because no community should have to wait for permission to get safe water.
+    Beyond that, I’d push for full transparency: make every coal ash site publicly mapped with real-time water testing data, so people can see what’s in their streams. Pair that with dedicated cleanup funding tied to performance, not promises, and support local water monitors — folks who know their watersheds best — to help track progress. It’s not just about enforcement; it’s about trust.
+
+- candidate_first_name: Jay
+  candidate_last_name: Bowman
+  state: ky
+  race: US House of Representative
+  party: Independent
+  question: ky-q3
+  primary_candidate: false
+  response: |
+    Building data centers isn't the question, it's how we build them.
+    1. Community veto power: Decisions about large data centers must stay local. If local citizens and leaders say no, the answer is no.
+    2. Pause and evaluate regulations: Enact a moratorium on new builds. Review how these centers affect local water use and electric bills.
+    3. Public hearings: Hold open meetings so the public knows what is happening.
+    4. Fair share on taxes: Stop giving massive tax breaks to multi-billion-dollar companies.
+    5. Pay for upkeep: Require data centers to pay for the roads, water, and power lines they use.
+    6. Smart green technology: Require solar power, battery storage, and closed-loop cooling systems
+    7. Grid support: Use smart AI controls so data centers help power the grid instead of draining it.
+    8. Decommissioning bond: Require a financial guarantee that ensures the site will be responsibly taken apart and cleaned up when it’s no longer in use. This protects the community and local government from being stuck with the cost if the company walks away.
+    9. We need a national plan: Congress must step in with clear rules, and a unified approach: connect local, state, and federal policies to protect every neighborhood.
+
+- candidate_first_name: Jay
+  candidate_last_name: Bowman
+  state: ky
+  race: US House of Representative
+  party: Independent
+  question: ky-q4
+  primary_candidate: false
+  response: |
+    Education and access go hand in hand. Right now, with only 43.8% of adults in Kentucky getting the flu shot, we’re leaving too many people exposed. Free, no-barrier clinics are a start — like offering vaccines at food banks, transit hubs, or community centers — but we can’t just wait for people to show up. We need trusted voices, like local pharmacists, faith leaders, or school nurses, to help explain how the shot works and why it’s safe, in plain language.
+    We could also make it easier to act by sending text reminders with a one-tap option to schedule a shot nearby — not a pushy ad, but a simple “Your spot’s ready” from a source people already trust.
+
+- candidate_first_name: Joshua
+  candidate_last_name: Baker
+  state: ky
+  race: State Senate
+  party: Democratic
+  question: ky-q1
+  primary_candidate: false
+  response: |
+    I believe the State has a responsibility to fund local healthcare. I believe basic primary care, without the fear of debt, should be available for all citizens.
+    However, because I am not a healthcare or community health expert - once in office I will use the resources of the LRC to identify professionals and evidence-based policies to throw my support behind.
+    Improving Kentuckians' health and access to care is a core promise of my campaign. And I look forward to working with experts to develop policies that'll benefit the whole state.
+
+- candidate_first_name: Joshua
+  candidate_last_name: Baker
+  state: ky
+  race: State Senate
+  party: Democratic
+  question: ky-q2
+  primary_candidate: false
+  response: |
+    Our waters, land, and air all need to be protected. Water is a vital resource for life, and decades of research shows what damage has already been done to our water systems.
+    I will actively support legislation that protects our waters and/or remediates the existing damage.
+    I am proudly endorsed by the Kentucky Sierra Club and promise to do everything I can to help conserve our beautiful home.
+
+- candidate_first_name: Joshua
+  candidate_last_name: Baker
+  state: ky
+  race: State Senate
+  party: Democratic
+  question: ky-q3
+  primary_candidate: false
+  response: |
+    I've stated my opposition to reckless Data Center development many times during the campaign.
+    Data Centers, or any industrial development, must not harm or exploit the local communities.
+    Kentucky has had a long history showing us what happens when industries are allowed to develop and operate without community oversight.
+    I will always oppose exploitative economic development while in Frankfort.
+
+- candidate_first_name: Joshua
+  candidate_last_name: Baker
+  state: ky
+  race: State Senate
+  party: Democratic
+  question: ky-q4
+  primary_candidate: false
+  response: |
+    We have centuries of research showing us inoculation against infectious diseases is the most effective way of preventing the spread of these diseases.
+    While I do not believe the State should have the power to compel personal medical choices - I do believe it is the State's responsibility to spread public health awareness and to make these vaccinations readily available, at no cost to the individual.
+
+- candidate_first_name: John
+  candidate_last_name: Whipple
+  state: ky
+  race: State House of Representatives
+  party: Democratic
+  question: ky-q1
+  primary_candidate: false
+  response: |
+    Education is an important tool to fighting obesity. We should task our public schools to instill an awareness of how to prevent obesity and lower the risk of Type II diabetes. 1) We need to do a better job teaching healthy diet habits to our public school students. 2) Our phys ed/health classes must include programs to help students maintain healthy weight. 3) We need to make sure that parents/families are aware of proper diet and nutrition.
+
+- candidate_first_name: John
+  candidate_last_name: Whipple
+  state: ky
+  race: State House of Representatives
+  party: Democratic
+  question: ky-q2
+  primary_candidate: false
+  response: |
+    1-Remove the restriction that SB89 (2025) imposes, which limits state safeguards to "navigable" waters. Anyone with an ounce of common sense knows that Kentucky has many water ways, such as Sinking Creek in Breckinridge County) which flow underground and are therefor not navigbale, but which must still be protected.
+    2-Expand the Kentucky Agriculture Water Quality Act to include ALL landowners with more than 10 contiguous acres to development and implement a water quality plan to protect surface and groundwater.
+
+- candidate_first_name: John
+  candidate_last_name: Whipple
+  state: ky
+  race: State House of Representatives
+  party: Democratic
+  question: ky-q3
+  primary_candidate: false
+  response: |
+    Many Kentucky counties, such as Breckinridge, do not have the zoning and planning laws necessary to guide or enforce policy to protect the county from predatory corporations with deep pockets. First thing we must do is establish a law that no AI data centers may be built in counties without zoning and planning. This law would include provisions to help these counties establish zoning and planning if they wish.
+
+- candidate_first_name: John
+  candidate_last_name: Whipple
+  state: ky
+  race: State House of Representatives
+  party: Democratic
+  question: ky-q4
+  primary_candidate: false
+  response: |
+    We need to learn why these people have not gotten a flu shot and remove the barriers to them receiving vaccination. I believe that health care is a right and that vaccinations ought to be provided as part of an expanded Medicaid for All program. This may also mean that we will need to increase the number of facilities for people to receive shots. Have county health care services go into schools, places of employment, libraries, churches, whatever is necessary to increase vaccinations and reduce the threat of the spread of infectious disease.
+
