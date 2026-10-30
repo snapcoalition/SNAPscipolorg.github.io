@@ -1198,3 +1198,75 @@
     Something I want to avoid at all costs is making decisions or policies based on fear or fear-mongering claims. Personally and professionally, I endeavor to take action based on a preponderance of evidence. As a paramedic, this means being open to new information, treatment best practices, and remaining curious.
 
     KEYWORDS: best practice, policy, expertise
+
+- candidate_first_name: Ken
+  candidate_last_name: McCarty
+  state: ak
+  race: State House of Representatives # must match one of the options!
+  district: 24
+  party: Republican # must match one of the options!
+  question: ak-q1
+  date: 2026-10-26 # optional
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  response: |
+    AI is Historical Knowledge attainable for the present.
+    
+    The ability to attain past and present knowledge is the essence of libraries. AI is todays libraries. The controversy is not in the development of a new library but one that has significant demand upon community resources, costs, and environmental impact.
+
+- candidate_first_name: Ken
+  candidate_last_name: McCarty
+  state: ak
+  race: State House of Representatives # must match one of the options!
+  district: 24
+  party: Republican # must match one of the options!
+  question: ak-q2
+  date: 2026-10-26 # optional
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  response: |
+    Alaska's coastal resources are immense but not unlimited. Alaskans understand that there must be respect and balance with its coastal resources or we will not have such resources. The Russian fur traders devastated the otter population. King Crab population was once plentiful that it was not uncommon to get a King Crab from the dock. Salmon and other fisheries are in question as to depleted numbers. The entitlement of "I want" must be kept in balance with "sustainability."
+
+    KEYWORDS: UNDERSTANDING, CO-EXISTING, AND STEWARDSHIP
+
+- candidate_first_name: Ken
+  candidate_last_name: McCarty
+  state: ak
+  race: State House of Representatives # must match one of the options!
+  district: 24
+  party: Republican # must match one of the options!
+  question: ak-q3
+  date: 2026-10-26 # optional
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  response: |
+    The premise that Alaska has one of the highest energy consumption is based on per capita. The 700,000 residents of Alaska cannot match the energy demand of cities in the lower 48. In addition, the size of Alaska is often beyond comprehension of the lower 48, as its span would reach from the Atlantic to the Pacific shore with environmental zones equal or greater than the lower 48. This understood, attainment of energy cannot be overgeneralized to fit "renewable energy molds." Energy production should fit several matrix "molds" that support environment friendliness, pollutant control, and affordability for residents. Policy programs that exclusively support "green energy" yet exclude other pollutant mindful energy producers is hypocritical of alternative resource development and attainable energy
+
+    KEYWORDS: DIVERSITY, INGENUITY, AND MATRIX
+
+- candidate_first_name: Ken
+  candidate_last_name: McCarty
+  state: ak
+  race: State House of Representatives # must match one of the options!
+  district: 24
+  party: Republican # must match one of the options!
+  question: ak-q4
+  date: 2026-10-26 # optional
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  response: |
+    Historical understanding of humanity and world trade is that those countries who have port capability do far better than those which are "land locked." Alaska has more shoreline than all of the lower 48. It's port capabilities are limited by accessibility. The accessibility has only been limited by the lack of innovative and industrious Alaskans. Resources can only be moved through effective infrastructure. Partnership between business and government which each side has "skin in the game" and urgency to achieve must be the heartbeat of Alaska infrastructure development. The Alaska Canadian Highway and Trans-Alaska pipeline demonstrates industrious innovation partnered by government and business, which great things were accomplished in a short time that has lasting impact for generations.
+
+    KEYWORDS: INVEST, PARTNER, AND DEVELOP
+
+- candidate_first_name: Ken
+  candidate_last_name: McCarty
+  state: ak
+  race: State House of Representatives # must match one of the options!
+  district: 24
+  party: Republican # must match one of the options!
+  question: ak-q6
+  date: 2026-10-26 # optional
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  response: |
+    Scientists who apply the scientific methods in totality are honorable and trustworthy. Those who proclaim pre-determined ideology through the disguise of science are to be challenged, defunded, and shamed for making a mockery of true science-minded people seeking truth.
+
+    Decades ago I was on a flight which the person I was sitting beside was traveling around the U.S. getting signatures and commitment by presidents and chancellors of major universities to promote "hands on science" in the classroom. The concern was that we are loosing U.S. scientists because our educational system is make the learning process stagnant and only conceptual via text books rather "alive and experiential" through hands on learning. I advocate for making science come alive, remove those stagnant learning barriers, partner with our scientific business and industry and promote new scientists and the next level of "what if."
+
+    KEYWORDS: INTEGRITY, OBJECTIVITY, AND CRITICISM
