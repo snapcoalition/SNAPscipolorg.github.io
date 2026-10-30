@@ -6,6 +6,7 @@ permalink: /resources/
 ---
 
 # External Resources
+{: .h2 }
 
 Aligned with our mission, SNAP is dedicated to sharing resources to learn and engage with science policy. We have compiled a non-exhaustive list of resources from *wonderful* organizations and groups we admire, pertaining to general Science Policy, fellowships and careers, and information for starting a group on university campuses.
 

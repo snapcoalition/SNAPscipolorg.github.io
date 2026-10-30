@@ -63,6 +63,66 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
   scroll-margin-top: 84px;
 }
 
+.stance-map-tooltip {
+  --bs-tooltip-bg: #{$snap-blue};
+  --bs-tooltip-font-size: 0.75rem;
+
+  // Explicit properties also override the site's legacy Bootstrap tooltip rules.
+  font-size: var(--bs-tooltip-font-size);
+
+  .tooltip-inner {
+    background-color: var(--bs-tooltip-bg);
+  }
+}
+
+.stance-state-browser {
+  .nav-tabs {
+    --bs-nav-link-color: #{$snap-blue};
+    --bs-nav-link-hover-color: #{$snap-blue};
+    --bs-nav-tabs-link-active-color: #{$snap-blue};
+
+    .nav-link {
+      color: $snap-blue;
+    }
+  }
+
+  .stance-state-search {
+    width: 20rem;
+    max-width: 70%;
+  }
+
+  .table-responsive {
+    max-height: 33rem;
+    overflow: auto;
+  }
+
+  th, td {
+    padding: 0.875rem 0.75rem;
+  }
+
+  thead th {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background: #F4F6FA;
+    color: $snap-blue;
+    font-size: 0.875rem;
+  }
+
+  .stance-state-sort {
+    color: inherit;
+    font: inherit;
+    font-weight: 600;
+    background: transparent;
+    border: 0;
+    padding: 0;
+    margin: 0;
+
+    &:disabled { opacity: 1; }
+    &:focus-visible { outline: 2px solid $snap-blue; outline-offset: 3px; }
+  }
+}
+
 .stance-map {
   margin: 1rem 0 0.5rem;
   min-height: 200px;
@@ -78,6 +138,7 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
     stroke: #000000;
     stroke-width: 0.5;
     cursor: default;
+    @include transition(fill 0.15s ease-in-out);
 
     &--active {
       fill: $snap-orange;
@@ -224,7 +285,6 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
 
 .stance-state-disclaimer {
   background: $stance-gray-bg;
-  border-left: 4px solid $snap-blue;
   padding: 1rem 1.25rem;
   border-radius: 4px;
 }
@@ -302,6 +362,7 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
     cursor: pointer;
     min-width: 8rem;
     max-width: 230px;
+    @include transition(border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out);
 
     &:hover { border-color: $snap-light-blue; }
 
@@ -333,6 +394,7 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
     cursor: pointer;
 
     &:hover { background: $snap-navy-tint; border-color: $snap-light-blue; }
+    @include transition(background-color 0.15s ease-in-out, border-color 0.15s ease-in-out);
   }
 }
 
@@ -605,7 +667,7 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
     background: #fff;
     color: $snap-blue;
     cursor: pointer;
-    transition: background 0.12s ease, border-color 0.12s ease, color 0.12s ease;
+    @include transition(background 0.12s ease, border-color 0.12s ease, color 0.12s ease);
 
     &:hover { background: $stance-gray-bg; }
 
@@ -651,7 +713,7 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
   background: #fff;
   cursor: pointer;
   font: inherit;
-  transition: background 0.12s ease, border-color 0.12s ease, box-shadow 0.12s ease;
+  @include transition(background 0.12s ease, border-color 0.12s ease, box-shadow 0.12s ease);
 
   &:hover { background: $stance-gray-bg; }
 
@@ -804,7 +866,7 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
       font: var(--fa-font-solid);
       margin-left: auto;
       color: $snap-light-blue;
-      transition: transform 0.18s;
+      @include transition(transform 0.18s);
     }
   }
 
@@ -960,6 +1022,8 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
     text-decoration: none;
     box-shadow: $stance-shadow;
 
+    @include transition(background-color 0.15s ease-in-out, color 0.15s ease-in-out);
+
     &:hover,
     &:focus { background: $snap-navy-dark; color: #fff; text-decoration: none; }
   }
@@ -993,7 +1057,7 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
 
       &::-webkit-details-marker { display: none; }
 
-      .chev { margin-left: auto; transition: transform 0.18s; color: $snap-light-blue; }
+      .chev { margin-left: auto; @include transition(transform 0.18s); color: $snap-light-blue; }
 
       .ic {
         width: 30px;
@@ -1057,7 +1121,6 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
   .disclaimer {
     background: $stance-gray-bg;
     border: 1px solid $stance-gray-border;
-    border-left: 5px solid $snap-blue;
     border-radius: 8px;
     padding: 16px 20px;
     margin: 18px 0;
@@ -1070,7 +1133,6 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
   .ballot-lookup-callout {
     background: $snap-cream;
     border: 1px solid $snap-orange-dark;
-    border-left: 5px solid $snap-orange;
     border-radius: 8px;
     padding: 16px 20px;
     margin: 18px 0;
@@ -1299,13 +1361,11 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
     padding: 8px 9px;
     cursor: pointer;
     color: $stance-ink;
-    border-left: 3px solid transparent;
 
     &:hover { background: $stance-gray-bg; }
 
     &.is-active {
       background: $snap-navy-tint;
-      border-left-color: $snap-blue;
 
       .rail-item__name { color: $snap-navy-dark; }
     }
@@ -1636,7 +1696,7 @@ $stance-focus-ring: 0 0 0 3px rgba($snap-blue, 0.14);
     cursor: pointer;
     line-height: 1;
     border-radius: 50%;
-    transition: background 0.15s ease;
+    @include transition(background 0.15s ease);
 
     &:hover,
     &:focus-visible { background: rgba(255, 255, 255, 0.28); }

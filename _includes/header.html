@@ -18,9 +18,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 {% for page in site.nav_pages %}
                 <a class="nav-item nav-link" href="{{ site.url }}{{ site.baseurl }}/{{page.name}}">{{page.name | capitalize }}</a>
             {% endfor %}
-            <a class="ms-auto" href="{{ site.url }}{{ site.baseurl }}/join/"><button class="btn btn-danger navbar-btn">Get Involved!</button></a>
+            <a class="btn btn-danger navbar-btn ms-auto" href="{{ site.url }}{{ site.baseurl }}/join/">Get Involved!</a>
             </div>
         </div>
     </div>
 </nav>
-

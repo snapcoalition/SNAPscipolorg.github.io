@@ -108,6 +108,7 @@
   }
 
   &__module-link {
+    @include transition(background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, color 0.15s ease-in-out);
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -207,6 +208,7 @@
   }
 
   &__copy-button {
+    @include transition(background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, color 0.15s ease-in-out);
     display: flex;
     gap: 0.45rem;
     align-items: center;

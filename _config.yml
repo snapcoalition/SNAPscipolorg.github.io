@@ -84,8 +84,9 @@ initiatives_category:
 
 # Sass
 sass:
+  # Keep vendored Bootstrap's legacy Sass deprecations quiet until it is migrated.
   silence_deprecations:
-    - mixed-decls
+    - if-function
     - import
     - global-builtin
     - color-functions

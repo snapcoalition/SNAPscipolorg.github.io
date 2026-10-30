@@ -108,9 +108,91 @@ img {
 }
 
 blockquote {
-  border-left: 4px solid var(--secondary);
+  border-left: 0;
   padding-left: 1rem;
   margin-left: 0;
+}
+
+
+.member-organizations {
+  &__entry {
+    padding: 12px 0;
+  }
+
+  // A shared footprint keeps differently shaped logos aligned without cropping.
+  &__logo {
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+  }
+
+  &__details {
+    min-width: 0;
+  }
+
+  &__links {
+    font-size: 22px;
+  }
+}
+
+
+.team-members {
+  // Equal fractional rows give every complete card the tallest card's height.
+  grid-template-columns: minmax(0, 1fr);
+  grid-auto-rows: 1fr;
+
+  @include media-breakpoint-up(md) {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  &__entry {
+    padding: 12px 0;
+    overflow-wrap: anywhere;
+  }
+
+  // A consistent frame aligns portraits with different source proportions.
+  &__portrait {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    object-position: center top;
+  }
+
+  &__links {
+    font-size: 22px;
+  }
+}
+
+.team-members__toggle {
+  font-size: inherit;
+
+  &::after {
+    content: "";
+    display: inline-block;
+    width: 0.45em;
+    height: 0.45em;
+    margin-left: 0.5em;
+    vertical-align: 0.15em;
+    border-right: 1.5px solid currentColor;
+    border-bottom: 1.5px solid currentColor;
+    transform: rotate(45deg);
+  }
+
+  // Follow the existing accessible state so the arrow and bio stay in sync.
+  &[aria-expanded="true"]::after {
+    vertical-align: -0.05em;
+    transform: rotate(225deg);
+  }
+}
+
+.home-announcement {
+  color: $snap-blue;
+  background-color: mix(white, $snap-light-blue, 80%);
+  border-color: rgba($snap-blue, 0.2);
+
+  a {
+    color: $snap-blue;
+  }
 }
 
 // Home page statement box (_includes/home_statement.html). The graphics reuse

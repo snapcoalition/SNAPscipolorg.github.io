@@ -14,10 +14,9 @@
   gap: 1.25rem;
   align-items: flex-start;
   border: 1px solid #ddd;
-  border-left: 5px solid $snap-orange;
   border-radius: 6px;
   padding: 1rem 1.25rem;
-  background: #fff;
+  background: #F4F6FA;
 
   &[hidden] { display: none; }
 
@@ -140,21 +139,25 @@
   align-items: center;
   gap: 0.4em;
   margin-left: auto;
-  padding: 0;
+  padding: 0.25rem 0.5rem;
   border: 0;
+  border-radius: 0.25rem;
   background: none;
   color: $snap-blue;
   font-family: inherit;
   font-size: 0.875rem;
   cursor: pointer;
 
-  &:hover { text-decoration: underline; }
+  @include transition(background-color 0.15s ease-in-out);
+
+  &:hover,
+  &:focus-visible { background-color: rgba($snap-blue, 0.08); }
   &:focus-visible { outline: 2px solid $snap-blue; outline-offset: 2px; }
 }
 
 .snap-event__toggle-icon {
   display: inline-block;
-  transition: transform 0.15s ease;
+  @include transition(transform 0.15s ease);
 }
 
 .snap-event__toggle[aria-expanded="true"] .snap-event__toggle-icon {
@@ -201,7 +204,7 @@
   line-height: 1;
   font-size: 28px;
   border-radius: 50%;
-  transition: background 0.15s ease;
+  @include transition(background 0.15s ease);
 
   &:hover,
   &:focus-visible { background: rgba(255, 255, 255, 0.28); }
@@ -217,5 +220,28 @@
       max-width: 100%;
       align-self: center;
     }
+  }
+}
+
+
+.snap-events--accordion {
+  --bs-accordion-bg: #F4F6FA;
+  --bs-accordion-btn-bg: #F4F6FA;
+  --bs-accordion-btn-color: #{$snap-blue};
+  --bs-accordion-active-color: #{$snap-blue};
+  --bs-accordion-active-bg: #{rgba($snap-blue, 0.05)};
+
+  .accordion-button {
+    margin: 0;
+  }
+
+  .snap-event__accordion-title {
+    flex: 1 1 16rem;
+  }
+
+  // Separate event cards retain a complete outline even after the first item.
+  .accordion-item {
+    border: 1px solid #ddd;
+    overflow: hidden;
   }
 }

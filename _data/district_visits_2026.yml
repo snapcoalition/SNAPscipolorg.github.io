@@ -1,0 +1,130 @@
+# Aggregate outcomes checked against SNAP Visits 2026 Recap on 2026-10-26.
+# Wisconsin replaces Oklahoma in the earlier reference image.
+visits: 65
+trained: 115
+in_person: 22
+# Alabama's corrected visit was to a Senate office, reducing the House count.
+house: 45
+states:
+  al: Alabama
+  az: Arizona
+  ca: California
+  de: Delaware
+  fl: Florida
+  ga: Georgia
+  il: Illinois
+  in: Indiana
+  ky: Kentucky
+  ma: Massachusetts
+  md: Maryland
+  mi: Michigan
+  mn: Minnesota
+  mo: Missouri
+  nc: North Carolina
+  ne: Nebraska
+  nj: New Jersey
+  nm: New Mexico
+  ny: New York
+  or: Oregon
+  pa: Pennsylvania
+  sc: South Carolina
+  tn: Tennessee
+  tx: Texas
+  wa: Washington
+  wi: Wisconsin
+
+# Offices from the recap, matched to the tracking sheet, post-visit responses,
+# and official House websites to identify district-only entries.
+offices:
+  al:
+    # User- and form-confirmed correction is also reflected in the recap.
+    - "Sen. Tommy Tuberville’s office"
+  az:
+    - "Rep. Greg Stanton’s office — AZ-4"
+  ca:
+    - "Sen. Alex Padilla’s office"
+    - "Sen. Adam Schiff’s office"
+    - "Rep. Lateefah Simon’s office — CA-12"
+    - "Rep. Ted Lieu’s office — CA-36"
+    - "Rep. Sydney Kamlager-Dove’s office — CA-37"
+    - "Rep. Mark Takano’s office — CA-39"
+    - "Rep. Young Kim’s office — CA-40"
+  de:
+    - "Sen. Chris Coons’s office"
+    - "Sen. Lisa Blunt Rochester’s office"
+  fl:
+    - "Sen. Ashley Moody’s office"
+    - "Rep. Brian Mast’s office — FL-21"
+    - "Rep. Mario Diaz-Balart’s office — FL-26"
+    - "Rep. Maria Elvira Salazar’s office — FL-27"
+  ga:
+    - "Rep. Mike Collins’s office — GA-10"
+  il:
+    - "Sen. Tammy Duckworth’s office"
+  in:
+    - "Sen. Jim Banks’s office"
+    - "Rep. Jim Baird’s office — IN-4"
+  ky:
+    - "Sen. Rand Paul’s office"
+    - "Rep. Andy Barr’s office — KY-6"
+  ma:
+    - "Sen. Ed Markey’s office"
+  md:
+    - "Rep. Sarah Elfreth’s office — MD-3"
+    - "Rep. Kweisi Mfume’s office — MD-7"
+  mi:
+    - "Sen. Elissa Slotkin’s office"
+    - "Sen. Gary Peters’s office"
+    - "Rep. Hillary Scholten’s office — MI-3"
+    - "Rep. Tom Barrett’s office — MI-7"
+    - "Rep. Haley Stevens’s office — MI-11"
+  mn:
+    - "Rep. Ilhan Omar’s office — MN-5"
+  mo:
+    - "Sen. Eric Schmitt’s office"
+  nc:
+    - "Sen. Ted Budd’s office"
+    - "Rep. Deborah Ross’s office — NC-2"
+    - "Rep. Valerie Foushee’s office — NC-4"
+    - "Rep. Richard Hudson’s office — NC-9"
+  ne:
+    - "Sen. Deb Fischer’s office"
+    - "Sen. Pete Ricketts’s office"
+    - "Rep. Don Bacon’s office — NE-2"
+    - "Rep. Adrian Smith’s office — NE-3"
+  nj:
+    - "Sen. Andy Kim’s office"
+  nm:
+    - "Rep. Melanie Stansbury’s office — NM-1"
+  ny:
+    - "Rep. Jerrold Nadler’s office — NY-12"
+    - "Rep. Josh Riley’s office — NY-19"
+  or:
+    - "Sen. Jeff Merkley’s office"
+    - "Sen. Ron Wyden’s office"
+    - "Rep. Suzanne Bonamici’s office — OR-1"
+    - "Rep. Maxine Dexter’s office — OR-3"
+    - "Rep. Val Hoyle’s office — OR-4"
+    - "Rep. Janelle Bynum’s office — OR-5"
+    - "Rep. Andrea Salinas’s office — OR-6"
+  pa:
+    - "Rep. Mary Gay Scanlon’s office — PA-5"
+    - "Rep. Summer Lee’s office — PA-12"
+    - "Rep. Glenn “GT” Thompson’s office — PA-15"
+    - "Rep. Mike Kelly’s office — PA-16"
+    - "Rep. Brendan Boyle’s office — PA-2"
+  sc:
+    - "Rep. William Timmons’s office — SC-4"
+  tn:
+    - "Rep. Matt Van Epps’s office — TN-7"
+  tx:
+    - "Rep. Beth Van Duyne’s office — TX-24"
+    - "Rep. Julie Johnson’s office — TX-32"
+    - "Rep. Lloyd Doggett’s office — TX-37"
+    - "Rep. Pat Fallon’s office — TX-4"
+  wa:
+    - "Sen. Maria Cantwell’s office"
+    - "Rep. Pramila Jayapal’s office — WA-7"
+  wi:
+    - "Rep. Gwen Moore’s office — WI-4"
+    - "Rep. Tom Tiffany’s office — WI-7"
