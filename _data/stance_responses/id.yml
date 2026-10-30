@@ -57,3 +57,63 @@
   primary_candidate: false
   response: |
     "St. Luke's is the largest employer in Idaho and has a damn near monopoly on health care, they need to be investigated for anti-trust and we need more competition. Moreover, I would ban private equity from participating in the Health care sector in Idaho. They have been found purposely closing down hospitals to create scarcity and charge more. If you watch the documentary, "Smartest guys in the room", about Enron. There is a extra clip, where a state official proves Enron is creating market distortions on purpose and that the state of California had the power to turn the power back on, but the Governor chickened out. If there is a crisis or lack of coverage, I would allow an exemption for Vet Hospitals and Clinics to treat humans too.  Most of the drugs the vet uses are the same damn drugs we use (I have been to their factories as part of my packaging work), so this could be a stop gap measure to create more competition in the market place. My Uncle Mark Bloomberg, was the 1991 Florida State Vet of the year and he was also a tenured full professor of Vet Medicine at the University of Florida. He suggested this concept to me, and it is sad how little respect we have for Vets, they have to know so many systems and animals, so they are better than most general practice doctors."
+
+- candidate_first_name: Nancy
+  candidate_last_name: Parker
+  state: id
+  race: State Senate
+  district: 10
+  party: Democratic
+  question: id-q1
+  date: 2026-10-28
+  primary_candidate: false
+  response: |
+    "We must recognise [sic] that the long-term trend in the West is drier and hotter. Water-saving must be built into every new home and retrofitted into old ones. Covering irrigation canals can help reduce evaporation loss. No new data centers should be built. Encourage water-wise landscaping (which may mean telling HOAs they can't dictate what is planted) and farming practices."
+
+- candidate_first_name: Nancy
+  candidate_last_name: Parker
+  state: id
+  race: State Senate
+  district: 10
+  party: Democratic
+  question: id-q2
+  date: 2026-10-28
+  primary_candidate: false
+  response: |
+    "Frankly, there aren't any benefits to communities in data centers. They create very few jobs, don't pay taxes, and lower property values around them. This bubble will burst sooner rather than later, and we will be left with junk. We should not be offering any incentives whatsoever. And power should be required to be renewables, not polluting gas-fired generators."
+
+- candidate_first_name: Nancy
+  candidate_last_name: Parker
+  state: id
+  race: State Senate
+  district: 10
+  party: Democratic
+  question: id-q3
+  date: 2026-10-28
+  primary_candidate: false
+  response: |
+    "Science must be the primary driver, not profitability. That might mean a more diverse tree planting, different grazing plans, or more prescribed burns, I do not know. I suggest consulting Indigenous experts too, they have managed well in other states."
+
+- candidate_first_name: Nancy
+  candidate_last_name: Parker
+  state: id
+  race: State Senate
+  district: 10
+  party: Democratic
+  question: id-q4
+  date: 2026-10-28
+  primary_candidate: false
+  response: |
+    "Vaccines need to be required in public schools and public health jobs. This is one of those "your freedom to swing your fist ends where my nose begins" situations. Public health is a team effort. Your child cannot be allowed to infect other children with serious diseases. And no health professional can be allowed to put their patients at risk. Being vaccinated is part of the job."
+
+- candidate_first_name: Nancy
+  candidate_last_name: Parker
+  state: id
+  race: State Senate
+  district: 10
+  party: Democratic
+  question: id-q5
+  date: 2026-10-28
+  primary_candidate: false
+  response: |
+    "Medicaid is the biggest supporter of rural hospitals, we must keep it funded. Some small hospitals may even need grants, or help applying for them. There is a shortage of doctors of all specialties and of nurses and technicians. We should be supporting in-state medical education at all levels. Doctors are reluctant to move to Idaho because of our anti-science, anti-health attitudes. Laws can be changed but it will take a lot more work to change attitudes."
