@@ -522,3 +522,120 @@
 
     Keywords: local control, higher costs, big tech
 
+- candidate_first_name: Tyler 
+  candidate_last_name: Davis
+  state: fl
+  race: US House of Representatives
+  district: 1
+  party: Independent
+  question: fl-q1
+  date: 2026-10-29 # optional
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    I believe Florida's approach to disaster resilience must prioritize preparation and prevention rather than relying so heavily on disaster recovery. Hurricane season comes every year, and our communities should not have to wait until a storm approaches to receive the resources and support necessary to protect themselves.
+    I support greater federal investment in stormwater drainage, flood mitigation, coastal restoration, infrastructure improvements, and programs that help homeowners strengthen their properties against natural disasters. Federal, state, and local governments should coordinate year-round to identify vulnerabilities and address them before disasters occur.
+    Homeowners' insurance affordability must also be a priority. Families should not be priced out of their homes by rising premiums. I support greater transparency in insurance pricing, accountability for insurers, and ensuring that investments in disaster prevention translate into meaningful savings for policyholders.
+    We must also recognize that protecting our environment protects our economy. Investing in natural barriers, resilient infrastructure, and proactive preparedness can reduce property damage, displacement, and long-term recovery costs.
+    Our success should be measured not only by how quickly we rebuild after disasters, but by how much damage and financial hardship we prevent in the first place.
+
+    Keywords: Florida Homeowners Insurance, Hurricane Preparedness, Disaster Resilience, Insurance Affordability
+
+- candidate_first_name: Tyler 
+  candidate_last_name: Davis
+  state: fl
+  race: US House of Representatives
+  district: 1
+  party: Independent
+  question: fl-q2
+  date: 2026-10-29 # optional
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    Yes. I believe renewable energy infrastructure and clean energy industries should play an important role in Florida's economic future. With our abundant sunshine, coastal resources, and growing population, Florida has opportunities to expand energy production, strengthen infrastructure, and create sustainable employment.
+    I support federal investments in renewable energy research, infrastructure, and workforce development, particularly through partnerships with community colleges, technical schools, apprenticeship programs, and local businesses. These partnerships should provide accessible, affordable training that prepares Floridians for careers in solar installation, electrical systems, energy storage, manufacturing, and infrastructure maintenance.
+    I also believe we should prioritize opportunities for local workers and small businesses to participate in these growing industries, ensuring that economic development benefits the communities where investments are made.
+    Expanding renewable energy should complement our existing energy infrastructure while improving reliability, affordability, and environmental sustainability.
+    My priority is creating an economy where technological advancement translates into meaningful employment, competitive wages, and long-term opportunities for Florida families. Clean energy should not simply be about producing power differently, but about building a stronger, more resilient workforce and economy for future generations.
+
+    Keywords: Florida Renewable Energy, Clean Energy Jobs, Workforce Development, Sustainable Economic Development
+
+- candidate_first_name: Tyler 
+  candidate_last_name: Davis
+  state: fl
+  race: US House of Representatives
+  district: 1
+  party: Independent
+  question: fl-q3
+  date: 2026-10-29 # optional
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    I believe effective public policy requires a willingness to learn, question assumptions, and make decisions based on credible evidence rather than personal beliefs alone.
+    When evaluating scientific issues, I prioritize research from reputable institutions, peer-reviewed studies, government data, and input from qualified professionals. I also believe it's important to consider multiple perspectives, examine the limitations of available research, and understand how scientific findings translate into real-world outcomes for the communities affected.
+    Scientific evidence should inform policy decisions, but those decisions must also account for affordability, accessibility, and the practical needs of everyday people. I believe public officials have a responsibility to explain not only what they support, but why the evidence supports their decisions.
+    One example is my approach to hurricane preparedness. Rather than focusing primarily on disaster response, I've emphasized preventive investments in infrastructure, flood mitigation, and community preparedness. Research on disaster risks and the benefits of mitigation reinforces the importance of preparing communities before emergencies occur.
+    I don't believe leadership means having every answer. It means being willing to seek reliable information, acknowledge uncertainty, and make informed decisions that serve the public.
+
+    Keywords: Evidence-Based Policymaking, Scientific Research, Government Transparency, Informed Decision-Making
+
+
+- candidate_first_name: Tyler 
+  candidate_last_name: Davis
+  state: fl
+  race: US House of Representatives
+  district: 1
+  party: Independent
+  question: fl-q4
+  date: 2026-10-29 # optional
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    I believe every student deserves access to quality STEM education, regardless of where they live, their family's income, or the resources available within their school district. Opportunities in science, technology, engineering, and mathematics should not be limited to students attending specialized magnet schools or living in more populated communities.
+    I support expanding federal funding for STEM programs in underserved and rural schools, including investments in modern technology, laboratory equipment, qualified educators, and accessible learning materials. I also support partnerships between public schools, community colleges, universities, and local businesses to provide hands-on learning, mentorship, internships, and apprenticeship opportunities.
+    We should also encourage early exposure to STEM subjects through elementary and middle school programs, allowing students to discover their interests before entering high school.I believe educational investments should prioritize schools with the greatest resource gaps while maintaining opportunities for all students to participate. Federal funding should support local innovation without unnecessarily restricting how communities develop programs that meet their students' needs.
+    Our goal should be to prepare students not only for academic success, but for meaningful careers in an increasingly technology-driven economy.
+
+    Keywords: STEM Education, Educational Equity, Rural School Funding, Workforce Development
+
+
+- candidate_first_name: Tyler 
+  candidate_last_name: Davis
+  state: fl
+  race: US House of Representatives
+  district: 1
+  party: Independent
+  question: fl-q5
+  date: 2026-10-29 # optional
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    I believe preventing cancer should be a public health priority, and our approach should focus on education, accessibility, and early intervention rather than waiting until individuals require extensive medical treatment.
+    I support expanding access to affordable cancer screenings, tobacco cessation programs, HPV vaccinations, and public education about preventable cancer risks. These services should be available to residents regardless of income, insurance status, or geographic location, particularly in rural and underserved communities.
+    I also support stronger environmental health initiatives, including affordable radon testing, improved public awareness of UV exposure, and community education about the risks associated with excessive alcohol consumption. Public health agencies should work with schools, healthcare providers, and community organizations to make reliable information and preventive resources readily available.
+    Federal investments should prioritize evidence-based prevention programs, research, and partnerships that reduce long-term healthcare costs while improving community health outcomes.
+    My goal is to empower Floridians with the knowledge and resources necessary to make informed decisions about their health. Preventive healthcare should not be a privilege determined by someone's financial circumstances, but an accessible part of maintaining healthier communities.
+
+    Keywords: Cancer Prevention, Preventive Healthcare, Public Health Education, Healthcare Accessibility
+
+
+- candidate_first_name: Tyler 
+  candidate_last_name: Davis
+  state: fl
+  race: US House of Representatives
+  district: 1
+  party: Independent
+  question: fl-q6
+  date: 2026-10-29 # optional
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    No. I do not believe Florida has struck the right balance, and I do not support further data center development in our state.
+    Florida already faces significant challenges involving electricity affordability, water conservation, infrastructure capacity, and environmental resilience. Continuing to incentivize the construction of resource-intensive facilities places unnecessary pressure on systems that residents and small businesses depend on every day.
+    I support eliminating state tax incentives for new data centers and establishing stronger protections to ensure existing facilities are responsible for the infrastructure, electricity, and water demands associated with their operations. Those expenses should not be passed along to working-class households or small businesses through higher utility rates or taxpayer-funded infrastructure improvements.
+    I would also support greater transparency regarding resource consumption, environmental impacts, and the long-term economic benefits these facilities actually provide.
+    Economic development should prioritize industries that create sustainable employment, strengthen local economies, and make responsible use of our natural resources.
+    Florida's future should not depend on continuously expanding infrastructure that competes with residents for essential resources. Our priority should be protecting the affordability, sustainability, and long-term well-being of the communities already here.
+
+    Keywords: Data Center Regulation, Environmental Protection, Utility Affordability, Sustainable Economic Development
+
