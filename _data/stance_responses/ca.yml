@@ -1165,3 +1165,435 @@
     My goal is to ensure Los Angeles residents have access to safe, reliable, affordable transportation without being displaced from the communities they call home.
 
     Public transportation should connect communities, create opportunities, and improve quality of life for all Californians."
+
+# candidates who did not respond
+
+- candidate_first_name: Mike
+  candidate_last_name: Thompson
+  state: ca
+  race: US House of Representatives
+  district: CA-4
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Eric
+  candidate_last_name: Jones
+  state: ca
+  race: US House of Representatives
+  district: CA-4
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Connie
+  candidate_last_name: Chan
+  state: ca
+  race: US House of Representatives
+  district: CA-11
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Scott
+  candidate_last_name: Wiener
+  state: ca
+  race: US House of Representatives
+  district: CA-11
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Melissa
+  candidate_last_name: Hernandez
+  state: ca
+  race: US House of Representatives
+  district: CA-14
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Aisha
+  candidate_last_name: Wahab
+  state: ca
+  race: US House of Representatives
+  district: CA-14
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Kevin
+  candidate_last_name: Kiley
+  state: ca
+  race: US House of Representatives
+  district: CA-6
+  party: Independent
+  did_not_respond: true
+
+- candidate_first_name: Richard
+  candidate_last_name: Pan
+  state: ca
+  race: US House of Representatives
+  district: CA-6
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Doris
+  candidate_last_name: Matsui
+  state: ca
+  race: US House of Representatives
+  district: CA-7
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Mai
+  candidate_last_name: Vang
+  state: ca
+  race: US House of Representatives
+  district: CA-7
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: David
+  candidate_last_name: Valadao
+  state: ca
+  race: US House of Representatives
+  district: CA-22
+  party: Republican
+  did_not_respond: true
+
+- candidate_first_name: Randy
+  candidate_last_name: Villegas
+  state: ca
+  race: US House of Representatives
+  district: CA-22
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Josh
+  candidate_last_name: Hoover
+  state: ca
+  race: State Assembly
+  district: 7
+  party: Republican
+  did_not_respond: true
+
+- candidate_first_name: Amy
+  candidate_last_name: Slavensky
+  state: ca
+  race: State Assembly
+  district: 7
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Brian
+  candidate_last_name: Pacheco
+  state: ca
+  race: State Assembly
+  district: 27
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Mike
+  candidate_last_name: Murphy
+  state: ca
+  race: State Assembly
+  district: 27
+  party: Republican
+  did_not_respond: true
+
+- candidate_first_name: Andrae
+  candidate_last_name: Gonzales
+  state: ca
+  race: State Assembly
+  district: 35
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Saul
+  candidate_last_name: Ayon
+  state: ca
+  race: State Assembly
+  district: 35
+  party: Republican
+  did_not_respond: true
+
+- candidate_first_name: Esmeralda
+  candidate_last_name: Soria
+  state: ca
+  race: State Senate
+  district: 14
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Darin
+  candidate_last_name: DuPont
+  state: ca
+  race: State Senate
+  district: 14
+  party: Republican
+  did_not_respond: true
+
+- candidate_first_name: Melissa
+  candidate_last_name: Hurtado
+  state: ca
+  race: State Senate
+  district: 16
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Guillermo
+  candidate_last_name: Gonzalez
+  state: ca
+  race: State Senate
+  district: 16
+  party: Republican
+  did_not_respond: true
+
+- candidate_first_name: Karen
+  candidate_last_name: Bass
+  state: ca
+  race: Mayor
+  district: Los Angeles
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Nithya
+  candidate_last_name: Raman
+  state: ca
+  race: Mayor
+  district: Los Angeles
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Ayanna
+  candidate_last_name: Davis
+  state: ca
+  race: State Assembly
+  district: 65
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Paul
+  candidate_last_name: Seo
+  state: ca
+  race: State Assembly
+  district: 66
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Sara
+  candidate_last_name: Deen
+  state: ca
+  race: State Assembly
+  district: 66
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Mike
+  candidate_last_name: McGuire
+  state: ca
+  race: US House of Representatives
+  district: CA-1
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: James
+  candidate_last_name: Gallagher
+  state: ca
+  race: US House of Representatives
+  district: CA-1
+  party: Republican
+  did_not_respond: true
+
+- candidate_first_name: Ami
+  candidate_last_name: Bera
+  state: ca
+  race: US House of Representatives
+  district: CA-3
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Robb
+  candidate_last_name: Tucker
+  state: ca
+  race: US House of Representatives
+  district: CA-3
+  party: Republican
+  did_not_respond: true
+
+- candidate_first_name: Ken
+  candidate_last_name: Calvert
+  state: ca
+  race: US House of Representatives
+  district: CA-40
+  party: Republican
+  did_not_respond: true
+
+- candidate_first_name: Young
+  candidate_last_name: Kim
+  state: ca
+  race: US House of Representatives
+  district: CA-40
+  party: Republican
+  did_not_respond: true
+
+- candidate_first_name: Jeff
+  candidate_last_name: Gonzalez
+  state: ca
+  race: State Assembly
+  district: 36
+  party: Republican
+  did_not_respond: true
+
+- candidate_first_name: Ida
+  candidate_last_name: Obeso-Martinez
+  state: ca
+  race: State Assembly
+  district: 36
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Greg
+  candidate_last_name: Wallis
+  state: ca
+  race: State Assembly
+  district: 47
+  party: Republican
+  did_not_respond: true
+
+- candidate_first_name: Leila
+  candidate_last_name: Namvar
+  state: ca
+  race: State Assembly
+  district: 47
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Leticia
+  candidate_last_name: Castillo
+  state: ca
+  race: State Assembly
+  district: 58
+  party: Republican
+  did_not_respond: true
+
+- candidate_first_name: Clarissa
+  candidate_last_name: Cervantes
+  state: ca
+  race: State Assembly
+  district: 58
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Jim
+  candidate_last_name: Desmond
+  state: ca
+  race: US House of Representatives
+  district: CA-48
+  party: Republican
+  did_not_respond: true
+
+- candidate_first_name: Marni
+  candidate_last_name: von Wilpert
+  state: ca
+  race: US House of Representatives
+  district: CA-48
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Tri
+  candidate_last_name: Ta
+  state: ca
+  race: State Assembly
+  district: 70
+  party: Republican
+  did_not_respond: true
+
+- candidate_first_name: Paula
+  candidate_last_name: Swift
+  state: ca
+  race: State Assembly
+  district: 70
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Laurie
+  candidate_last_name: Davies
+  state: ca
+  race: State Assembly
+  district: 74
+  party: Republican
+  did_not_respond: true
+
+- candidate_first_name: Sergio
+  candidate_last_name: Farias
+  state: ca
+  race: State Assembly
+  district: 74
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Catherine
+  candidate_last_name: Blakespear
+  state: ca
+  race: State Senate
+  district: 38
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Laura
+  candidate_last_name: Bassett
+  state: ca
+  race: State Senate
+  district: 38
+  party: Republican
+  did_not_respond: true
+
+- candidate_first_name: Mara
+  candidate_last_name: Elliott
+  state: ca
+  race: State Senate
+  district: 40
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Kristie
+  candidate_last_name: Bruce-Lane
+  state: ca
+  race: State Senate
+  district: 40
+  party: Republican
+  did_not_respond: true
+
+- candidate_first_name: Xavier
+  candidate_last_name: Becerra
+  state: ca
+  race: Governor
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Steve
+  candidate_last_name: Hilton
+  state: ca
+  race: Governor
+  party: Republican
+  did_not_respond: true
+
+- candidate_first_name: Brian
+  candidate_last_name: Goldsmith
+  state: ca
+  race: State Senate
+  district: 24
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: David
+  candidate_last_name: Penaloza
+  state: ca
+  race: State Assembly
+  district: 68
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Jimmy
+  candidate_last_name: Gomez
+  state: ca
+  race: US House of Representatives
+  district: CA-34
+  party: Democratic
+  did_not_respond: true
