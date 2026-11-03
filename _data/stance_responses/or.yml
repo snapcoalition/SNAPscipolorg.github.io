@@ -1,0 +1,760 @@
+### US Senate (OR) ###
+
+- candidate_first_name: Mr. Gary # titles and middle names go here
+  candidate_last_name: Dye # used for alphabetical sorting
+  state: or
+  race: US Senate # must match one of the options!
+  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Libertarian # must match one of the options!
+  question: or-Q1
+  date: 2026-09-05 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    I don't believe in government censorship.  Caveat emptor.
+
+- candidate_first_name: Mr. Gary # titles and middle names go here
+  candidate_last_name: Dye # used for alphabetical sorting
+  state: or
+  race: US Senate # must match one of the options!
+  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Libertarian # must match one of the options!
+  question: or-Q2
+  date: 2026-09-05 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    Our deficit and national debt are at catastrophic levels.  We're going to have to make big cuts everywhere if we're going to survive.  Science is not immune.
+
+- candidate_first_name: Mr. Gary # titles and middle names go here
+  candidate_last_name: Dye # used for alphabetical sorting
+  state: or
+  race: US Senate # must match one of the options!
+  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Libertarian # must match one of the options!
+  question: or-Q3
+  date: 2026-09-05 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    Data centers need to provide their own electricity, or pay their public utility to build the extra capacity.  The extra capacity must be in place before the data center operates.
+
+- candidate_first_name: Mr. Gary # titles and middle names go here
+  candidate_last_name: Dye # used for alphabetical sorting
+  state: or
+  race: US Senate # must match one of the options!
+  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Libertarian # must match one of the options!
+  question: or-Q4
+  date: 2026-09-05 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    I won't stand in the way of progress.  Individuals and businesses should utilize AI to their advantage;  displaced workers need to adapt, like always.  I'm looking forward to AI being our artificial god.
+
+- candidate_first_name: Mr. Gary # titles and middle names go here
+  candidate_last_name: Dye # used for alphabetical sorting
+  state: or
+  race: US Senate # must match one of the options!
+  district: # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Libertarian # must match one of the options!
+  question: or-Q5
+  date: 2026-09-05 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    I trust scientists, but not government scientists.  It's also hard to trust scientists that have been compromised by their research grant or whoever is supplying their paycheck.  Get policymakers out of science.
+
+###
+
+# a candidate who did not respond to any questions gets ONE entry like this. Omit `question` and `response`; the build fails if either is filled in here
+- candidate_first_name: Sen. Jeff
+  candidate_last_name: Merkley
+  state: or
+  race: US Senate
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Mr. Chris
+  candidate_last_name: Henry
+  state: or
+  race: US Senate
+  party: Progressive
+  did_not_respond: true
+
+- candidate_first_name: Sen. David Brock
+  candidate_last_name: Smith
+  state: or
+  race: US Senate
+  party: Republican
+  did_not_respond: true
+
+##### OR Governor #####
+
+- candidate_first_name: Sen. Christine
+  candidate_last_name: Drazan
+  state: or
+  race: Governor
+  party: Republican
+  did_not_respond: true
+
+- candidate_first_name: Gov. Tina
+  candidate_last_name: Kotek
+  state: or
+  race: Governor
+  party: Democratic
+  did_not_respond: true
+
+- candidate_first_name: Mr. Brett
+  candidate_last_name: Smith
+  state: or
+  race: Governor
+  party: Pacific Green
+  did_not_respond: true
+
+### State Senate ###
+
+- candidate_first_name: Mr. Morey # titles and middle names go here
+  candidate_last_name: Straus # used for alphabetical sorting
+  state: or
+  race: State Senate # must match one of the options!
+  district: 42 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Libertarian # must match one of the options!
+  question: or-Q1
+  date: 2026-10-22 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    None. **No truth ministry**, whether it is written into a statute or handed to a platform by contract. Any law against misinformation needs someone with the power to decide what counts as misinformation. That someone is the state, which has a bigger stake than anyone in which claims get believed.
+
+    Science doesn’t advance by enforcing consensus. It advances by heresy that turns out to be right. In the early 1980s the accepted view was that ulcers came from stress and stomach acid. Two Australian researchers said a bacterium caused them, were dismissed, kept going, and won the Nobel Prize in 2005. A misinformation statute in force in 1985 would have counted them as the problem.
+
+    When a false claim is used to take someone’s money or injure them, that is fraud, and fraud can already be sued over. Beyond that, the answer to a wrong claim is a better claim, published where people can check it. An AI tool that gives bad answers loses users to one that gives good ones. A government agency that gives bad answers keeps its budget. I would vote against any bill that makes a platform, a model developer or an agency the judge of scientific truth.
+
+- candidate_first_name: Mr. Morey # titles and middle names go here
+  candidate_last_name: Straus # used for alphabetical sorting
+  state: or
+  race: State Senate # must match one of the options!
+  district: 42 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Libertarian # must match one of the options!
+  question: or-Q2
+  date: 2026-10-22 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    None at the state level, and I wouldn’t ask for any at the federal level. Research the government funds answers to the government, and this question proves it. Whoever pays for a program also decides when it ends, which is why the money that built Oregon’s research programs is the money now being cut. Universities took federal money and got federal compliance offices. Now they are getting federal budget cuts the same way. Depending on one funder is not security. My answer is the separation of **science and state**.
+
+    About the $1 billion in “economic activity”: that figure counts dollars spent, not value created. Every one of those dollars was taken from someone who would have spent it on something else. That spending happened too; it just doesn’t get a press release.
+
+    Oregon doesn’t have to imagine private science funding. In 2025 Phil and Penny Knight pledged $2 billion to OHSU’s Knight Cancer Institute, the largest single gift ever made to an American university. That came after an earlier $500 million challenge from them brought in a matching $500 million from other donors. I would vote against using state money to replace federal cuts. Researchers who want security should want funders who chose to fund them.
+
+- candidate_first_name: Mr. Morey # titles and middle names go here
+  candidate_last_name: Straus # used for alphabetical sorting
+  state: or
+  race: State Senate # must match one of the options!
+  district: 42 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Libertarian # must match one of the options!
+  question: or-Q2
+  date: 2026-10-22 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    None at the state level, and I wouldn’t ask for any at the federal level. Research the government funds answers to the government, and this question proves it. Whoever pays for a program also decides when it ends, which is why the money that built Oregon’s research programs is the money now being cut. Universities took federal money and got federal compliance offices. Now they are getting federal budget cuts the same way. Depending on one funder is not security. My answer is the separation of **science and state**.
+
+    About the $1 billion in “economic activity”: that figure counts dollars spent, not value created. Every one of those dollars was taken from someone who would have spent it on something else. That spending happened too; it just doesn’t get a press release.
+
+    Oregon doesn’t have to imagine private science funding. In 2025 Phil and Penny Knight pledged $2 billion to OHSU’s Knight Cancer Institute, the largest single gift ever made to an American university. That came after an earlier $500 million challenge from them brought in a matching $500 million from other donors. I would vote against using state money to replace federal cuts. Researchers who want security should want funders who chose to fund them.
+
+- candidate_first_name: Mr. Morey # titles and middle names go here
+  candidate_last_name: Straus # used for alphabetical sorting
+  state: or
+  race: State Senate # must match one of the options!
+  district: 42 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Libertarian # must match one of the options!
+  question: or-Q3
+  date: 2026-10-22 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    Oregon’s electricity is sold by monopolies the state created. Since 1961, state law has given each utility an exclusive territory where no one else may offer service. It is so complete a monopoly that federal antitrust law doesn’t apply to it. The Public Utility Commission sets the price, and the legislature dictates what the power must be generated from. High bills under that arrangement are not a market failure. PGE’s residential rates rose nearly 50 percent from 2021 to 2025.
+
+    On top of that, the legislature required utility emissions to fall 80 percent by 2030 and 100 percent by 2040, and banned new or expanded gas plants in the state. It cut supply in the same decade that data centers grew to about 15 percent of utility load. Regulators now let a new data center connect only if enough emissions-free power exists to serve it. First ration supply, then ration access, then argue over which group of customers pays. That is what a monopoly does instead of building.
+
+    My steps:
+
+    1. **End utility monopolies**. Repeal the exclusive territories and let anyone generate and sell power to anyone, households included.
+    
+    2. Repeal the 2040 mandate, the gas plant ban, the renewable portfolio standard and the Climate Protection Program.
+    
+    3. Let data centers and every other customer build their own generation without asking the state. Each should pay for the wires it uses the way it pays for lumber.
+    
+    4. End energy subsidies of every kind, fossil and renewable alike.
+
+    On data center tax breaks: the fix for an exemption is not to close it but to give the same exemption to everyone.
+
+- candidate_first_name: Mr. Morey # titles and middle names go here
+  candidate_last_name: Straus # used for alphabetical sorting
+  state: or
+  race: State Senate # must match one of the options!
+  district: 42 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Libertarian # must match one of the options!
+  question: or-Q4
+  date: 2026-10-22 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    1. **Permissionless innovation**. No state licensing, auditing or registration of AI models or developers. I lead a software security team, and I have watched compliance culture stand in for competence. A state AI law produces paperwork, not safer software.
+
+    2. Privacy from the government first. The most dangerous uses of AI are the state’s: surveillance, facial recognition, risk scores on residents. I would vote against any state or local purchase of these tools and against any data sharing that feeds them. You can stop using a company. You cannot leave the state’s database.
+    
+    3. Workforce. AI will change which jobs exist. The worst place to lose a job is the state with the heaviest occupational licensing burden in the country, and that is Oregon. A worker whose job disappears should be able to start a new one Monday without years of required training and a board’s permission. Repeal the licenses.
+    
+    4. Access. No subsidy programs. State money comes with state conditions, and those conditions follow the money into every classroom and clinic that takes it.
+
+- candidate_first_name: Mr. Morey # titles and middle names go here
+  candidate_last_name: Straus # used for alphabetical sorting
+  state: or
+  race: State Senate # must match one of the options!
+  district: 42 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Libertarian # must match one of the options!
+  question: or-Q5
+  date: 2026-10-22 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    The question assumes that distrust of science and changes in federal funding are connected. They are, and the connection runs through the funding. When research is a line in the government budget, every election puts it on the ballot. Scientists who want trust from people in both parties should want less of their work to depend on which party won.
+
+    On communication, the most useful thing scientists can do is keep facts and policy in separate sentences. “The evidence shows X” is science. “So the legislature should do Y” is a value judgment that needs a vote. A scientist who spends scientific authority on it is spending trust that belonged to the evidence. My rule as a candidate is to **concede facts**, never programs. I’ll accept any finding the evidence supports, still oppose a program built on it, and say plainly which is which.
+
+    There is also trust to earn back. When researchers tried to reproduce 100 published psychology studies in 2015, about 36 percent produced significant results again. The fixes are public data, pre-registered studies and published replications. Those belong to scientists and journals, not legislatures, and none of them needs a law. People trust what they can check.
+
+###
+
+- candidate_first_name: John A. N. # titles and middle names go here
+  candidate_last_name: Chee # used for alphabetical sorting
+  state: or
+  race: State Senate # must match one of the options!
+  district: 17 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican # must match one of the options!
+  question: or-Q1
+  date: 2026-10-23 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    No additional policies beyond the already existing laws regarding slander and libel.
+    
+- candidate_first_name: John A. N. # titles and middle names go here
+  candidate_last_name: Chee # used for alphabetical sorting
+  state: or
+  race: State Senate # must match one of the options!
+  district: 17 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican # must match one of the options!
+  question: or-Q2
+  date: 2026-10-23 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    I would work to eliminating all state-funding of research at both the state and federal level. State funds come from the taxpayer, they taxpayer can choose to donate to research with their tax savings.
+
+- candidate_first_name: John A. N. # titles and middle names go here
+  candidate_last_name: Chee # used for alphabetical sorting
+  state: or
+  race: State Senate # must match one of the options!
+  district: 17 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican # must match one of the options!
+  question: or-Q3
+  date: 2026-10-23 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    15 year data center moratorium in Oregon. Deregulate state of the art nuclear power plant construction.
+
+- candidate_first_name: John A. N. # titles and middle names go here
+  candidate_last_name: Chee # used for alphabetical sorting
+  state: or
+  race: State Senate # must match one of the options!
+  district: 17 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican # must match one of the options!
+  question: or-Q4
+  date: 2026-10-23 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    Halt SI-exports and tax AI-imports. Foreign nationals using our Super Intelligence infrastructure and technology cannot be allowed continue. Foreign AI services being consumed by Oregonians also must be disincentivized.
+
+- candidate_first_name: John A. N. # titles and middle names go here
+  candidate_last_name: Chee # used for alphabetical sorting
+  state: or
+  race: State Senate # must match one of the options!
+  district: 17 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican # must match one of the options!
+  question: or-Q5
+  date: 2026-10-23 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    Scientist must humbly apologize to the public for their failure during the COVID scamdemic
+
+###
+
+- candidate_first_name: Jack (Jake) D. # titles and middle names go here
+  candidate_last_name: Huff # used for alphabetical sorting
+  state: or
+  race: State Senate # must match one of the options!
+  district: 7 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican # must match one of the options!
+  question: or-Q1
+  date: 2026-10-24 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    Multi-layered fact checking would help.  Historical information, as well as current "discoveries" should be assessed by the algorithms for accuracy prior to being disseminated throughout the web.  Prognostications by alarmists should be checked against historical outcomes.  Did what they predicted actually happen?  If "NO" then discard that information as false.
+    
+- candidate_first_name: Jack (Jake) D. # titles and middle names go here
+  candidate_last_name: Huff # used for alphabetical sorting
+  state: or
+  race: State Senate # must match one of the options!
+  district: 7 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican # must match one of the options!
+  question: or-Q2
+  date: 2026-10-24 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    The federal government wants actual progress, not just hopeful wishes.  I would suggest that evidentiary progress be shown in whatever fields to which these grants apply in order to continue to receive such grants and endowments.  If these grants are being reduced because of the "sanctuary" status of the state, I would remove that status as quickly as possible in order to restore that funding.  
+  
+- candidate_first_name: Jack (Jake) D. # titles and middle names go here
+  candidate_last_name: Huff # used for alphabetical sorting
+  state: or
+  race: State Senate # must match one of the options!
+  district: 7 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican # must match one of the options!
+  question: or-Q3
+  date: 2026-10-24 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    If coal fired plants are being systematically shut down, I would replace them with natural gas fired power plants, refurbish the hydro-electric infrastructure, and bring nuclear power plants into the state.  The latest nuclear technology is fantastic, clean, and reliable regardless of weather conditions that dramatically effect solar and wind generation.  I would also require the data centers to pay for their own electrical power grid/infrastructure in order to NOT put that cost onto the local consumers.
+  
+- candidate_first_name: Jack (Jake) D. # titles and middle names go here
+  candidate_last_name: Huff # used for alphabetical sorting
+  state: or
+  race: State Senate # must match one of the options!
+  district: 7 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican # must match one of the options!
+  question: or-Q4
+  date: 2026-10-24 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    AI is only as "intelligent" as those who program it.  Yes, AI accesses all sorts of data from all over the world, so it has lots of resources to look at.  AI needs intelligent human beings to interact with it to help it "learn" what is appropriate and correct, what is TRUE and not just conjecture or guess work.  As far as competitiveness goes, the free market takes care of those concerns.  When government steps in to regulate the free market, disaster ensues.  Not everyone wants to use AI, so "equity of access" is something that people should determine.  Almost everyone has a "smart phone', a tablet, and/or a computer. Therefore, access is available to nearly everyone in the country.  
+  
+- candidate_first_name: Jack (Jake) D. # titles and middle names go here
+  candidate_last_name: Huff # used for alphabetical sorting
+  state: or
+  race: State Senate # must match one of the options!
+  district: 7 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican # must match one of the options!
+  question: or-Q5
+  date: 2026-10-24 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    One word - HONESTY.  Honest communications between scientists and policy makers is ESSENTIAL to clearly understood communications.  Scientists need to NOT exaggerate their claims and policy makers need to clearly understand the end goals of the scientific research.  For example, Fauci misled everyone about the research being done in the Wuhan, China labs.  He said things that he knew were patently untrue about prevention and cause.  This led to a HUGE mistrust of "the science".  The same is true with the multiple genders issue.  When "scientists" can't say "what a woman is", that's utter nonsense and nobody with a functioning brain buys any of that garbage "science".  So, again, HONESTY ought to bridge that gap.  TRUTH, whether in science, philosophy, religion, or politics, will set us all free from fear, doubt, and mistrust.  It's okay to say, "I don't know" if that is the truth of the matter.  Both scientists and policy makers like to think they know, but more often than not, they don't. 
+
+###
+
+- candidate_first_name: Ciatta R. # titles and middle names go here
+  candidate_last_name: Thompson # used for alphabetical sorting
+  state: or
+  race: State Senate # must match one of the options!
+  district: 33 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican # must match one of the options!
+  question: or-Q1
+  date: 2026-10-23 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    Response here
+      "I believe the best way to combat misinformation is through transparency, accountability, and education—not government censorship.
+
+    Science is constantly evolving, and questioning established conclusions is part of the scientific process. We should be cautious about giving government agencies or technology companies the authority to determine what constitutes acceptable scientific debate.
+
+    I would support policies requiring greater transparency from AI developers, including clear disclosure of AI-generated content, identification of sources, and accountability when AI systems produce demonstrably false or misleading information.
+
+    I also support strengthening digital and scientific literacy in our schools so students learn to evaluate sources, distinguish evidence from opinion, and think critically about information they encounter online.
+
+    When government agencies present information as evidence-based, they should make the underlying research, methodology, and data publicly accessible whenever possible.
+
+    Ultimately, our goal should be to empower people to make informed decisions, protect freedom of expression, and ensure that both government institutions and technology companies are accountable for the information they provide."
+
+- candidate_first_name: Ciatta R. # titles and middle names go here
+  candidate_last_name: Thompson # used for alphabetical sorting
+  state: or
+  race: State Senate # must match one of the options!
+  district: 33 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican # must match one of the options!
+  question: or-Q2
+  date: 2026-10-23 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    "Scientific research plays an important role in Oregon’s economy, supporting innovation, medical advancements, workforce development, and good-paying jobs.
+    
+    I support continued federal investment in scientific research through agencies like the NIH and NSF, with clear accountability and measurable outcomes for taxpayer dollars.
+
+    At the state level, I would prioritize strengthening partnerships between Oregon universities, private industry, healthcare institutions, and research organizations to diversify funding sources and reduce dependence on federal grants.
+
+    I also support competitive state matching grants that help Oregon institutions secure federal and private research funding, provided they are financially sustainable and demonstrate measurable economic or public benefits.
+
+    Oregon faces significant budget challenges, so we must be responsible about new spending commitments. My priority is protecting valuable research, attracting private investment, and ensuring scientific discoveries translate into real opportunities for Oregonians.
+
+    We can support scientific innovation while maintaining fiscal responsibility and accountability to taxpayers."
+ 
+- candidate_first_name: Ciatta R. # titles and middle names go here
+  candidate_last_name: Thompson # used for alphabetical sorting
+  state: or
+  race: State Senate # must match one of the options!
+  district: 33 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican # must match one of the options!
+  question: or-Q3
+  date: 2026-10-23 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    "Oregon families and businesses are already struggling with rising costs, and increasing electricity rates are making it harder to afford everyday necessities and remain competitive.
+    I support a balanced energy policy that prioritizes affordability, reliability, and environmental responsibility. We cannot continue increasing electricity demand while reducing dependable energy production without adequately planning for replacement capacity.
+    As a legislator, I would prioritize three areas:
+
+    1. **Protect ratepayers.** Strengthen oversight of utility rate increases, require greater transparency in infrastructure spending, and ensure utilities demonstrate that proposed investments are necessary and cost-effective before passing expenses on to consumers.
+
+    2. **Make data centers pay their fair share.** Large industrial energy users should bear the infrastructure and capacity costs directly attributable to their operations rather than shifting those expenses onto residential customers and small businesses. I support reviewing special rate structures, long-term service agreements, and financial guarantees for large-load customers.
+
+    3. **Expand reliable energy production.** Oregon should pursue a diversified energy portfolio that includes hydroelectric power, natural gas, renewables, energy storage, and emerging nuclear technologies. We should evaluate energy policies based on reliability, affordability, and measurable environmental outcomes.
+
+    I would also support an independent review of Oregon's energy regulations and utility costs to identify unnecessary expenses and opportunities for savings.
+
+    Our energy policies must recognize that affordable electricity is essential to economic growth, job creation, and household financial stability. Environmental goals matter, but they must be pursued without placing an unreasonable financial burden on working families and businesses."
+
+- candidate_first_name: Ciatta R. # titles and middle names go here
+  candidate_last_name: Thompson # used for alphabetical sorting
+  state: or
+  race: State Senate # must match one of the options!
+  district: 33 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican # must match one of the options!
+  question: or-Q4
+  date: 2026-10-23 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    "Artificial intelligence presents tremendous opportunities for innovation, economic growth, and improved government services. However, we must ensure these advancements benefit Oregon residents without compromising privacy, eliminating economic opportunities, or creating unnecessary regulatory burdens.
+
+    My top priorities would focus on four areas:
+
+    1. **Workforce Development:** Expand partnerships between community colleges, trade schools, universities, and private employers to provide affordable AI training and help workers adapt to changing industries. We should prepare Oregonians for emerging jobs while supporting workers displaced by automation.
+
+    2. **Data Privacy and Consumer Protection:** Strengthen protections for personal information, require transparency when AI is used in consequential decisions, and ensure individuals have meaningful opportunities to challenge automated decisions affecting employment, housing, healthcare, or financial services.
+
+    3. **Economic Competitiveness:** Encourage responsible AI innovation by reducing unnecessary regulatory barriers, supporting small businesses adopting new technologies, and attracting investment that creates good-paying jobs in Oregon.
+
+    4. **Government Accountability:** Require transparency, independent oversight, and human review when government agencies use AI to make decisions affecting residents. AI should improve efficiency and public services, not replace accountability.
+
+    I believe Oregon should embrace technological progress while protecting individual rights and ensuring opportunities are accessible to workers and businesses of all sizes.
+
+    Our goal should be to make AI a tool for economic opportunity, not another source of inequality or government inefficiency."
+
+- candidate_first_name: Ciatta R. # titles and middle names go here
+  candidate_last_name: Thompson # used for alphabetical sorting
+  state: or
+  race: State Senate # must match one of the options!
+  district: 33 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican # must match one of the options!
+  question: or-Q5
+  date: 2026-10-23 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    "If we want to rebuild public trust in science, we must first be honest about why that trust has eroded.
+
+    The COVID-19 pandemic exposed serious problems in how scientific information and public health policies were communicated. Many Americans felt dismissed, ridiculed, or silenced for questioning public health recommendations, mandates, and the evidence behind them. Rather than encouraging open discussion, legitimate questions were sometimes treated as misinformation.
+
+    Science is not supposed to be beyond questioning. Questioning, testing, challenging assumptions, and revising conclusions are fundamental to the scientific process.
+
+    Scientists and policymakers must do a better job distinguishing between established scientific evidence, emerging research, uncertainty, and policy decisions. Public health recommendations often involve trade-offs that extend beyond science, including economic, educational, and individual liberty considerations.
+
+    I support greater transparency in publicly funded research, open access to scientific findings, clear disclosure of conflicts of interest, and regular communication between researchers, legislators, and the communities affected by their recommendations.
+
+    Policymakers must also be willing to acknowledge mistakes, explain why recommendations change, and listen respectfully to public concerns.
+
+    Trust cannot be mandated or restored through censorship. It must be earned through honesty, transparency, humility, and accountability.
+
+    The public doesn't need scientists and policymakers to be infallible. They need them to be honest."
+### State House of Representatives ###
+
+- candidate_first_name: David # titles and middle names go here
+  candidate_last_name: Russ # used for alphabetical sorting
+  state: or
+  race: US House of Representatives # must match one of the options!
+  district: 6 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican # must match one of the options!
+  question: or-Q1
+  date: 2026-10-23 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    I do not see a Constitutional way to do so.  People have been finding ways to lie for profit since the beginning of time.  More laws do not make that stop.  It only limits those who are Law Abiding Citizens.  The best solution is, was, and will be proper education in how to research items, and critical thinking
+    
+- candidate_first_name: David # titles and middle names go here
+  candidate_last_name: Russ # used for alphabetical sorting
+  state: or
+  race: US House of Representatives # must match one of the options!
+  district: 6 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican # must match one of the options!
+  question: or-Q2
+  date: 2026-10-23 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    "A free market.  We have seen that when the federal government funds research, they also drive the results.  It has also been shown that federal funding of research is selective both in what topics get researched and which entities get the grants.  Such a skewed system can never net unbiased results, nor results that consistently move toward actual scientific facts.
+    When scientific discovery is driven by the actual needs of the people and the economy, truth is not obscured by political preference.  In a free market the people reject science that does not work.  However, when science is driven by political agenda, it is also usually accompanied by propagandized advertising which is also paid by the government pushing the political agenda instead of scientific fact. Individuals and private industry have been the primary engines of applied innovation and commercialization throughout history and still drive most of the volume today. 
+    Here are just a few examples of what you pay for when government drives science (how do these things improve the life of the average American?):
+    - Research on the sexual behavior and preferences of Japanese quail.
+    - Comparison of aggressiveness in sunfish that drink tequila versus gin
+    - NIH-funded research teaching pigeons to gamble using a token-based economy and slot-machine-like devices.
+    - Research on whether finches slur their songs when given alcohol
+    - Work involving shrimp exercised on miniature treadmills
+    -Work on the best time to buy tickets to sold-out sporting events.
+    - project creating fictional “voicemails from the future” warning of climate disasters (zombies, underwater airports, CO2 credits).
+    - synchronized swimming / laser-guided swimming studies with sea monkeys (brine shrimp).
+
+  
+
+- candidate_first_name: David # titles and middle names go here
+  candidate_last_name: Russ # used for alphabetical sorting
+  state: or
+  race: US House of Representatives # must match one of the options!
+  district: 6 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican # must match one of the options!
+  question: or-Q3
+  date: 2026-10-23 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |  
+    "Are you trying to make the unscientifically proven statement that certain technologies, ""present hazards to the environment?""  While certain technologies, and even actual natural processes can be claimed to be damaging to the environment, ""hazard"" is an extremely charged word that implies a much higher level of damage.  I believe that the real hazard to humanity is following the recommendations of people who ""un-scientifically"" come to such conclusions based on a narrow scope of investigation combined with their personal preferences.  The American people have had inefficient, damaging unproven technologies forced upon them. 
+    To actually address the question, rather than your less than valid back story, ""I will seek to stop the unnecessary attack on valid and less expensive sources of energy. That attack is basically a direct attack on the people via their livelihood.""  It is important to consider the REAL facts when you spout claims like ""resent hazards to the environment.""  The facts are that: 
+    1) Solar Farms destroy the land they are placed on.  Their placement is displacing huge swaths of land that were being used to feed the people.  While replacing facilities that produced more, and more consistent power in a smaller footprint; 
+    2) Windmills destroy the land, and the waters on which they are placed.  They also cause extended environmental damage in their creation and maintenance.  Manufacturing wind turbines involves energy-intensive production of steel towers and massive concrete foundations (often 1,000–2,700 tons per unit), direct-drive designs the mining of rare-earth elements such as neodymium, which can cause habitat destruction, water pollution, and toxic waste. Placement requires clearing land, building access roads, and installing large foundations, fragmenting habitats and disturbing soils and local ecosystems. During operation, turbines kill birds and bats through collisions (with historical U.S. estimates in the hundreds of thousands annually for each group, and localized impacts on raptors and migratory species), while also generating noise, leaking lubricants, using large diesel generators as and inefficient backup and visual disturbance.  Maintenance and end-of-life add further burdens: blades are frequently landfilled because they resist recycling, foundations may be left in place or require energy-intensive removal, and lubricants and other materials create additional waste streams."
+  
+- candidate_first_name: David # titles and middle names go here
+  candidate_last_name: Russ # used for alphabetical sorting
+  state: or
+  race: US House of Representatives # must match one of the options!
+  district: 6 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican # must match one of the options!
+  question: or-Q4
+  date: 2026-10-23 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    "The biggest issue regarding AI that must be addressed for Oregon Residents is the ensure that the developers and operators of the technology bear the burden of all aspects of their installation and operation.  These facilities will have profits in the 100's of $billions, and eventually $trillions.  They can easily afford to generate power for entire regions, design and manage cooling systems that do not over use nor abuse natural resources, and help support local community programs, while still making enormous profits.
+
+    The people need to be educated and involved to ensure that corrupt leaders do not sell them out by giving Ai developers and operators freebies, exceptions from taxation and environmental rules, or be allowed to abuse the local power grid."
+  
+- candidate_first_name: David # titles and middle names go here
+  candidate_last_name: Russ # used for alphabetical sorting
+  state: or
+  race: US House of Representatives # must match one of the options!
+  district: 6 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Republican # must match one of the options!
+  question: or-Q5
+  date: 2026-10-23 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    "See Q2 above.  ""Policy Makers"" should NEVER influence science, the scientific process, nor public opinion on science (especially since ""science"" is not about ""opinion"").  That is how public misconceptions are created and maintained.
+
+    The biggest thing that can be done is to educate the people that when someone tells them that, ""The Science is settled,"" the person saying that definitely has an agenda.  They also need to know that when someone tells them that it is wrong to research ""settled science"" that is being presented as ultimate truth, they are being fed fake science.  Science is never ""settled,"" and real science always invites continued investigation."
+###
+
+- candidate_first_name: Josiah # titles and middle names go here
+  candidate_last_name: Dean # used for alphabetical sorting
+  state: or
+  race: State House of Representatives # must match one of the options!
+  district: 57 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Pacific Green # must match one of the options!
+  question: or-Q1
+  date: 2026-10-23 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    I support policies that prohibit the use of misinformation (whether intentional or by negligent AI) in any public discourse. To the best level possible, include fines for avoidable misinformation that is broadcast on public media.
+    
+- candidate_first_name: Josiah # titles and middle names go here
+  candidate_last_name: Dean # used for alphabetical sorting
+  state: or
+  race: State House of Representatives # must match one of the options!
+  district: 57 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Pacific Green # must match one of the options!
+  question: or-Q2
+  date: 2026-10-23 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    The attacks on science funding by the federal government is a disgrace and needs to end. On the state level, increased funding of Oregon universities and community colleges to ensure our institutions, and staff and students, are able to keep up with the advances in technology. 
+    
+- candidate_first_name: Josiah # titles and middle names go here
+  candidate_last_name: Dean # used for alphabetical sorting
+  state: or
+  race: State House of Representatives # must match one of the options!
+  district: 57 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Pacific Green # must match one of the options!
+  question: or-Q3
+  date: 2026-10-23 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    Data center development is out of control. I will take steps to ensure any development is reviewed to ensure impacts are mitigated in advance on infrastructure, environment (including water, land use and other impacts) and community quality of life. Oregon needs to lean into our commitment to the transition to sustainable, renewable energy already enshrined into law
+    
+- candidate_first_name: Josiah # titles and middle names go here
+  candidate_last_name: Dean # used for alphabetical sorting
+  state: or
+  race: State House of Representatives # must match one of the options!
+  district: 57 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Pacific Green # must match one of the options!
+  question: or-Q4
+  date: 2026-10-23 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    Predicting future of technology is problematic and AI is a global issue. I advocate for an international response, much like with nuclear proliferation, to address the worst effects. The state should focus on developing scientific study and training programs to ensure our state and our workforce is in the best position possible for a prosperous future.
+    
+- candidate_first_name: Josiah # titles and middle names go here
+  candidate_last_name: Dean # used for alphabetical sorting
+  state: or
+  race: State House of Representatives # must match one of the options!
+  district: 57 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Pacific Green # must match one of the options!
+  question: or-Q5
+  date: 2026-10-23 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    This is the largest challenge of our time. We have solutions and capacity to create a better world. I believe that continued, honest communication is key. This includes requiring clear statements of funding sources and any conflicts that may be perceived. The opposition is not based on facts and therefore cannot be effectively refuted with them.
+    
+- candidate_first_name: Roy # titles and middle names go here
+  candidate_last_name: Kaufmann # used for alphabetical sorting
+  state: or
+  race: State House of Representatives # must match one of the options!
+  district: 18 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Independent # must match one of the options!
+  question: or-Q1
+  date: 2026-10-23 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    In an environment like social media where we allow for complete anonymity and no real consequences for the spread of misinformation, bad actors have every incentive to lie, smear, and mislead. I would back policies that require transparency for monetized social media accounts, including disclosure of ownership and funding sources. For example, X/Twitter added a transparency feature last year showing where accounts were created which outed several prominent disinformation spreaders as foreign actors. 
+    There also needs to be real accountability for breaking the law online, meaning we need technically minded
+    people in our legislature, courts, and law enforcement. Possibly the greatest danger to society is the introduction of AI-generated video of politicians and public figures in the last couple of election cycles. I would support a general ban on political campaigns and PACs using the images of public figures in poliDcal
+    advertising.
+  
+- candidate_first_name: Roy # titles and middle names go here
+  candidate_last_name: Kaufmann # used for alphabetical sorting
+  state: or
+  race: State House of Representatives # must match one of the options!
+  district: 18 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Independent # must match one of the options!
+  question: or-Q2
+  date: 2026-10-23 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    The Trump Administration has shown it is willing to weaponize federal funding against its “political enemies”, which is insane and unamerican. Even attempting to take them at face value, which is foolish at this point, they are still inept at distinguishing waste from investment. I have been vocal in my support for our Attorney General and our elected representatives in D.C. who have defended science and truth against a totally corrupt administration perpetuating scams and mainstreaming pseudoscience. 
+    For state representatives like I hope to be, our focus must be on making Oregon resilient against federal cuts and austerity. One of my most consistent campaign priorities has been to create a state bank here in Oregon based on the model formed by North Dakota over a century ago. 
+    Every year in Salem, lawmakers bicker over what programs to grow and which to cut, slicing the same pie into thinner slices. The purpose of a state bank is to grow that pie by keeping our debt interest and processing fees 2 here, leng Oregon’s money work for Oregon rather than flowing to New York, Zurich, or Abu Dhabi. This bank model would also provide liquidity for loans supporting Oregon businesses in their modernizaDon and research cycles, like our world-class semiconductor industry and medical science institutions.
+  
+- candidate_first_name: Roy # titles and middle names go here
+  candidate_last_name: Kaufmann # used for alphabetical sorting
+  state: or
+  race: State House of Representatives # must match one of the options!
+  district: 18 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Independent # must match one of the options!
+  question: or-Q3
+  date: 2026-10-23 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    With the creation of the POWER Act last year, Oregon showed that we are willing to hold industrial developers accountable for the clean growth of their own power infrastructure. That hasn’t stopped utility bills from climbing for exisDng businesses and households.
+    My district is a largely rural one, so I know few people are invested in protecting our land while meeting market demand quite like Oregon farms and nurseries. When FDR created the Rural Electrification Administration, the federal government gave loans to rural power cooperatives to build out their own generation and transmission infrastructure. Here in Oregon, we have 18 non-profit electrical cooperatives which serve a half-million residents. Our rural communities can rise to the challenge of skyrocketing demand for clean electricity if they have capital and planning support, something we can provide from Salem with the
+    backing of a state bank.
+  
+- candidate_first_name: Roy # titles and middle names go here
+  candidate_last_name: Kaufmann # used for alphabetical sorting
+  state: or
+  race: State House of Representatives # must match one of the options!
+  district: 18 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Independent # must match one of the options!
+  question: or-Q4
+  date: 2026-10-23 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    On the latter issue, my priority is enacting a development moratorium until developers can ensure the industry demonstrably benefits all Oregon and Oregonians. That means ensuring these data centers aren’t taking water from our farms and homes, they develop their own clean power, and their physical location isn’t paving over the best cropland in the west or creating a nuisance where people live. It also means paying reasonable taxes on their compute output, just like our existing industries, to fund our schools, roads, hospitals, and social
+    services. 
+    On implementing AI tools, the top priority has to be data sovereignty and privacy protection. Businesses and government offices are already integrating AI into their systems. If our offices are paying for AI programs with tax dollars, the least we can do as legislatures is ensure our citizens’ personal information isn’t being sold off, handed off to federal law enforcement without due process, or being fed into training models.
+    And I would also add that I have serious concerns about the impact of AI to our critical thinking skills, particularly those of our kids, from preschool through grad school. We need an ethically consistent approach to AI that doesn’t leave us with mentally weaker citizenry and even richer elites.
+  
+- candidate_first_name: Roy # titles and middle names go here
+  candidate_last_name: Kaufmann # used for alphabetical sorting
+  state: or
+  race: State House of Representatives # must match one of the options!
+  district: 18 # string, e.g. 14 or 14A; feel free to remove if not applicable
+  party: Independent # must match one of the options!
+  question: or-Q5
+  date: 2026-10-23 # optional
+  county_race: # feel free to remove if not applicable
+  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
+  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
+  response: |
+    This is an area I think I can really lean into as a state representative because I have spent my entire career helping politicians and administrators communicate with the public.
+    Science has become political because industry has spent billions sowing doubt about it, and grifters found a market for pseudoscience and unqualified politicians know it’s exponentially harder to disprove their fearmongering than spreading it in the first place.
+    Pro-science policymakers and research institutions need to be a force equal to that of the disinformation ecosystem, meaning we need to have on-staff communicators who can talk about real science on the same platforms as the bad actors while also taking on the traditional tasks of grant officers and government liaisons.
