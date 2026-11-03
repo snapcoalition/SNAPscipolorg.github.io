@@ -691,3 +691,46 @@
   response: |
     A central role; I'll be leaning on experts a lot, but I will also have to play the politic to make an experts opinion actually worth something to a layperson.
     How I will evaluate comes down to who is saying it, in what WAY are they saying it, what group are they with or representing, and what do they have to gain by me listening to them. Politics exist in everything, and I'll have to be careful in recognizing that. When it comes to where consensus and opinion diverge- speaking as a Nurse who worked ICU during COVID- there will be a point where you have to do everything to try and save someone, or do what's best by them, but they will still refuse you. There's not much you can do about that except what you CAN, and limit the damage that can occur- so sometimes what matters is standing firmly on a topic and just refusing to budge from it.
+
+- candidate_first_name: Michael
+  candidate_last_name: Coonrad
+  state: ia
+  race: State House of Representatives
+  district: 67
+  party: Democratic
+  question: ia-q1
+  date: 2026-10-28
+  primary_candidate: false
+  response: |
+    Funding programs to help study and reduce the nitrate levels in our drinking water, funding programs and education for radon mitigation, and increasing healthy habits.
+
+    _Keywords: Water Quality, Radon Mitigation, Public health_
+
+- candidate_first_name: Michael
+  candidate_last_name: Coonrad
+  state: ia
+  race: State House of Representatives
+  district: 67
+  party: Democratic
+  question: ia-q2
+  date: 2026-10-28
+  primary_candidate: false
+  response: |
+    Our universities are some of the best in the world for research and progress, so it's terrible that our researchers are having such drastic changes in federal funding. I would support increasing state grants for research funding and urging the governor and federal representatives to help reverse course.
+
+    _Keywords: Research Funding, Federal Advocacy, Higher Education_
+
+- candidate_first_name: Michael
+  candidate_last_name: Coonrad
+  state: ia
+  race: State House of Representatives
+  district: 67
+  party: Democratic
+  question: ia-q3
+  date: 2026-10-28
+  primary_candidate: false
+  response: |
+    Scientific evidence and input should be a big part of the policymaking process. Evaluation should be done through assessment of the quality of evidence and sifting through the conclusions of independent researchers and experts. I would generally err on the side of the scientific consensus, but sometimes policy can't always fully address what may be necessary according to the consensus.
+
+    _Keywords: Scientific Evidence, Expert Consensus, Policy Evaluation_
+    
