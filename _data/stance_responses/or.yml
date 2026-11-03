@@ -161,24 +161,6 @@
   race: State Senate # must match one of the options!
   district: 42 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Libertarian # must match one of the options!
-  question: or-q2
-  date: 2026-10-22 # optional
-  county_race: # feel free to remove if not applicable
-  primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
-  did_not_respond: false # optional, default false; true = never responded at all. Must be the same on every row for a given candidate
-  response: |
-    None at the state level, and I wouldn’t ask for any at the federal level. Research the government funds answers to the government, and this question proves it. Whoever pays for a program also decides when it ends, which is why the money that built Oregon’s research programs is the money now being cut. Universities took federal money and got federal compliance offices. Now they are getting federal budget cuts the same way. Depending on one funder is not security. My answer is the separation of **science and state**.
-
-    About the $1 billion in “economic activity”: that figure counts dollars spent, not value created. Every one of those dollars was taken from someone who would have spent it on something else. That spending happened too; it just doesn’t get a press release.
-
-    Oregon doesn’t have to imagine private science funding. In 2025 Phil and Penny Knight pledged $2 billion to OHSU’s Knight Cancer Institute, the largest single gift ever made to an American university. That came after an earlier $500 million challenge from them brought in a matching $500 million from other donors. I would vote against using state money to replace federal cuts. Researchers who want security should want funders who chose to fund them.
-
-- candidate_first_name: Mr. Morey # titles and middle names go here
-  candidate_last_name: Straus # used for alphabetical sorting
-  state: or
-  race: State Senate # must match one of the options!
-  district: 42 # string, e.g. 14 or 14A; feel free to remove if not applicable
-  party: Libertarian # must match one of the options!
   question: or-q3
   date: 2026-10-22 # optional
   county_race: # feel free to remove if not applicable
