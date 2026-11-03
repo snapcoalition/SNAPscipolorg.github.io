@@ -117,3 +117,171 @@
   primary_candidate: false
   response: |
     "Medicaid is the biggest supporter of rural hospitals, we must keep it funded. Some small hospitals may even need grants, or help applying for them. There is a shortage of doctors of all specialties and of nurses and technicians. We should be supporting in-state medical education at all levels. Doctors are reluctant to move to Idaho because of our anti-science, anti-health attitudes. Laws can be changed but it will take a lot more work to change attitudes."
+
+- candidate_first_name: Pro-Life
+  candidate_last_name:
+  state: id
+  race: Governor
+  district:
+  party: Constitution
+  question: id-q1
+  date: 2026-11-03
+  primary_candidate: false
+  response: |
+    "Water rights are property rights and cannot be distributed by government decision making, be it, legislative, judicial, or executive. If you want more water rights, you must purchase them. Idaho citizens do not believe this, so we probably will have a renegotiation."
+
+    KEYWORDS: Water is property
+
+- candidate_first_name: Pro-Life
+  candidate_last_name:
+  state: id
+  race: Governor
+  district:
+  party: Constitution
+  question: id-q2
+  date: 2026-11-03
+  primary_candidate: false
+  response: |
+    "Idaho should never offer tax reduction to any development. Idaho Power should charge all costs of increased demand to the development whether it be data center, housing, commercial, or government."
+
+    KEYWORDS: Pay for usage
+
+- candidate_first_name: Pro-Life
+  candidate_last_name:
+  state: id
+  race: Governor
+  district:
+  party: Constitution
+  question: id-q3
+  date: 2026-11-03
+  primary_candidate: false
+  response: |
+    "Backfire strips of land should be developed prior to the fire season. Idaho should have prisoners and others clear brush in forest areas. Idaho should clean and protect the Federal lands and forests because the Feds are stupid. The Federal lands should be given to the states as the forgotten Constitution indicates."
+
+    KEYWORDS: Feds are stupid
+
+- candidate_first_name: Pro-Life
+  candidate_last_name:
+  state: id
+  race: Governor
+  district:
+  party: Constitution
+  question: id-q4
+  date: 2026-11-03
+  primary_candidate: false
+  response: |
+    "Government policy has been injurious and deadly regarding vaccines. Vaccines harm our immune systems. Let the people decide regarding vaccines and health in general."
+
+    KEYWORDS: Vaccines are harmful
+
+- candidate_first_name: Pro-Life
+  candidate_last_name:
+  state: id
+  race: Governor
+  district:
+  party: Constitution
+  question: id-q5
+  date: 2026-11-03
+  primary_candidate: false
+  response: |
+    "Health care should not be a government responsibility. Socialism is collective theft.  Socialized medicine will never be the right kind of medicine. If government pays for health care transportation, then the people will rely on, and then abuse the system."
+
+    KEYWORDS: Socialized medicine is wrong
+
+- candidate_first_name: Letishia
+  candidate_last_name: Silva
+  state: id
+  race: State Senate
+  district: 13
+  party: Democratic
+  question: id-q1
+  date: 2026-11-03
+  primary_candidate: false
+  response: |
+    "Water rights impact Idahoans differently, so I would think decisions about our aquifers must be based on research, reliable data, and measurable outcomes not assumptions.
+
+    I support decisions grounded in research, reliable data, and measurable outcomes. Before changing policies or making new agreements, we need to understand what we have, what is working, what isn’t, and what the long-term consequences will be.
+
+    Agriculture, growing communities, businesses, and the environment all have a stake in this. We need to listen to the people directly affected, evaluate the available science, and find practical solutions that balance those needs rather than automatically putting one interest ahead of another. 
+
+    At the end of the day, this isn’t about picking political sides or industries. It’s about making responsible decisions with the information available, protecting Idaho’s resources, and ensuring the people who call Idaho home aren’t left carrying the consequences of poor planning."   
+
+- candidate_first_name: Letishia
+  candidate_last_name: Silva
+  state: id
+  race: State Senate
+  district: 13
+  party: Democratic
+  question: id-q2
+  date: 2026-11-03
+  primary_candidate: false
+  response: |
+    "What frustrates me is that Idaho has been dealing with drought, water shortages, and increasing demands on our resources for years, yet we continue approving major developments without fully accounting for the long-term consequences.
+
+    Like I understand the economic appeal. These projects bring investment, jobs, and opportunities for Idaho’s workforce. I want Idaho to grow, but we have to ask ourselves: at what cost, and who ultimately pays for that growth?
+
+    I don’t believe taxpayers, homeowners, or existing businesses should subsidize the infrastructure, electricity, or water demands of large private developments. Developers should bear the full cost of their resource consumption and the infrastructure needed to support their projects. I would also support reviewing existing tax incentives and requiring measurable public benefits before offering subsidies.
+
+    I’m not opposed to development or economic opportunity. I’m opposed to moving forward without responsible planning, transparency, and accountability.
+
+    We cannot sacrifice our long-term sustainability in hopes of getting ahead economically, only to put Idaho further behind.
+
+    Growth should benefit Idahoans, not come at our expense."
+
+- candidate_first_name: Letishia
+  candidate_last_name: Silva
+  state: id
+  race: State Senate
+  district: 13
+  party: Democratic
+  question: id-q3
+  date: 2026-11-03
+  primary_candidate: false
+  response: |
+    "It’s frustrating to watch Idaho leaders act surprised by wildfire season year after year. Since 2020, it feels like every summer has been a living embodiment of an ashtray. At what point do the adults in the room start proactively planning instead of repeatedly reacting?
+
+    Wildfires impact families, homes, farms, ranches, businesses, air quality, and our natural resources. I would support investing in prevention, responsible forest and rangeland management, fuel reduction, controlled burns when conditions allow, and better coordination between state, federal, and local agencies.
+
+    Research and monitoring should guide those decisions. We need reliable data to identify high-risk areas, understand changing conditions, evaluate what prevention efforts are working, and direct resources where they will have the greatest impact.
+
+    I also believe funding and resources need to reflect the reality of the risks we face. We cannot continue waiting for a crisis to determine whether we are prepared.
+
+    Preparedness isn’t something we should debate after the damage is done. It’s a responsibility of leadership."
+
+- candidate_first_name: Letishia
+  candidate_last_name: Silva
+  state: id
+  race: State Senate
+  district: 13
+  party: Democratic
+  question: id-q4
+  date: 2026-11-04
+  primary_candidate: false
+  response: |
+    "We live in an age of advanced science and technology, yet we’re seeing preventable diseases like measles make a comeback. I absolutely believe individuals and parents should have the freedom to make informed decisions about vaccination. That freedom matters. However, when individual decisions create risks for others, particularly children, immunocompromised individuals, and those who cannot be vaccinated, we have a responsibility to consider the broader public impact.
+
+    I believe we need reasonable, responsible policies grounded in medical research, transparency, and public health data. We should engage communities with concerns, listen without judgment, provide access to credible information, and make sure families understand both the benefits and risks.
+
+    I’m not interested in shaming parents or creating unnecessary government interference. I am interested in protecting communities and preventing avoidable outbreaks.
+
+    Individual freedom and public responsibility are not mutually exclusive. We should be able to respect personal choice while taking reasonable steps to protect the health and safety of others."
+
+- candidate_first_name: Letishia
+  candidate_last_name: Silva
+  state: id
+  race: State Senate
+  district: 13
+  party: Democratic
+  question: id-q5
+  date: 2026-11-04
+  primary_candidate: false
+  response: |
+    "I believe improving rural healthcare access requires practical solutions, not a one-size-fits-all approach. Telehealth infrastructure is one opportunity to connect rural Idahoans with specialists without requiring hours of travel.
+
+    I would also support creating incentives and workforce opportunities for traveling doctors, nurses, and specialists to serve rural communities. Offering flexibility in scheduling, regional partnerships, and incentives for providers can help bring qualified professionals to areas that might otherwise struggle to recruit and retain them.
+
+    We should also look at strengthening existing rural clinics and healthcare facilities rather than assuming every community needs to build something new.
+
+    Progress should be measured by more than dollars spent. We need to look at provider availability, wait times, travel distances, appointment access, and patient outcomes.
+
+    At the end of the day, where someone lives shouldn’t determine whether they can access quality healthcare. We need to be creative, use available resources responsibly, and make sure rural Idahoans aren’t being left behind."  
