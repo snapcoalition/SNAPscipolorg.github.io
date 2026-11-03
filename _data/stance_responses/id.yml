@@ -215,3 +215,73 @@
     Progress should be measured by more than dollars spent. We need to look at provider availability, wait times, travel distances, appointment access, and patient outcomes.
 
     At the end of the day, where someone lives shouldn’t determine whether they can access quality healthcare. We need to be creative, use available resources responsibly, and make sure rural Idahoans aren’t being left behind."  
+
+- candidate_first_name: Pro-
+  candidate_last_name: Life
+  state: id
+  race: Governor
+  district:
+  party: Constitution
+  question: id-q1
+  date: 2026-11-03
+  primary_candidate: false
+  response: |
+    "Water rights are property rights and cannot be distributed by government decision making, be it, legislative, judicial, or executive. If you want more water rights, you must purchase them. Idaho citizens do not believe this, so we probably will have a renegotiation."
+
+    KEYWORDS: Water is property
+
+- candidate_first_name: Pro-
+  candidate_last_name: Life
+  state: id
+  race: Governor
+  district:
+  party: Constitution
+  question: id-q2
+  date: 2026-11-03
+  primary_candidate: false
+  response: |
+    "Idaho should never offer tax reduction to any development. Idaho Power should charge all costs of increased demand to the development whether it be data center, housing, commercial, or government."
+
+    KEYWORDS: Pay for usage
+
+- candidate_first_name: Pro-
+  candidate_last_name: Life
+  state: id
+  race: Governor
+  district:
+  party: Constitution
+  question: id-q3
+  date: 2026-11-03
+  primary_candidate: false
+  response: |
+    "Backfire strips of land should be developed prior to the fire season. Idaho should have prisoners and others clear brush in forest areas. Idaho should clean and protect the Federal lands and forests because the Feds are stupid. The Federal lands should be given to the states as the forgotten Constitution indicates."
+
+    KEYWORDS: Feds are stupid
+
+- candidate_first_name: Pro-
+  candidate_last_name: Life
+  state: id
+  race: Governor
+  district:
+  party: Constitution
+  question: id-q4
+  date: 2026-11-03
+  primary_candidate: false
+  response: |
+    "Government policy has been injurious and deadly regarding vaccines. Vaccines harm our immune systems. Let the people decide regarding vaccines and health in general."
+
+    KEYWORDS: Vaccines are harmful
+
+- candidate_first_name: Pro-
+  candidate_last_name: Life
+  state: id
+  race: Governor
+  district:
+  party: Constitution
+  question: id-q5
+  date: 2026-11-03
+  primary_candidate: false
+  response: |
+    "Health care should not be a government responsibility. Socialism is collective theft.  Socialized medicine will never be the right kind of medicine. If government pays for health care transportation, then the people will rely on, and then abuse the system."
+
+    KEYWORDS: Socialized medicine is wrong
