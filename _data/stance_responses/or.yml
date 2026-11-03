@@ -6,7 +6,7 @@
   race: US Senate # must match one of the options!
   district: # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Libertarian # must match one of the options!
-  question: or-Q1
+  question: or-q1
   date: 2026-09-05 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -20,7 +20,7 @@
   race: US Senate # must match one of the options!
   district: # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Libertarian # must match one of the options!
-  question: or-Q2
+  question: or-q2
   date: 2026-09-05 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -34,7 +34,7 @@
   race: US Senate # must match one of the options!
   district: # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Libertarian # must match one of the options!
-  question: or-Q3
+  question: or-q3
   date: 2026-09-05 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -48,7 +48,7 @@
   race: US Senate # must match one of the options!
   district: # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Libertarian # must match one of the options!
-  question: or-Q4
+  question: or-q4
   date: 2026-09-05 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -62,7 +62,7 @@
   race: US Senate # must match one of the options!
   district: # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Libertarian # must match one of the options!
-  question: or-Q5
+  question: or-q5
   date: 2026-09-05 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -125,7 +125,7 @@
   race: State Senate # must match one of the options!
   district: 42 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Libertarian # must match one of the options!
-  question: or-Q1
+  question: or-q1
   date: 2026-10-22 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -143,7 +143,7 @@
   race: State Senate # must match one of the options!
   district: 42 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Libertarian # must match one of the options!
-  question: or-Q2
+  question: or-q2
   date: 2026-10-22 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -161,7 +161,7 @@
   race: State Senate # must match one of the options!
   district: 42 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Libertarian # must match one of the options!
-  question: or-Q2
+  question: or-q2
   date: 2026-10-22 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -179,7 +179,7 @@
   race: State Senate # must match one of the options!
   district: 42 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Libertarian # must match one of the options!
-  question: or-Q3
+  question: or-q3
   date: 2026-10-22 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -207,7 +207,7 @@
   race: State Senate # must match one of the options!
   district: 42 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Libertarian # must match one of the options!
-  question: or-Q4
+  question: or-q4
   date: 2026-10-22 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -227,7 +227,7 @@
   race: State Senate # must match one of the options!
   district: 42 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Libertarian # must match one of the options!
-  question: or-Q5
+  question: or-q5
   date: 2026-10-22 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -247,7 +247,7 @@
   race: State Senate # must match one of the options!
   district: 17 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Republican # must match one of the options!
-  question: or-Q1
+  question: or-q1
   date: 2026-10-23 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -261,7 +261,7 @@
   race: State Senate # must match one of the options!
   district: 17 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Republican # must match one of the options!
-  question: or-Q2
+  question: or-q2
   date: 2026-10-23 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -275,7 +275,7 @@
   race: State Senate # must match one of the options!
   district: 17 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Republican # must match one of the options!
-  question: or-Q3
+  question: or-q3
   date: 2026-10-23 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -289,7 +289,7 @@
   race: State Senate # must match one of the options!
   district: 17 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Republican # must match one of the options!
-  question: or-Q4
+  question: or-q4
   date: 2026-10-23 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -303,7 +303,7 @@
   race: State Senate # must match one of the options!
   district: 17 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Republican # must match one of the options!
-  question: or-Q5
+  question: or-q5
   date: 2026-10-23 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -319,7 +319,7 @@
   race: State Senate # must match one of the options!
   district: 7 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Republican # must match one of the options!
-  question: or-Q1
+  question: or-q1
   date: 2026-10-24 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -333,7 +333,7 @@
   race: State Senate # must match one of the options!
   district: 7 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Republican # must match one of the options!
-  question: or-Q2
+  question: or-q2
   date: 2026-10-24 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -347,7 +347,7 @@
   race: State Senate # must match one of the options!
   district: 7 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Republican # must match one of the options!
-  question: or-Q3
+  question: or-q3
   date: 2026-10-24 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -361,7 +361,7 @@
   race: State Senate # must match one of the options!
   district: 7 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Republican # must match one of the options!
-  question: or-Q4
+  question: or-q4
   date: 2026-10-24 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -375,7 +375,7 @@
   race: State Senate # must match one of the options!
   district: 7 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Republican # must match one of the options!
-  question: or-Q5
+  question: or-q5
   date: 2026-10-24 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -391,7 +391,7 @@
   race: State Senate # must match one of the options!
   district: 33 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Republican # must match one of the options!
-  question: or-Q1
+  question: or-q1
   date: 2026-10-23 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -416,7 +416,7 @@
   race: State Senate # must match one of the options!
   district: 33 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Republican # must match one of the options!
-  question: or-Q2
+  question: or-q2
   date: 2026-10-23 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -440,7 +440,7 @@
   race: State Senate # must match one of the options!
   district: 33 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Republican # must match one of the options!
-  question: or-Q3
+  question: or-q3
   date: 2026-10-23 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -466,7 +466,7 @@
   race: State Senate # must match one of the options!
   district: 33 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Republican # must match one of the options!
-  question: or-Q4
+  question: or-q4
   date: 2026-10-23 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -494,7 +494,7 @@
   race: State Senate # must match one of the options!
   district: 33 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Republican # must match one of the options!
-  question: or-Q5
+  question: or-q5
   date: 2026-10-23 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -523,7 +523,7 @@
   race: US House of Representatives # must match one of the options!
   district: 6 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Republican # must match one of the options!
-  question: or-Q1
+  question: or-q1
   date: 2026-10-23 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -537,7 +537,7 @@
   race: US House of Representatives # must match one of the options!
   district: 6 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Republican # must match one of the options!
-  question: or-Q2
+  question: or-q2
   date: 2026-10-23 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -563,7 +563,7 @@
   race: US House of Representatives # must match one of the options!
   district: 6 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Republican # must match one of the options!
-  question: or-Q3
+  question: or-q3
   date: 2026-10-23 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -580,7 +580,7 @@
   race: US House of Representatives # must match one of the options!
   district: 6 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Republican # must match one of the options!
-  question: or-Q4
+  question: or-q4
   date: 2026-10-23 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -596,7 +596,7 @@
   race: US House of Representatives # must match one of the options!
   district: 6 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Republican # must match one of the options!
-  question: or-Q5
+  question: or-q5
   date: 2026-10-23 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -613,7 +613,7 @@
   race: State House of Representatives # must match one of the options!
   district: 57 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Pacific Green # must match one of the options!
-  question: or-Q1
+  question: or-q1
   date: 2026-10-23 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -627,7 +627,7 @@
   race: State House of Representatives # must match one of the options!
   district: 57 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Pacific Green # must match one of the options!
-  question: or-Q2
+  question: or-q2
   date: 2026-10-23 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -641,7 +641,7 @@
   race: State House of Representatives # must match one of the options!
   district: 57 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Pacific Green # must match one of the options!
-  question: or-Q3
+  question: or-q3
   date: 2026-10-23 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -655,7 +655,7 @@
   race: State House of Representatives # must match one of the options!
   district: 57 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Pacific Green # must match one of the options!
-  question: or-Q4
+  question: or-q4
   date: 2026-10-23 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -669,7 +669,7 @@
   race: State House of Representatives # must match one of the options!
   district: 57 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Pacific Green # must match one of the options!
-  question: or-Q5
+  question: or-q5
   date: 2026-10-23 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -683,7 +683,7 @@
   race: State House of Representatives # must match one of the options!
   district: 18 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Independent # must match one of the options!
-  question: or-Q1
+  question: or-q1
   date: 2026-10-23 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -700,7 +700,7 @@
   race: State House of Representatives # must match one of the options!
   district: 18 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Independent # must match one of the options!
-  question: or-Q2
+  question: or-q2
   date: 2026-10-23 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -716,7 +716,7 @@
   race: State House of Representatives # must match one of the options!
   district: 18 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Independent # must match one of the options!
-  question: or-Q3
+  question: or-q3
   date: 2026-10-23 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -732,7 +732,7 @@
   race: State House of Representatives # must match one of the options!
   district: 18 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Independent # must match one of the options!
-  question: or-Q4
+  question: or-q4
   date: 2026-10-23 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
@@ -749,7 +749,7 @@
   race: State House of Representatives # must match one of the options!
   district: 18 # string, e.g. 14 or 14A; feel free to remove if not applicable
   party: Independent # must match one of the options!
-  question: or-Q5
+  question: or-q5
   date: 2026-10-23 # optional
   county_race: # feel free to remove if not applicable
   primary_candidate: false # optional, default false; true = ran in the primary but did not advance. Must be the same on every row for a given candidate
