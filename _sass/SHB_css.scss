@@ -195,6 +195,35 @@ blockquote {
   }
 }
 
+// About page graphics (_pages/about.md), reusing the Stance "Meet the Team"
+// scroll strip and lightbox. The two cards split the content width exactly
+// (minus the track gap), and each image's height follows from its width, so the
+// pair always spans the full column at any screen or container size.
+.about-graphics.stance-team {
+  $about-gap: 16px;
+  margin: 24px 0 8px;
+
+  .stance-team__scroll { padding-bottom: 0; }
+  .stance-team__track { gap: $about-gap; }
+
+  .stance-team__card {
+    flex: 0 0 calc((100% - #{$about-gap}) / 2);
+    height: auto;
+    background: transparent;
+  }
+
+  .stance-team__img {
+    width: 100%;
+    height: auto;
+  }
+
+  // Phones: stack the graphics one per row at full width so the text stays legible.
+  @media (max-width: 600px) {
+    .stance-team__track { flex-direction: column; }
+    .stance-team__card { flex-basis: auto; width: 100%; }
+  }
+}
+
 // Home page statement box (_includes/home_statement.html). The graphics reuse
 // the Stance "Meet the Team" strip (.stance-team), resized to fit the box.
 .home-statement__graphics.stance-team {

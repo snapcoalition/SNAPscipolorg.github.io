@@ -15,6 +15,31 @@ Scientist Network for Advancing Policy (SNAP) was conceptualized in early 2025 a
 
 We are a coalition of early-career scientists dedicated to mobilizing for large-scale initiatives and bridging gaps between scientists, their communities, and the general public. Our mission is to inspire and engage fellow scientists by establishing a peer network, developing and sharing resources, and instigating meaningful change.
 
+<section class="stance-team about-graphics" aria-label="About SNAP graphics" markdown="0">
+  <div class="stance-team__scroll">
+    <ul class="stance-team__track">
+      <li class="stance-team__card">
+        <img class="stance-team__img" loading="lazy"
+             src="{{ site.url }}{{ site.baseurl }}/images/about/who-we-are.jpg"
+             alt="Who we are: a grassroots, non-partisan coalition of early-career scientists dedicated to closing the gap between the scientific community and the policies that shape our world. Our vision: a nationally represented, nonpartisan grassroots coalition of early-career scientists, recognized as a trusted, independent voice in science policy. Our mission: to inspire and engage fellow scientists by establishing a peer network, developing and sharing resources, and instigating meaningful change.">
+      </li>
+      <li class="stance-team__card">
+        <img class="stance-team__img" loading="lazy"
+             src="{{ site.url }}{{ site.baseurl }}/images/about/our-pillars.jpg"
+             alt="Our pillars: Community and Network; Advocacy and Policy Education; Outreach and Communication; Organizational Sustainability and Equity.">
+      </li>
+    </ul>
+  </div>
+
+  <div class="stance-team__lightbox" role="dialog" aria-modal="true" aria-label="Graphic viewer" hidden>
+    <button type="button" class="stance-team__lb-btn stance-team__lb-close" aria-label="Close">&times;</button>
+    <button type="button" class="stance-team__lb-btn stance-team__lb-prev" aria-label="Previous graphic">&#8249;</button>
+    <img class="stance-team__lb-img" alt="">
+    <button type="button" class="stance-team__lb-btn stance-team__lb-next" aria-label="Next graphic">&#8250;</button>
+  </div>
+</section>
+<script src="{{ '/assets/javascript/stance-team-lightbox.js' | relative_url }}"></script>
+
 ## SNAPper research
 {: .h3 .mt-4 .mb-3 }
 
