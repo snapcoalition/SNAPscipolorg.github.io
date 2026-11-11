@@ -15,14 +15,17 @@
   <ul>
     {% assign found = 0 %}
     {% for article in site.data.press %}
-      {%- assign press_cat = article.category | downcase -%}
       {%- assign press_match = false -%}
-      {%- if include.state -%}
-        {%- if press_cat == press_target -%}{%- assign press_match = true -%}{%- endif -%}
-      {%- else -%}
-        {%- assign press_prefix = press_cat | slice: 0, 17 -%}
-        {%- if press_prefix == "stance on science" -%}{%- assign press_match = true -%}{%- endif -%}
-      {%- endif -%}
+      {%- comment -%} category may be a single string or a list; check each item {%- endcomment -%}
+      {%- for press_item in article.category -%}
+        {%- assign press_cat = press_item | downcase -%}
+        {%- if include.state -%}
+          {%- if press_cat == press_target -%}{%- assign press_match = true -%}{%- endif -%}
+        {%- else -%}
+          {%- assign press_prefix = press_cat | slice: 0, 17 -%}
+          {%- if press_prefix == "stance on science" -%}{%- assign press_match = true -%}{%- endif -%}
+        {%- endif -%}
+      {%- endfor -%}
       {%- if press_match -%}
         <li>
           <p><b>{{ article.date | date: '%b %d, %Y' }}:
