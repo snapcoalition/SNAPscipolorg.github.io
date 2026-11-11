@@ -6,6 +6,7 @@ collection: initiatives
 category: upcoming
 date: 2025-08-16
 permalink: /initiatives/scipol-hackathon
+press_category: "SciPol Hackathon"
 ---
 
 <h2>Science Policy Hackathon</h2>
@@ -19,7 +20,7 @@ permalink: /initiatives/scipol-hackathon
   <ul>
     {% assign found = 0 %}
     {% for article in site.data.press %}
-      {% if article.category contains 'SciPol Hackathon' %}
+      {% if article.category contains page.press_category %}
         <li>
           <p><b>{{ article.date | date: '%b %d, %Y' }}:
         <a href="{{ article.website }}">{{ article.headline }}</a> in <i>{{ article.source }}</i></b></p>

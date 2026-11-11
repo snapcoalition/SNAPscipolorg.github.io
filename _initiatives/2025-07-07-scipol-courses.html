@@ -6,6 +6,7 @@ collection: initiatives
 category: current
 date: 2025-07-07
 permalink: /initiatives/scipol-courses
+press_category: "SciPol Courses"
 ---
 
 <h2>SciPol 101 Course</h2>
@@ -133,7 +134,7 @@ permalink: /initiatives/scipol-courses
   <ul>
     {% assign found = 0 %}
     {% for article in site.data.press %}
-      {% if article.category contains 'SciPol Courses' %}
+      {% if article.category contains page.press_category %}
         <li>
           <p><b>{{ article.date | date: '%b %d, %Y' }}:
         <a href="{{ article.website }}" target="_blank" rel="noopener">{{ article.headline }}</a> in <i>{{ article.source }}</i></b></p>

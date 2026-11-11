@@ -44,11 +44,11 @@ site. Press Ctrl+C to stop the server.
 ### Adding a press mention
 
 1. Create a new item in `_data/press.yml`. Note that we list press mentions in descending order by publication date (`date`).
-2. Optionally, set the `category` attribute to link the press mention to a particular initiative. This will make the press mention show up at the bottom of that initiative's page. To see what string should be listed to link it to the appropriate initiative, check the `.html` file for that initiative in `_initiatives/` and towards the bottom look for a line like `{% if article.category contains 'Congressional Visits' %}` which is the logic that loops through categories to determine which related press mentions to show. Note that you can link a press mention to multiple initiatives by itemizing them, e.g.,
+2. Optionally, set the `category` attribute to link the press mention to a particular initiative. This will make the press mention show up at the bottom of that initiative's page. The value must exactly match the `press_category` attribute in the front matter (header) of that initiative's `.html` file in `_initiatives/`, e.g., `press_category: "Congressional Visits 2026"`. Note that you can link a press mention to multiple initiatives by itemizing them, e.g.,
   ```
   category:
     - Congressional Visits
-    - McClinktock Letters
+    - McClintock Letters
   ```
 
 ### Mirroring the newsletter

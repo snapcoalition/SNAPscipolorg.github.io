@@ -6,6 +6,7 @@ collection: initiatives
 category: past
 date: 2025-04-15
 permalink: /initiatives/mcclintock-letters/
+press_category: "McClintock Letters"
 ---
 
 <!-- These two divs give you a similar look to the home page so you can make your own sidebar -->
@@ -48,7 +49,7 @@ permalink: /initiatives/mcclintock-letters/
     <ul>
       {% assign found = 0 %}
       {% for article in site.data.press %}
-        {% if article.category contains 'McClintock Letters' %}
+        {% if article.category contains page.press_category %}
           <li>
             <p><b>{{ article.date | date: '%b %d, %Y' }}:
           <a href="{{ article.website }}">{{ article.headline }}</a> in <i>{{ article.source }}</i></b></p>
