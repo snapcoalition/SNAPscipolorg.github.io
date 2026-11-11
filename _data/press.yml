@@ -8,7 +8,9 @@
   source: Forbes
   date: 2026-10-29
   website: https://www.forbes.com/sites/johndrake/2026/10/29/who-should-decide-what-science-gets-funded-young-scientists-are-organizing/
-  category: 'Stance on Science'
+  category: 
+    - Stance on Science
+    - Congressional Visits
 
 - headline: Science shapes Michigan policy. Voters deserve to know candidates’ views.
   source: Michigan Advance
