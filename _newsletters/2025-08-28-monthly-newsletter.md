@@ -12,7 +12,7 @@ Moving forward, our monthly newsletter will be sent via a [Google Group Listserv
 
 #SNAP-Visits
 
-SNAP’s [Congressional District Visits](https://snapcoalition.org/initiatives/district-visits/) are in full swing! Early-career scientists from at least 25 states are speaking to lawmakers to advocate for federal science funding. Equipped with personalized one-pagers and their own science stories, these constituents are sending a message: The next generation of scientific researchers wants our lawmakers to sustain public science funding!
+SNAP’s [Congressional District Visits](https://snapcoalition.org/initiatives/district-visits-2025/) are in full swing! Early-career scientists from at least 25 states are speaking to lawmakers to advocate for federal science funding. Equipped with personalized one-pagers and their own science stories, these constituents are sending a message: The next generation of scientific researchers wants our lawmakers to sustain public science funding!
 
 #SciPol-Hackathon
 

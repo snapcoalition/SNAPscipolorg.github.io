@@ -68,7 +68,7 @@ Additionally, be on the lookout for the SNAP Substack coming in January 2026!
 Did you write a letter? Thanks to a new partnership between The McClintock Letters and [SciTech Forefront](https://medium.com/scitech-forefront), you can now (re)publish your letters on the Forefront platform to increase their visibility, accessibility, and impact. We understand the publication process was difficult for many, so here's a chance to get your letter out there if you haven't already, or to publish it again! Email us for more information. 
 
 #### SNAP Visits
-As we evaluate the impacts of the [Congressional District Visits](https://snapcoalition.org/initiatives/district-visits/), one thing is clear: scientists show up for their science! Through this initiative, early-career scientists across 29 states met with over 55 Congressional offices this August and September, sharing stories about their science and the value of research.
+As we evaluate the impacts of the [Congressional District Visits](https://snapcoalition.org/initiatives/district-visits-2025/), one thing is clear: scientists show up for their science! Through this initiative, early-career scientists across 29 states met with over 55 Congressional offices this August and September, sharing stories about their science and the value of research.
 
 - Are you one of the scientists who participated? Don't forget to fill out the reflection survey found [here](https://forms.gle/wAsQYFHXQhjGX1FV6)!
 - Want to know more about the initiative? Check out a recent article on the SNAP visits in Forbes found below in Highlights and Achievements!

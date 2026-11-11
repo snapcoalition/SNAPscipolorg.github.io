@@ -22,7 +22,7 @@ To further continue this work, we will be organizing training sessions and encou
 
 #### Congressional District Visits: One Year Later
 
-Building on the success of the [SNAP Congressional District Visits initiative](https://snapcoalition.org/initiatives/district-visits/) that took place during the 2025 August recess, there will be a campaign of local district visits with Representatives organized during the 2026 August recess. Be on the lookout for more information coming soon!
+Building on the success of the [SNAP Congressional District Visits initiative](https://snapcoalition.org/initiatives/district-visits-2025/) that took place during the 2025 August recess, there will be a campaign of local district visits with Representatives organized during the 2026 August recess. Be on the lookout for more information coming soon!
 
 #### SNAPStart: Mini-Grant Program for New SciPol Orgs
 

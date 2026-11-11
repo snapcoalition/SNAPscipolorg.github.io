@@ -6,7 +6,7 @@ collection: newsletters
 category: 
 ---
 
-*TLDR:  Please join our [virtual panel discussion](https://us06web.zoom.us/meeting/register/4Sdlt9DwQ6e3V8osDuR2RQ) on September 23rd on the intersections of science and law! Need money? Check out [SNAPStart](https://snapcoalition.org/initiatives/snapstart), the new SciPol student org mini-grant program! Want more events? See our [community calendar](https://snapcoalition.org/calendar/). Looking to volunteer? [Join Stance on Science](https://snapcoalition.org/initiatives/stance-on-science)! Wondering what local congressional science advocacy can look like? Follow our [2026 Congressional District Visits](https://snapcoalition.org/initiatives/district-visits/). Readers, [follow our Medium blog](https://medium.com/science-policy-in-a-snap) for the latest articles by SNAPpers; learners, stay tuned for an upcoming modular science policy course developed by SNAP!*
+*TLDR:  Please join our [virtual panel discussion](https://us06web.zoom.us/meeting/register/4Sdlt9DwQ6e3V8osDuR2RQ) on September 23rd on the intersections of science and law! Need money? Check out [SNAPStart](https://snapcoalition.org/initiatives/snapstart), the new SciPol student org mini-grant program! Want more events? See our [community calendar](https://snapcoalition.org/calendar/). Looking to volunteer? [Join Stance on Science](https://snapcoalition.org/initiatives/stance-on-science)! Wondering what local congressional science advocacy can look like? Follow our [2026 Congressional District Visits](https://snapcoalition.org/initiatives/district-visits-2026/). Readers, [follow our Medium blog](https://medium.com/science-policy-in-a-snap) for the latest articles by SNAPpers; learners, stay tuned for an upcoming modular science policy course developed by SNAP!*
 
 #### FREE VIRTUAL PANEL DISCUSSION on the Intersection of Science & Law on September 23rd at 5:00 pm ET!
 
@@ -14,7 +14,7 @@ More details coming soon, but you can register [here](https://us06web.zoom.us/me
 
 #### 2026 SNAP Congressional District Visits
 
-Building on the success of the SNAP Congressional District Visits initiative that took place during the [2025 August recess](https://snapcoalition.org/initiatives/district-visits-2025/), SNAP is [organizing a 2026 round](https://snapcoalition.org/initiatives/district-visits/) of congressional district visits! This year, visits are particularly **focused on the proposed [OMB](https://www.whitehouse.gov/omb/) (Office of Management and Budget) federal financial assistance rule** ([Docket OMB-2026-0034](https://www.regulations.gov/docket/OMB-2026-0034)) and its potential negative impacts on scientific researchers and the public.
+Building on the success of the SNAP Congressional District Visits initiative that took place during the [2025 August recess](https://snapcoalition.org/initiatives/district-visits-2025/), SNAP is [organizing a 2026 round](https://snapcoalition.org/initiatives/district-visits-2026/) of congressional district visits! This year, visits are particularly **focused on the proposed [OMB](https://www.whitehouse.gov/omb/) (Office of Management and Budget) federal financial assistance rule** ([Docket OMB-2026-0034](https://www.regulations.gov/docket/OMB-2026-0034)) and its potential negative impacts on scientific researchers and the public.
 
 #### SNAPStart: Mini-Grant Program for New SciPol Orgs
 

@@ -1,11 +1,12 @@
 ---
 layout: gridlay
-title: "Congressional District Visits"
+title: "2026 Congressional District Visits"
 excerpt: "Join SNAP's August 2026 congressional district visits!"
 collection: initiatives
 category: current
 date: 2026-08-06
-permalink: /initiatives/district-visits/
+permalink: /initiatives/district-visits-2026/
+press_category: "Congressional Visits 2026"
 ---
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/2026-district-visit.png" width="100%">
@@ -119,7 +120,7 @@ permalink: /initiatives/district-visits/
   <ul>
     {% assign found = 0 %}
     {% for article in site.data.press %}
-      {% if article.category contains 'Congressional Visits 2026' %}
+      {% if article.category contains page.press_category %}
         <li>
           <p><b>{{ article.date | date: '%b %d, %Y' }}:
         <a href="{{ article.website }}">{{ article.headline }}</a> in <i>{{ article.source }}</i></b></p>
