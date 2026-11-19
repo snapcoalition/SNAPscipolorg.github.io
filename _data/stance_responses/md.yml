@@ -2354,3 +2354,80 @@
   date: 2026-10-26
   response: |
     "If it makes sense and has a future I would support it."
+
+- candidate_first_name: Jim
+  candidate_last_name: Simpson
+  state: md
+  race: State Senate
+  district: 11
+  party: Republican
+  question: md-q1
+  date: 2026-10-27
+  response: |
+    "Reopen Maryland to the vast natural gas resources at our disposal"
+
+- candidate_first_name: Jim
+  candidate_last_name: Simpson
+  state: md
+  race: State Senate
+  district: 11
+  party: Republican
+  question: md-q2
+  date: 2026-10-27
+  response: |
+    "Get the state government and the tangle of regulations out of the way that stifle free enterprise"
+
+- candidate_first_name: Jim
+  candidate_last_name: Simpson
+  state: md
+  race: State Senate
+  district: 11
+  party: Republican
+  question: md-q3
+  date: 2026-10-27
+  response: |
+    "Remove sanctuary state policies and enable ICE and local law enforcement to remove the illegal alien population that overstresses all aspects of the state and especially impacts communities of color"
+
+- candidate_first_name: Jim
+  candidate_last_name: Simpson
+  state: md
+  race: State Senate
+  district: 11
+  party: Republican
+  question: md-q4
+  date: 2026-10-27
+  response: |
+    "Get rid of expensive Kirwan Commission recommendations and improve competition public schools face from private, homeschooling and charter school options by diverting public monies to support same."
+
+- candidate_first_name: Jim
+  candidate_last_name: Simpson
+  state: md
+  race: State Senate
+  district: 11
+  party: Republican
+  question: md-q5
+  date: 2026-10-27
+  response: |
+    "The Democrats have never been serious about improving the quality of Chesapeake Bay water. That can be done in many ways, but a first task would be to dredge the Conowingo Dam. I would fight against the growing use of open space preserves for solar energy and seek to maintain the viability of our public parks."
+
+- candidate_first_name: Jim
+  candidate_last_name: Simpson
+  state: md
+  race: State Senate
+  district: 11
+  party: Republican
+  question: md-q6
+  date: 2026-10-27
+  response: |
+    "I will support any scientific findings that are actually based on accurate evidence. Many are politically driven today."
+
+- candidate_first_name: Jim
+  candidate_last_name: Simpson
+  state: md
+  race: State Senate
+  district: 11
+  party: Republican
+  question: md-q7
+  date: 2026-10-27
+  response: |
+    "Once again, I will support science funding that actually reflects the facts, for example removing ridiculous "scientific" assertions that we face a global warming crisis"
